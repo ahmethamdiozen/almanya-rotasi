@@ -1,0 +1,191 @@
+{
+"id": "ch3_get_visa",
+"title": "Vize Al",
+"description": "Kabul işin ilk yarısıydı. Vize ikinci yarısı. Finansmanınızı kanıtlayın, sigortanızı yaptırın ve büyükelçilik görüşmesini başarıyla geçin.",
+"tasks": {
+"get-biometric-photos": {
+"title": "Biyometrik fotoğraf çektir",
+"intro": "Biyometrik fotoğraflar, ICAO uluslararası standardını karşılayan pasaport tipi fotoğraflardır. Vize başvurusu için 2 fotoğrafa, ayrıca daha sonra oturum izniniz için ek fotoğraflara ihtiyacınız var. Ülkenizdeki herhangi bir fotoğraf stüdyosu bunları çekebilir. 35 x 45 milimetre biyometrik fotoğraf isteyin.",
+"overview": {
+"time": "Bir fotoğraf stüdyosunda 30 dakika",
+"cost": "Ülkenizdeki fotoğraf stüdyosu belirler. Küçük, tek seferlik bir masraf planlayın.",
+"process": "Bir fotoğraf stüdyosuna gidin. Almanya için biyometrik fotoğraf isteyin. Çıkmadan önce boyutun tam olarak 35 x 45 milimetre olduğunu kontrol edin.",
+"why": "Biyometrik fotoğraflara vize başvurusu için ve varıştan sonra oturum izniniz için yeniden ihtiyacınız olur. Büyükelçilik ICAO (Uluslararası Sivil Havacılık Örgütü) standartlarını karşılamayan fotoğrafları reddeder."
+},
+"steps": [
+["Bir fotoğraf stüdyosu bulun", "Biyometrik fotoğraf çeken herhangi bir stüdyo işinizi görür. Genel fotoğraf uygulamalarından ve süpermarket kabinlerinden kaçının. Bunlar çoğu zaman ICAO (Uluslararası Sivil Havacılık Örgütü) standardını karşılamaz."],
+["Vesikalık değil, biyometrik isteyin", "Stüdyoya Almanya için biyometrik fotoğraf gerektiğini söyleyin. Eski pasaport fotoğrafları işe yaramaz. ICAO fotoğrafları nötr yüz ifadesi, kapalı ağız, beyaz arka plan ve belirli bir kadraj gerektirir."],
+["Çıkmadan önce boyutu kontrol edin", "Baskının tam olarak 35 x 45 milimetre olduğunu teyit edin. Baş kadrajın yüzde 70 ila 80'ini kaplamalıdır. Yanlış boyut, fotoğrafların reddedilmesinin en yaygın nedenidir."],
+["4 ila 6 kopya bastırın", "Vize için 2, oturum izni için 1 ila 2 ve Almanya'daki ulaşım kartları, spor salonu üyelikleri ve diğer formlar için ek kopyalara ihtiyacınız olur. Bunları yeniden kullanmak sizi bir stüdyo ziyaretinden daha kurtarır."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Her Alman vizesi ve oturum izni biyometrik fotoğraf gerektirir. Hem büyükelçilik hem de yabancılar dairesi ICAO standardını karşılamayan fotoğrafları reddeder."],
+["Bir fotoğrafı ICAO uyumlu yapan nedir? Pasaport fotoğrafı kullanabilir miyim?", "ICAO fotoğrafları nötr yüz ifadesi, kapalı ağız, beyaz arka plan ve kadrajın yüzde 70 ila 80'ini kaplayan bir baş gerektirir. Standart pasaport fotoğrafları çoğu zaman boyut veya kadraj nedeniyle uygun olmaz. Stüdyodan biyometrik isteyin."],
+["Önümüzdeki tüm başvurular için kaç kopya bastırmalıyım?", "4 ila 6 kopya bastırın. Vize için 2, oturum izni için 1 ila 2 ve ulaşım kartları, spor salonu üyelikleri ve diğer formlar için ek kopyalara ihtiyacınız olur."],
+["Her fotoğraf stüdyosu bunu yapar mı, yoksa uzman mı gerekir?", "Biyometrik fotoğraf çeken her stüdyo bunu yapabilir. Genel fotoğraf uygulamalarından kaçının. Nadiren ICAO standardını karşılarlar. Stüdyodan çıkmadan önce boyutu teyit edin."]
+]
+},
+"get-travel-insurance": {
+"title": "Seyahat sağlık sigortası yaptır",
+"intro": "Seyahat sağlık sigortası, vize süresi boyunca tıbbi masraflarınızı karşılayan kısa süreli bir poliçedir. Büyükelçilik vizenizi onaylamadan önce teminat kanıtı ister. Ayrıca Almanya'ya varışınız ile Almanya'daki yasal sağlık sigortanızın başlaması arasındaki boşluğu doldurur.",
+"overview": {
+"time": "10 ila 15 dakikada çevrimiçi satın alın",
+"cost": "Ücretler sağlayıcıya ve süreye göre değişir. Güncel fiyatları sağlayıcınızdan kontrol edin.",
+"process": "Seyahat sağlık sigortasını çevrimiçi satın alın. Tarihlerinizi ve bilgilerinizi girin. Ödeyin. Vize başvurunuzla göndermek için sertifikayı indirin.",
+"why": "Büyükelçilik seyahat sağlık sigortası kanıtı olmadan size vize görüşmesi vermez. Bu sigorta ayrıca Almanya'ya indiğiniz gün ile Almanya'daki yasal sigortanızın başlaması arasındaki dönemi de karşılar."
+},
+"steps": [
+["Büyükelçiliğin asgari şartını kontrol edin", "Teminat en az 30.000 EUR tıbbi masraf olmalı, tüm Schengen ülkelerinde geçerli olmalı ve yüksek bir muafiyet tutarı içermemelidir. Poliçe varış tarihinizde başlamalı ve tüm vize süresini kapsamalıdır."],
+["Bir sağlayıcı seçin", "Büyükelçiliğin kabul ettiği herhangi bir seyahat sağlık sigortacısını kullanın. Bazı sağlayıcılar (ör. Expatrio'nun Value Package paketi) seyahat sigortasını bloke hesap, sağlık sigortası ve ücretsiz bir Alman banka hesabıyla birlikte paket olarak sunar."],
+["Çevrimiçi satın alın ve ödeyin", "Seyahat tarihlerinizi ve pasaport bilgilerinizi girin, ödeyin. Poliçelerin çoğu 10 ila 15 dakikada düzenlenir. Başlangıç tarihini Almanya'ya vardığınız gün olarak ayarlayın."],
+["Sertifikayı indirin", "Poliçe sertifikasını PDF olarak kaydedin. Büyükelçilik bunu vize başvurunuzla birlikte ister. Görüşme dosyası için bir kopya yazdırın ve telefonunuzda dijital bir kopya saklayın."],
+["Yasal sigorta başlayınca iptal edin", "Seyahat sağlık sigortası, iniş ile Almanya'daki yasal sigortanın başlaması arasındaki boşluğu kapatır. Bu boşluk genellikle 1 ila 4 haftadır. Almanya'daki sigortanız aktif olunca seyahat poliçesini iptal edin."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Vize görüşmesi ve Almanya'daki ilk haftalarınız için sağlık sigortasına ihtiyacınız var. Bu olmadan büyükelçilik başvurunuzu onaylamaz."],
+["Büyükelçilik gerçekte hangi asgari teminatı istiyor?", "En az 30.000 EUR tıbbi teminat, tüm Schengen ülkelerinde geçerli ve yüksek bir muafiyet tutarı olmadan. Poliçe varış tarihinizde başlamalı ve tüm vize süresini kapsamalıdır."],
+["Expatrio Value Package'a seyahat sigortası dahil mi?", "Evet. Expatrio Value Package seyahat sağlık sigortasını bloke hesap, sağlık sigortası ve ücretsiz bir Alman banka hesabıyla birlikte sunar. Bu paketi seçerseniz ayrıca seyahat poliçesi almanız gerekmez."],
+["Bu sigorta Almanya'daki yasal sigorta başlamadan önceki boşluğu da karşılar mı?", "Evet. Seyahat sağlık sigortası indiğiniz günden Almanya'daki sağlık sigortanız başlayana kadar sizi korur. Bu boşluk genellikle 1 ila 4 haftadır."]
+]
+},
+"open-blocked-account": {
+"title": "Bloke hesap aç",
+"intro": "Bloke hesap (Sperrkonto), büyükelçiliğin öğrenci vizeniz için görmek istediği parayı tutar. Gereken tutarı vize görüşmesinden önce aktarırsınız. Banka Almanya'ya vardıktan sonra paranızı aylık tutarlar halinde serbest bırakır.",
+"overview": {
+"time": "Hesabı açıp para yatırmak 1 ila 3 hafta",
+"cost": "Sağlayıcı ücretleri uygulanır. Güncel fiyatları sağlayıcının sitesinden kontrol edin.",
+"process": "Büyükelçiliğin kabul ettiği bir sağlayıcıda (ör. Expatrio) çevrimiçi bloke hesap açın. Uluslararası havale gecikmelerine pay bırakmak için gereken tutarı vize görüşmenizden en az 2 hafta önce aktarın. Onay mektubunu bekleyin, ardından vize dosyanıza ekleyin.",
+"why": "Öğrenci vizeniz bir yıllık yaşam masrafını karşılayabileceğinizin kanıtını gerektirir. Almanya'daki bir bloke hesap bunu göstermenin standart yoludur. Bu olmadan büyükelçilik vizenizi onaylamaz."
+},
+"steps": [
+["Bir bloke hesap sağlayıcısı seçin", "Büyükelçiliğin kabul ettiği bir sağlayıcı seçin ve hesap oluşturun (ör. Expatrio, expatrio.com; sağlayıcıya göre tüm Alman büyükelçiliklerince kabul edilir). Bazı sağlayıcılar bloke hesabı sağlık sigortası, seyahat sigortası ve ücretsiz bir banka hesabıyla paket olarak sunar; bu durumda tek kayıt dördünü de kapsar."],
+["Çevrimiçi başvurun", "Başvuruyu pasaportunuz, adresiniz ve vize türünüzle (öğrenci) doldurun. Görüntülü kimlik doğrulaması bekleyin. Hesapların çoğu 1 ila 3 gün içinde onaylanır."],
+["11.904 EUR'yu görüşmenizden en az 2 hafta önce aktarın", "11.904 EUR'nun tamamını uluslararası banka havalesiyle gönderin. Daha az aktarmayın; tutar bir euro bile eksik olursa büyükelçilik vizenizi reddeder. Havalenin ulaşması ve onayın oluşturulması için vize görüşmenizden en az 2 hafta önce aktarın. Uluslararası havaleler 1 ila 5 iş günü sürer; bazı bankalar daha uzun sürer."],
+["Onay mektubunu bekleyin", "Tutarın tamamı hesaba geçtiğinde sağlayıcı onay belgesini (Expatrio'da: belge 06 - Blocked Amount Confirmation) otomatik olarak oluşturur. Sağlayıcının portalından indirin ve bir kopya yazdırın. Büyükelçilik vize görüşmenizde bu mektubu ister."],
+["Vize dosyanız için saklayın", "Onayı PDF olarak indirin ve bir kopya yazdırın. Diğer vize belgelerinizle birlikte saklayın. Büyükelçilik görüşmesinde görevliye teslim edersiniz."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Öğrenci vizeniz Almanya'da bir yılı finanse edebileceğinizin kanıtını gerektirir. Bloke hesap, büyükelçiliğin bunu kontrol etme yoludur. Bu olmadan vize alamazsınız."],
+["Hangi sağlayıcıyı kullanmalıyım?", "Büyükelçiliğin kabul ettiği herhangi bir sağlayıcıyı kullanabilirsiniz. Kaynak içerik Expatrio'yu öneriyor: Value Package paketi bloke hesabı sağlık sigortası, seyahat sigortası ve ücretsiz bir banka hesabıyla birleştirir ve dördü tek kayıtla halledilir; yalnızca bloke hesap da sunulur. Sağlayıcının beyanına göre Expatrio tüm Alman büyükelçiliklerince kabul edilir. Karar vermeden önce sağlayıcıların ücretlerini ve koşullarını karşılaştırın."],
+["Hesaba para yatırdıktan sonra vizem reddedilirse ne olur?", "Sağlayıcınızdan iade talep edebilirsiniz. Her sağlayıcının kendi iade politikası ve işlem süresi vardır. Hesaba para yatırmadan önce sağlayıcının koşullarını kontrol edin."],
+["Gereken tutardan fazla yatırırsam ne olur?", "Her sağlayıcı fazla yatırılan parayı farklı şekilde ele alır. Bazıları fazlayı sonradan serbest bırakır, bazıları hesap kapanışında geri almanızı ister. Havale yapmadan önce kuralları sağlayıcınızla kontrol edin."]
+]
+},
+"book-embassy-appointment": {
+"title": "Büyükelçilik randevusu al",
+"intro": "Öğrenci vizenize başvurmak için bir randevu ayırtırsınız. Çoğu ülkede başvurular artık Alman Konsolosluk Hizmetleri Portalı (digital.diplo.de) üzerinden yapılıyor. Dosyanızı hazırlamadan önce portaldaki veya yerel büyükelçilik web sitesindeki belge şartları listesini kontrol edin. Bekleme süreleri ülkeye göre büyük ölçüde değişir; Hindistan, Nijerya ve Pakistan'da sürecin tamamı çoğu zaman 3 ila 6 ay sürer. Mümkün olduğunca erken randevu alın.",
+"overview": {
+"time": "Randevu almak 30 dakika sürer. Randevunun kendisi için bekleme süresi ülkeye göre birkaç haftadan birkaç aya kadar büyük ölçüde değişir.",
+"cost": "Randevu almak ücretsizdir. 75 EUR vize ücreti randevuda ödenir.",
+"process": "Ocak 2025'ten beri tüm Alman büyükelçilikleri için birleşik ulusal portal olan Alman Konsolosluk Hizmetleri Portalı (digital.diplo.de) üzerinden başvurun. Önce belge şartları listesini kontrol edin, ardından başvurunuzu gönderin ve yüz yüze biyometrik randevunuzu alın.",
+"why": "Uyruğunuz Almanya'ya girmek için vize gerektiriyor. Büyükelçilik veya konsoloslukta ayırtılmış bir randevu olmadan başvuramazsınız."
+},
+"steps": [
+["Önce belge şartlarını kontrol edin", "Herhangi bir şey hazırlamadan önce digital.diplo.de'deki Konsolosluk Hizmetleri Portalı'nı veya yerel Alman büyükelçiliği web sitesini açın. Öğrenci vizesi belge kontrol listesini bulun. Hangi asılların, kopyaların ve tercümelerin gerektiğini teyit edin. Şartlar ülkeye göre biraz değişir."],
+["Konsolosluk Hizmetleri Portalı üzerinden başvurun", "digital.diplo.de'ye gidin ve yeni bir vize başvurusu başlatın. Öğrenim (Studium) için ulusal D vizesi kategorisini seçin. Önce belgelerinizi çevrimiçi yükleyin, ardından yüz yüze biyometrik randevunuzu alın. Çoğu ülke artık ana giriş noktası olarak CSP'yi kullanıyor."],
+["En erken uygun randevuyu seçin", "Belge dosyanızı hazırlamak için size hâlâ 2 hafta bırakan en erken tarihi seçin. Talebin yüksek olduğu ülkelerde aylar öncesinden randevu alın. Daha erken bir randevuya ihtiyacınız varsa iptaller için her gün kontrol edin."],
+["Randevunuzu teyit edin", "Onay e-postasını kaydedin ve bir kopyasını yazdırın. Randevuda buna ihtiyacınız olacak. Büyükelçilik veya konsolosluğun adresini not edin; bazı ülkeler yüz yüze adım için VFS Global merkezlerini kullanır."],
+["İptalleri takip edin", "Başkaları iptal ettikçe her gün yeni randevular açılır. Daha erken bir tarihe ihtiyacınız varsa portalı her sabah kontrol edin. Daha erken randevu vaat eden üçüncü taraf aracılara para ödemeyin; bu bir dolandırıcılıktır."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Almanya'ya girmek için ulusal vizeye ihtiyacınız var. Büyükelçilik ayırtılmış bir randevu olmadan başvurunuzu kabul etmez."],
+["Randevu almadan önce kabul mektubuma ihtiyacım var mı?", "Evet. Immatrikulationsbescheinigung (öğrenci belgesi) öğrenci vizesi için gerekli bir belgedir. Bu olmadan CSP başvurusunu tamamlayamazsınız. Kabul teklifini onaylamak ve bu belgeyi almak ön koşuldur."],
+["Büyükelçilik randevumu ne kadar erken almalıyım?", "Ders başlangıç tarihinizden en az 3 ila 6 ay önce başlayın. Hindistan, Nijerya ve Pakistan düzenli olarak en uzun bekleme sürelerine sahiptir. Daha hızlı ülkelerde bile beklenmedik gecikmeler olur. Erken olan her zaman daha iyidir."],
+["Daha erken randevu bulmanın bir yolu var mı?", "Randevu portalını her sabah kontrol edin. İnsanlar sık sık iptal eder ve randevular yeniden açılır. Daha erken tarih vaat eden üçüncü taraf aracılara para ödemeyin; bu bir dolandırıcılıktır ve para iade edilmez."],
+["VFS Global ile Konsolosluk Hizmetleri Portalı arasındaki fark nedir?", "Alman Konsolosluk Hizmetleri Portalı (digital.diplo.de), Ocak 2025'te kullanıma giren ve dünya genelindeki tüm Alman büyükelçiliklerini kapsayan yeni ulusal sistemdir. VFS Global daha önce bazı ülkelerde randevu ve belge teslimi için kullanılıyordu. Ülkeniz tamamen geçiş yaptıysa CSP'yi kullanın. Yapmadıysa yerel Alman büyükelçiliği sayfasına bakın."]
+]
+},
+"attend-visa-interview": {
+"title": "Vize görüşmesine katıl",
+"intro": "Vize görüşmesi, bir büyükelçilik görevlisinin belgelerinizi kontrol ettiği ve planlarınızı sorduğu yüz yüze görüşmedir. Genellikle 10 dakika sürer. Tüm asıl belgeleri ve kopyalarını, motivasyon mektubunuzu getirir ve 75 EUR ücreti o gün ödersiniz. Studienkolleg'i tamamlayanlar (B1/B2/B7/B8) bunun yerine Almanya'da bir Ausländerbehörde randevusuna katılır.",
+"overview": {
+"time": "10 dakikalık görüşme. Bekleme ve belge kontrolleriyle toplam 30 dakika planlayın.",
+"cost": "75 EUR vize ücreti, o gün ödenir",
+"process": "Belge dosyanızın tamamını teslim edin. Eğitim veya iş planınızla ilgili soruları yanıtlayın. Parmak izinizi verin. Ücreti ödeyin.",
+"why": "Görevli belgelerinizi kontrol eder ve planlarınızı sorar. Bu görüşme olmadan büyükelçilik vizenizi düzenlemez."
+},
+"steps": [
+["Belge kontrol listesini bir kez daha kontrol edin", "Konsolosluk Hizmetleri Portalı'nı veya büyükelçiliğinizin web sitesini açın ve öğrenci vizesi kontrol listesini yazdırın. Listedeki her maddeyi, asılları ve onaylı kopyalarıyla birlikte, önünüze serin. Eksik veya yanlış belgeler bir numaralı ret nedenidir."],
+["15 dakika erken gelin", "Pasaportunuzu, randevu onayınızı ve motivasyon mektubunuz dahil belge dosyanızın tamamını getirin. Güvenlik ve beklemeyle birlikte toplam 30 dakika planlayın. Telefonların çoğu zaman girişte bırakılması gerekir."],
+["Dosyanızı teslim edin", "Görevli belgelerinizi inceler ve onaylı kopyaları alıkoyar. Asılları kontrol listesindeki sırayla hazır bulundurun. Bu kısım yaklaşık 5 dakika sürer."],
+["Görevlinin sorularını yanıtlayın", "Neden Almanya, neden bu program, kalışınızı nasıl finanse edeceğiniz ve mezuniyet sonrası planlarınızla ilgili sorular bekleyin. Kendi kelimelerinizle yanıtlayın; kısa ve somut olmak uzun olmaktan iyidir. Almanca programlara başvuranlara Almanca sorular sorulabilir."],
+["Parmak izinizi verin ve ücreti ödeyin", "Parmak izinizi gişede verirsiniz. 75 EUR vize ücretini o gün ödeyin. Bazı büyükelçilikler yalnızca nakit, bazıları kart kabul eder. Gitmeden önce büyükelçiliğinizin sayfasına bakın."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Uyruğunuz Almanya'ya girmek için vize gerektiriyor. Büyükelçilik görüşmesi, başvurunuz hakkında karar vermeden önceki son kontroldür."],
+["Vize görevlisi genellikle hangi soruları sorar?", "Neden Almanya, neden bu program veya iş, kalışınızı nasıl finanse edeceğiniz ve sonrasında ne yapmayı planladığınız. Kendi kelimelerinizle yanıtlayın. Kısa ve somut olmak uzun olmaktan iyidir."],
+["Görüşmede en yaygın ret nedeni nedir?", "Eksik veya yanlış belgeler. Diğer yaygın nedenler belirsiz finansman, kendi ülkenizle zayıf bağlar ve yazılı başvurunuzla örtüşmeyen yanıtlardır."],
+["Her belgenin aslını mı yoksa onaylı kopyasını mı getirmeliyim?", "İkisini de getirin. Görevli onaylı kopyaları alıkoyar ve asılları önünüzde kontrol eder. Asıllar olmadan büyükelçilik başvurunuzu işleme almayı reddedebilir."],
+["Bir üniversiteye değil, bir Studienkolleg'e başvurdum. Vizem neye dayanıyor?", "Vizeniz Studienkolleg mektubunuza dayanır: ya bir Aufnahmetest (giriş sınavı) daveti (devlet Studienkolleg'i) ya da bir Zulassungsbescheid (doğrudan kabul). Vize türü Studienbewerbervisum'dur (öğrenci adayı vizesi). Alman büyükelçilikleri bunu kabul eder, çünkü Studienkolleg resmi yükseköğretim sisteminin bir parçasıdır. Dil okulu gibi muamele görmez. FSP'yi geçip üniversiteye kabul aldıktan sonra, bir büyükelçiliğe geri dönmeden oturum izninizi Almanya'daki Ausländerbehörde'de uzatırsınız."]
+]
+},
+"book-accommodation-ch3": {
+"title": "Öğrenci yurduna başvur",
+"intro": "Artık Immatrikulationsbescheinigung'iniz var ve resmi yurt bekleme listesine katılabilirsiniz. Bugün başvurun; Berlin ve Münih'te bekleme listeleri 10 ila 18 ay sürer ve vardığınızda kalacak yersiz olmak istemezsiniz. Paralel olarak WG-Gesucht'ta özel seçeneklere bakın. Uçmadan önce hiçbir şey kesinleşmezse, yüz yüze arama için bir üssünüz olsun diye ilk 2 ila 3 haftanız için geçici konaklama ayırtın.",
+"overview": {
+"time": "Yurt bekleme listesine katılmak 30 dakika sürer. Özel ev aramak haftalar sürer. Yurt odası için bekleme süresi şehre bağlı olarak haftalardan bir yılın üzerine kadar değişir.",
+"cost": "Başvuru ücretsizdir. Yer kesinleştiğinde yurt kirası genellikle ayda 250 EUR ile 500 EUR arasındadır.",
+"process": "Immatrikulationsbescheinigung'inizle Studierendenwerk bekleme listesine katılın. Aynı anda WG-Gesucht'ta özel oda ve paylaşımlı ev arayın. Varmadan önce kalıcı bir yer kesinleşmezse ilk haftalarınız için geçici konaklama ayırtın.",
+"why": "Artık Studierendenwerk'lerin çoğunun yurt bekleme listesine katılmak için istediği Immatrikulationsbescheinigung'e sahipsiniz. Beklemeyin; Berlin ve Münih'te yurt bekleme listeleri 10 ila 18 ay sürer. Şimdi başvurun ve paralel olarak özel alternatifler arayın."
+},
+"steps": [
+["Studierendenwerk yurt bekleme listesine katılın", "Üniversitenizin Studierendenwerk web sitesine gidin (“[üniversite adı] Studierendenwerk Wohnheim” diye arayın). Immatrikulationsbescheinigung'inizi yükleyin ve bekleme listesi başvurusunu doldurun. Bu çoğu zaman ücretsizdir. E-postayla onaylayın ve onayı kaydedin."],
+["Geçici konaklama için uluslararası öğrenci ofisine bakın", "Birçok üniversite yeni uluslararası öğrencilere ilk 2 ila 4 haftalarında garantili geçici konaklama sunar. Üniversitenizin Akademisches Auslandsamt (uluslararası ofis) sayfasına bakın ve varsa başvurun. Bu, vardıktan sonra kalıcı konut bulmanız için size zaman kazandırır."],
+["WG-Gesucht'ta özel oda arayın", "wg-gesucht.de'ye gidin ve şehre ve bütçenize göre filtreleyin. WG (paylaşımlı ev) odaları başlıca özel seçenektir. Birden fazla ilanla iletişime geçin. Ev sahiplerinin çoğu kayıt kanıtı veya bir ön yazı ister. Yurt dışından başvurmak daha zordur ama mümkündür; net, hızlı ve profesyonel olun."],
+["Kendinize bir konut son tarihi koyun", "Varış tarihinizden en az 4 ila 6 hafta önce ya bir yurt onayına ya da imzalı bir özel kira sözleşmesine sahip olmayı hedefleyin. Kesinleşmiş bir konut olmadan varıştan sonraki 14 gün içinde yapmanız gereken Anmeldung randevusunu alamazsınız."],
+["Hiçbir şey kesinleşmezse geçici konaklama ayırtın", "Uçmadan önce kalıcı bir seçenek kesinleşmezse ilk 2 ila 3 haftanız için bir hostel, öğrenci misafirhanesi veya kısa süreli WG ayırtın. Bu, vardığınızda ev aramasını yüz yüze yapabileceğiniz bir üs sağlar."]
+],
+"faqs": [
+["Bu adımı neden daha önce değil de şimdi görüyorum?", "Studierendenwerk'lerin çoğu bekleme listesi başvurusunu kabul etmek için Immatrikulationsbescheinigung (öğrenci belgesi) ister. Teklifinizi kabul edip belgeyi aldığınıza göre artık başvurabilirsiniz."],
+["Şehrimdeki yurt bekleme listesi ne kadar uzun?", "Büyük ölçüde değişir. Berlin 12 ila 18 ay. Münih 10 ila 14 ay. Frankfurt ve Hamburg 6 ila 10 ay. Daha küçük üniversite şehirleri çoğu zaman 1 ila 3 ay. Şehriniz ne olursa olsun listeye hemen katılın. Bekleme süreleri dönem girişine de bağlıdır."],
+["Varmadan önce konaklama bulamazsam ne olur?", "İlk 2 ila 3 haftanız için bir hostel veya kısa süreli oda ayırtın. Varın ve ev aramasını yüz yüze yapın; bu yüz yüze çok daha kolaydır. Anmeldung'in varıştan sonraki 14 gün içinde zorunlu olduğunu unutmayın; bu yüzden kalıcı bir adresi hızlıca kesinleştirin."],
+["Immatrikulationsbescheinigung olmadan oda alabilir miyim?", "Bazı Studierendenwerk'ler, Immatrikulationsbescheinigung düzenlenmeden önce geçici bir bekleme listesi başvurusu için Zulassungsbescheid'i kabul eder. Kendi Studierendenwerk'inize danışın. Özel ev sahipleri için genellikle Immatrikulationsbescheinigung gerekir."],
+["Yurt ile WG arasındaki fark nedir?", "Wohnheim (yurt) Studierendenwerk tarafından işletilir. Genellikle eşyalı bir oda alır, mutfağı ve banyoyu paylaşırsınız. WG (Wohngemeinschaft), bir ev sahibinden veya diğer kiracılardan oda kiraladığınız özel paylaşımlı bir evdir. Yurtlar daha ucuzdur ama bulması daha zordur. WG'ler daha kolay bulunur ama daha pahalıdır."]
+]
+},
+"pre-register-insurer": {
+"title": "Yasal sağlık sigortası sağlayıcısına ön kayıt yaptır",
+"intro": "Uçmadan önce Almanya'daki bir sağlık sigortacısına ön kayıt yaptırırsınız. Size Anmeldung'i tamamlar tamamlamaz aktifleşen bir üyelik numarası gönderirler. Bu, 1 ila 2 haftalık evrak beklemesini atlatır.",
+"overview": {
+"time": "Çevrimiçi 15 ila 30 dakika",
+"cost": "İlk ödeme, Anmeldung sonrası teminatınız aktifleştiğinde yapılır.",
+"process": "Uçmadan önce bir sağlık sigortası sağlayıcısına (ör. Expatrio üzerinden) çevrimiçi kaydolun. Pasaport bilgilerinizi ve tahmini varış tarihinizi gönderin. Anmeldung'i tamamladığınızda onayı gönderin; teminat aynı gün aktifleşir.",
+"why": "Bloke hesabınız için Expatrio Value Package gibi bir paket aldıysanız sağlık sigortanız zaten dahildir; vize belgelerinizi hazırlarken ön kaydını şimdi yaptırın. Ön kayıt, sağlık sigortanızın evrak için 1 ila 2 hafta beklemek yerine Anmeldung gününüzde aktifleşmesi demektir. Expatrio gibi aracı hizmetler hem yasal (kamu) hem de özel sağlık sigortası sunar ve profilinize göre doğru türe yönlendirir."
+},
+"steps": [
+["Bir sağlık sigortası sağlayıcısına kaydolun", "Bir sağlık sigortası sağlayıcısına veya aracı hizmete (ör. Expatrio) kaydolun. Pasaport bilgilerinizi, tahmini varış tarihinizi ve üniversite programınızı girin. Profilinize göre doğru tür belirlenir: yasal (kamu) veya özel. Bir üyelik numarası alırsınız; teminat, vardıktan sonra Anmeldung onayınızı gönderdiğinizde aktifleşir."],
+["Üyelik numaranızı kaydedin", "Kayıt olduktan sonra dijital bir üyelik numarası alırsınız. Telefonunuza kaydedin ve kendinize e-postayla gönderin. Anmeldung ve oturum izni randevusu için ona ihtiyacınız olacak."],
+["Anmeldung sonrası aktifleştirin", "Adresinizi kaydettirdikten sonra Anmeldebestätigung'inizi (adres kayıt onayı) sigortacıya gönderin. Teminat aynı gün aktifleşir. İlk ödeme teminatınız başladığında yapılır. Kamu sigortacıları ayrıca dijital bir sağlık kartı da verir."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Alman yasaları kayıt olmadan veya işe başlamadan önce sağlık sigortası şart koşar. Bir sigortacıya ön kayıt yaptırmak, teminatınızın ek gecikme olmadan Anmeldung gününde aktifleşmesi demektir."],
+["Expatrio hem kamu hem özel sağlık sigortası sunuyor mu?", "Evet. Expatrio hem yasal (gesetzliche Krankenversicherung) hem de özel sağlık sigortası sunar. 30 yaş altı öğrenciler genellikle yasal öğrenci tarifesine yönlendirilir. 30 yaş ve üzeri öğrenciler, Studienkolleg öğrencileri ve dil öğrencileri genellikle özel sigortaya yönlendirilir. Expatrio kayıt sırasında sizi doğru seçeneğe yönlendirir."],
+["Anmeldebestätigung olmadan ön kayıt yaptırabilir miyim?", "Evet. Ön kayıt için yalnızca pasaportunuz ve tahmini varış tarihiniz gerekir. Kesin aktivasyon Anmeldebestätigung gerektirir, ama bu adımı adresinizi kaydettirdiğiniz gün tamamlayabilirsiniz."],
+["Ön kayıt beni bağlar mı, yoksa sonra değiştirebilir miyim?", "12 ay sonra herhangi bir nedenle, durumunuz değişirse (yeni iş, üniversiteden ayrılma) daha önce de değiştirebilirsiniz. Değiştirmek ücretsizdir ve evrak işlerini yeni sigortacı sizin için halleder."]
+]
+},
+"write-visa-motivation-letter": {
+"title": "Vize motivasyon mektubu yaz",
+"intro": "Motivasyon mektubu Alman öğrenci vizesi için gerekli bir belgedir. Bunu bir kabul kuruluna değil, bir vize görevlisine hitaben yazın; eğitim planlarınızın samimiyetine, finansmanınıza (bloke hesap) ve eğitim sonrası niyetlerinize odaklanın. Dili programınıza uydurun: Almanca programlar için Almanca, İngilizce programlar için İngilizce.",
+"overview": {
+"time": "Yazmak 2 ila 4 saat. Anadili konuşan birinin incelemesi veya tercüme gerekiyorsa 1 hafta ayırın.",
+"cost": "Kendiniz yazarsanız ücretsiz. Anadili konuşan birinin incelemesi veya profesyonel redaksiyon ücretleri değişir.",
+"process": "Neden Almanya, neden bu program, kalışınızı nasıl finanse edeceğiniz ve mezuniyet sonrası planlarınızı kapsayan odaklı bir mektup yazın. Mektubun dilini programınızın diline uydurun.",
+"why": "Motivasyon mektubu Alman öğrenci vizesi için gerekli bir belgedir. Büyükelçilik görevlisi bunu eğitim planlarınızın samimi olduğunu ve dil seviyenizin başvurduğunuz programla örtüştüğünü doğrulamak için kullanır."
+},
+"steps": [
+["Büyükelçiliğin şartını kontrol edin", "Büyükelçiliğinizin belge kontrol listesini Konsolosluk Hizmetleri Portalı'nda (digital.diplo.de) veya yerel Alman büyükelçiliği web sitesinde açın. Motivasyon mektubunun gerekli olduğunu teyit edin ve belirli biçim, uzunluk veya dil şartlarını not edin."],
+["Odaklı bir ilk taslak yazın", "Dört noktayı ele alın: neden Almanya'da okumak istediğiniz, neden bu programı ve üniversiteyi seçtiğiniz, eğitiminizi nasıl finanse edeceğiniz (bloke hesap) ve mezuniyet sonrası ne yapmayı planladığınız. Programı ve üniversiteyi adıyla belirtin. En fazla iki sayfa."],
+["Dili programınıza uydurun", "Programınız Almanca ise resmi Sie hitabıyla (“Sehr geehrte Damen und Herren”) Almanca yazın. Programınız İngilizce ise İngilizce yazın. Bu, görevliye dil seviyenizin başvurunuzla örtüştüğünü gösterir."],
+["Anadili konuşan birine inceletin", "Kesinleştirmeden önce mektubunuzu anadili konuşan birine veya bir dil öğretmenine kontrol ettirin. Almanca bir mektuptaki dil bilgisi hataları dil iddialarınızla çelişir. İngilizce mektuplarda en önemli şey açıklık ve doğru resmi üsluptur."],
+["PDF olarak kaydedin ve vize dosyanıza ekleyin", "Son mektubu PDF olarak kaydedin. Bir kopya yazdırın. Konsolosluk Hizmetleri Portalı'ndaki başvuru için vize belge dosyanıza ekleyin ve aslını yüz yüze randevunuza getirin."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Alman büyükelçiliği öğrenci vizesi başvurusunun parçası olarak motivasyon mektubu ister. Bu, görevlinin eğitim niyetinizin samimi olduğunu ve dil yeterliğinizin programla örtüştüğünü doğrulamasına yardımcı olur."],
+["Vize motivasyon mektubu üniversite başvuru mektubuyla aynı mı?", "Hayır. Üniversite motivasyon mektubu kabul kuruluna hitap ediyordu. Vize motivasyon mektubu büyükelçiliğe hitap eder ve samimi eğitim niyetinize, kalışınızı nasıl finanse edeceğinize ve mezuniyet sonrası planınıza odaklanır. Aynı temalardan yararlanabilirsiniz ama ayrı bir belge olmalıdır."],
+["Hangi dilde yazmalıyım?", "Mektubun dilini programınızın öğretim diline uydurun. Almanca program: Almanca yazın. İngilizce program: İngilizce yazın. Bazı büyükelçilikler ikisini de kabul eder ama program dilinde yazmak her zaman daha güçlü bir seçimdir."],
+["Mektup ne kadar uzun olmalı?", "Bir ila iki sayfa. Görevli çok sayıda başvuru okur. Net, somut, bir sayfalık bir mektup genellikle belirsiz, iki sayfalık bir mektuptan daha güçlü bir izlenim bırakır. En fazla iki sayfada kalın."]
+]
+}
+}
+}

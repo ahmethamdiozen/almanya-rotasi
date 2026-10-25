@@ -1,0 +1,269 @@
+{
+"id": "ch2_apply",
+"title": "Başvur",
+"description": "Engeller kalktı. Şimdi size uyan programları seçiyor, başvurunuzu yazıyor ve uni-assist üzerinden gönderiyorsunuz.",
+"tasks": {
+"get-sworn-translations": {
+"title": "Yeminli tercüme yaptır",
+"intro": "Yeminli tercümeler; diplomanızın, transkriptlerinizin ve diğer belgelerinizin resmi Almanca tercümeleridir. Bunları yalnızca mahkemece yemin ettirilmiş (vereidigter) bir tercüman hazırlayabilir. Her Alman üniversitesi Almanca olmayan belgeler için bu biçimi şart koşar.",
+"overview": {
+"time": "Yeminli tercümeler için 1 ila 2 hafta. Apostil için 1 ila 7 gün ekleyin.",
+"cost": "Sayfa başı ücretler dil çiftine ve ülkeye göre değişir. Nadir diller ve acil işler daha pahalıdır. 2 ila 3 yeminli tercümandan fiyat teklifi alın.",
+"process": "Önce asıllarınıza apostil yaptırın. Apostilli kopyaları yeminli bir tercümana gönderin. Ardından başvurunuzla birlikte hem aslını hem tercümesini gönderin.",
+"why": "Alman üniversiteleri onaylı olmayan belgeleri reddeder. Mahkeme onaylı bir tercümandan alınan yeminli tercümeler, her üniversitenin kabul ettiği tek biçimdir."
+},
+"steps": [
+["Önce asıllarınıza apostil yaptırın", "Apostili kendi ülkenizdeki düzenleyici makamda yaptırın. Apostil asıl belgeye konur. Önce tercüme ettirirseniz apostil eklendikten sonra tercümenin yeniden yapılması gerekir."],
+["Yeminli bir tercüman bulun", "Dil çiftiniz için mahkemece yemin ettirilmiş (vereidigter) bir tercüman bulun. Alman üniversitelerinin kabul ettiği onaylı tercümeleri yalnızca yeminli tercümanlar hazırlayabilir. Ülkenizdeki Alman büyükelçiliği veya konsolosluğu tanınan tercümanların listesini tutar; birçok ülkede resmi bir yeminli tercümanlar derneği de vardır."],
+["2 ila 3 tercümandan teklif alın", "Sayfa başı ücretler dil çiftine, ülkeye ve tercümana göre değişir. Nadir diller ve acil işler daha pahalıdır. Anlaşmadan önce teklifleri karşılaştırın. Teslim süresinin başvuru son tarihinize uyduğunu teyit edin."],
+["Apostilli kopyaları tercümeye gönderin", "Apostilli asılları tercümana postalayın veya taratıp gönderin. Tercüman belgeyi ve apostil metnini birlikte tercüme eder. Onaylı tercümenin geri gelmesi için 1 ila 2 hafta ayırın."],
+["Ek onaylı kopyalar sipariş edin", "Her belgeden 3 ek onaylı kopya isteyin. Bunlara vize, Anmeldung, banka hesabı ve üniversite için ihtiyacınız olacak. Ek kopyaları şimdi sipariş etmek, sonradan yeniden sipariş etmekten daha ucuzdur."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Alman üniversiteleri ve uni-assist (merkezi başvuru portalı) yalnızca mahkemece yemin ettirilmiş bir tercümanın çevirdiği belgeleri kabul eder. Onaylı tercümeler olmadan başvurunuz ilk kontrolde reddedilir."],
+["Yeminli (vereidigter) bir tercüman belge başına ne kadar alır?", "Sayfa başı ücretler dil çiftine, ülkeye ve tercümana göre değişir. Nadir diller ve acil işler daha pahalıdır. Anlaşmadan önce 2 ila 3 yeminli tercümandan teklif alın."],
+["Neden tercümeden sonra değil de önce apostil yaptırmalıyım?", "Apostil asıl belgeye konur ve tercüman apostil metnini de tercüme eder. Önce tercüme ettirirseniz apostil eklendikten sonra tercümeyi yeniden yaptırmanız gerekir."],
+["Tercüme ve onay sürecinin tamamı ne kadar sürer?", "Toplamda 3 ila 4 hafta planlayın. Apostil ülkenizde 1 ila 7 gün sürer. Yeminli tercüme 1 ila 2 hafta sürer. Asılların gidip gelmesi için pay bırakın."]
+]
+},
+"shortlist-programs": {
+"title": "Programların kısa listesini yap",
+"intro": "Kısa listeniz, başvurmayı planladığınız 2 ila 3 Alman programıdır. Niteliklerinizi, dil seviyenizi ve kariyer hedeflerinizi program kataloğuyla eşleştirerek oluşturun. Araştırırken seçenekleri kaydetmek ve karşılaştırmak için bir istek listesi (ör. Studybuddy'deki Wishlist) kullanın. Listenizde net öncelikler olması, birden fazla teklif alırsanız hızlıca karar verebilmeniz demektir.",
+"overview": {
+"time": "2 ila 4 hafta araştırma; program başına yaklaşık 2 ila 5 saat.",
+"cost": "Ücretsiz",
+"process": "Beğendiğiniz programları bir istek listesine (ör. Studybuddy'deki Wishlist) kaydedin. Alana, derece seviyesine, öğretim diline ve nitelik seviyenize göre filtreleyin. Gerçekten heyecan duyduğunuz ve gerçekçi olarak uygun olduğunuz 2 ila 3 programı hedefleyin.",
+"why": "Her Alman programının farklı şartları, son tarihleri ve ücretleri vardır. 2 ila 3 programlık odaklı bir kısa liste başvuru ücretlerinden tasarruf etmenizi sağlar ve her birine daha özenli, daha iyi materyallerle başvurmanıza yardımcı olur."
+},
+"steps": [
+["Beğendiğiniz programları bir istek listesine kaydedin", "Göz atarken alanınıza, derece seviyenize ve dil tercihinize uyan programları bir istek listesine (ör. Studybuddy'deki Wishlist) kaydedin. Bu, her şeyi tek yerde tutar; böylece daha sonra takibi kaybetmeden karşılaştırabilirsiniz."],
+["Her program sayfasını ayrıntılı okuyun", "Kaydettiğiniz her program için müfredatı, giriş şartlarını ve öğretim dilini dikkatle okuyun. Almanca C1 mi istediğini yoksa İngilizce yeterliği mi kabul ettiğini not edin. Okul diplomanızın doğrudan kabul için yeterli olup olmadığını ya da Almanya'nın 13 yıllık eğitim şartını karşılamak için önce ek bir adım gerekip gerekmediğini kontrol edin."],
+["NC durumunu ve başvuru yolunu kontrol edin", "Her programın NC kısıtlı mı (not barajı uygulanır) yoksa NC'siz mi (serbest kabul) olduğunu kontrol edin. Başvuruların uni-assist (uni-assist.de) üzerinden mi yoksa doğrudan üniversite portalından mı yapıldığını da teyit edin. Yol hem maliyeti hem zamanlamayı etkiler."],
+["Programları uyuma ve kendi önceliklerinize göre puanlayın", "Kaydettiğiniz programları sizin için önemli olanlara göre sıralayın. Müfredat uyumu, şehir ve yaşam maliyeti, kampüs olanakları, staj bağlantıları. Şimdi önceliklendirmek, birden fazla üniversiteden teklif alırsanız sıfırdan başlamadan hangisini seçeceğinizi zaten bilmeniz demektir."],
+["2 ila 3 programa indirin ve son tarihlerini not edin", "Başvurmak istediğiniz 2 ila 3 programı hedefleyin. 3'ten fazlası zamanınızı ve motivasyon mektuplarınızı dağıtır. Nihai listenizdeki her program için son başvuru tarihini, yolu (uni-assist veya doğrudan) ve istediği belgeleri yazın."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Her adayın başvurmadan önce net bir kısa listeye ihtiyacı vardır. Alman üniversitelerinin farklı kabul kuralları vardır ve uni-assist başvuru başına ücret alır. 2 ila 3 programlık odaklı bir liste para kazandırır ve daha güçlü başvurular ortaya çıkarır."],
+["Kaç programa başvurmalıyım?", "Lisans başvuruları için 2 ila 3 iyi bir sayıdır. Hazırlığınızı fazla dağıtmadan kabul için birden fazla şans verir. Her başvuruya gereken özeni gösterebiliyorsanız daha fazlasına başvurmak da sorun değildir."],
+["Birden fazla teklif alırsam hangisini kabul edeceğime nasıl karar veririm?", "Kısa liste yaparken not ettiğiniz önceliklere geri dönün. Müfredatın derinliğini, şehri ve yaşam maliyetini, o bölgedeki iş piyasasını ve program sayfasını okuduğunuzda hangi üniversitenin size uygun geldiğini düşünün. Listenizi önceden sıralamış olmak bunu çok kolaylaştırır."],
+["Sıralamalara mı yoksa program uyumuna mı öncelik vermeliyim?", "Program uyumuna. Alman devlet üniversiteleri kamu tarafından finanse edilir ve kalite ABD veya Birleşik Krallık'takinden daha dengelidir. Müfredat, şehir ve programın hedeflerinize ne kadar uyduğu, sıralamadaki yerden daha önemlidir."],
+["Universität ile Fachhochschule arasındaki fark nedir?", "Universität, geleneksel bir üniversite gibi araştırma odaklıdır. Fachhochschule (FH) uygulamalı bilimlere odaklanır; programları daha kısa, sektörle bağları daha güçlüdür. Her ikisi de tanınan dereceler verir."],
+["NC'siz ne demek?", "NC'siz, programın not barajı olmadığı anlamına gelir. Temel giriş şartlarını karşılayan herkes kabul edilebilir. NC kısıtlı programlar, kaç kişinin başvurduğuna göre her yıl değişen bir not eşiği kullanır. Son NC değeri için program sayfasına bakın veya üniversiteye sorun."]
+]
+},
+"confirm-subject-match": {
+"title": "Alanının uyumlu olduğunu kontrol et",
+"intro": "Almanya'daki yüksek lisans programları aynı veya yakından ilişkili bir alanda lisans derecesi ister ve alan uyumsuzluğu en yaygın ret nedenidir. Kredi hesabını kendiniz yapmanız gerekmez. Başvurduğunuzda uni-assist ve üniversite alanınızı ve kredilerinizi resmi olarak kontrol eder. Sizin işiniz başvurmadan önce hızlı bir uyum kontrolü ve emin değilseniz program koordinatörüne kısa bir e-posta göndermektir.",
+"overview": {
+"time": "İstenen alanı okuyup uyduğunu kontrol etmek için program başına 15 dakika.",
+"cost": "Ücretsiz",
+"process": "Her program sayfasında istenen alanı okuyun. Lisansınız açıkça uyuyorsa sorun yok. Emin değilseniz başvurmadan önce transkriptinizle birlikte program koordinatörüne e-posta gönderin.",
+"why": "Almanya'daki yüksek lisans programları aynı veya yakından ilişkili bir alanda lisans derecesi ister. Alan uyumsuzluğu yüksek lisans başvurularının reddedilmesinin en yaygın nedenidir; bu yüzden başvurmadan önce hızlı bir uyum kontrolü boşa giden ücretleri ve kaybedilen bir dönemi önler. Kredi hesabını kendiniz yapmanız gerekmez. Başvurduğunuzda uni-assist ve üniversite alanınızı ve kredilerinizi resmi olarak kontrol eder. Buradaki tek işiniz geçmişinizin makul bir uyum gösterdiğinden emin olmaktır."
+},
+"steps": [
+["Her program sayfasında istenen alanı okuyun", "Her program sayfası beklediği geçmişi belirtir; örneğin “bilgisayar bilimleri veya yakından ilişkili bir alanda lisans”. Dereceniz açıkça uyuyorsa başvurmaya hazırsınız. Başka kontrol gerekmez."],
+["Emin değilseniz başvurmadan önce sorun", "Derecenizin sayılıp sayılmadığından emin değil misiniz? Transkriptinizi ekleyerek program koordinatörüne e-posta gönderin ve geçmişinizin uyup uymadığını sorun. Birçoğu hızlı ve gayriresmi bir evet ya da hayır ile yanıt verir. Şimdi sormak, tahmin edip sonra reddedilmekten daha hızlı ve güvenlidir."],
+["Resmi kontrolü uni-assist'e ve üniversiteye bırakın", "uni-assist veya üniversite portalı üzerinden başvurduğunuzda alanınızı ve kredilerinizi sizin için resmi olarak kontrol ederler. AKTS saymanız veya dersleri eşleştirmeniz gerekmez. Bir eksik varsa size bildirirler; bazı programlar ilk yılınızda birkaç ek ders tamamlamanız koşuluyla sizi kabul eder."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Alan uyumu, Almanya'daki yüksek lisans başvurularında en yaygın ret nedenidir. Başvurmadan önce lisansınızın programa uyduğunu hızlıca kontrol etmek, boşa giden bir başvuruyu ve vizeye ihtiyacınız varsa kaybedilen bir yılı önler."],
+["AKTS'lerimi kendim mi hesaplamalıyım?", "Hayır. Başvurduğunuzda resmi kredi kontrolünü uni-assist ve üniversitenin sınav kurulu yapar. Sizin yalnızca alanınızın makul bir uyum gösterdiğinden emin olmanız ve emin değilseniz koordinatöre sormanız gerekir."],
+["Geçmişim sınırdaysa ne olur?", "Başvurmadan önce transkriptinizle birlikte program koordinatörüne e-posta gönderin. Bazı programlar ilk yılınızda birkaç eksik dersi tamamlamanızı isteyerek sizi koşullu kabul eder. Diğerleri katıdır. Tahmin etmek yerine sorun."],
+["Ardışık (konsekütif) yüksek lisans nedir?", "Ardışık yüksek lisans doğrudan ilgili bir lisansın üzerine kurulur. Alman devlet üniversitelerinde standart türdür ve harçsızdır. MBA gibi ardışık olmayan programlar başka geçmişleri de kabul eder ama genellikle iş deneyimi ister ve harç alır."]
+]
+},
+"track-application-deadlines": {
+"title": "Son başvuru tarihlerini takip et",
+"intro": "Alman başvuru son tarihleri kesin sınırlardır. Bir gün geç kalmak başvurunuzun reddedilmesi demektir. Kış dönemi programlarının çoğu 15 Temmuz'da kapanır, ama uni-assist üzerinden başvuruyorsanız teslim son tarihiniz 4 ila 6 hafta daha erkendir. Her programın kesin son tarihini basit bir takvimde veya tabloda takip edin ve belge düzeltmeleri için pay bırakın.",
+"overview": {
+"time": "Kısa listeniz kesinleştiğinde son tarih takip aracınızı kurmak için 1 ila 2 saat.",
+"cost": "Ücretsiz",
+"process": "Kısa listenizdeki her program için kesin son tarihi bulun ve uni-assist üzerinden mi (teslim son tarihi üniversitenin tarihinden 4 ila 6 hafta erkendir) yoksa doğrudan mı yapıldığını not edin. Hiçbir şey gözden kaçmasın diye tüm tarihleri bir takvime veya tabloya ekleyin.",
+"why": "Bir son tarihi tek bir gün bile kaçırmak, başvurunuzun reddedilmesi ve bir sonraki kabul dönemini beklemeniz demektir. Alman üniversiteleri katıdır. Son tarihleri yalnızca bilmek değil, aktif olarak takip etmek başvurunuzu yolunda tutan şeydir."
+},
+"steps": [
+["Kabul dönemini ve ana son tarihleri not edin", "Alman üniversitelerinin iki ana kabul dönemi vardır. Kış dönemi (Ekim'de başlar). Programların çoğu 15 Temmuz'da kapanır. Yaz dönemi (Nisan'da başlar). Programların çoğu 15 Ocak'ta kapanır. Birçok program yalnızca kış döneminde öğrenci alır. Kısa listenizdeki programların hangi dönem için başvuru kabul ettiğini teyit edin."],
+["Her programın kesin son tarihini bulun", "Her programın kabul sayfasına gidin ve kesin son başvuru tarihini not edin. Standart tarihi varsaymayın. Bazı rekabetçi veya uzmanlaşmış programların son tarihleri daha erkendir. Her programın son tarihini ayrı ayrı yazın."],
+["uni-assist payını uygulayın", "Bir program uni-assist kullanıyorsa teslim son tarihiniz üniversitenin belirttiği tarihten 4 ila 6 hafta öncedir. Örneğin üniversitenin son tarihi 15 Temmuz ise, en geç Mayıs sonuna kadar uni-assist'e teslim etmeyi planlayın. Her zaman üniversitenin tarihini değil, uni-assist tarihini esas alın."],
+["Kişisel bir son tarih takvimi oluşturun", "Her programı, yolunu (uni-assist veya doğrudan), teslim son tarihini ve hâlâ eksik belgeleri içeren basit bir tablo veya takvim oluşturun. En erken son tarihten 4 hafta önceye bir hatırlatıcı kurun. Bu, son tarihten önce belge düzeltmelerini yapmanız için zaman tanır."],
+["NC kısıtlı veya uzmanlık programlarını kontrol edin", "Bazı programların zamanlamayı etkileyen ek şartları vardır. Bazı üniversitelerdeki NC kısıtlı programların değerlendirme tarihleri daha erken olabilir. Tıp, diş hekimliği, eczacılık ve veterinerlik programları kendi son tarihleri olan merkezi Hochschulstart portalını (hochschulstart.de) kullanır. Sanat ve tasarım programlarının portfolyo son tarihleri çoğu zaman ana başvuru tarihinden önce gelir. Takviminizi kesinleştirmeden önce bu ayrıntıları her program için teyit edin."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Alman başvuru son tarihleri kesin sınırlardır. Bir gün geç gelen başvuru reddedilir. Son tarihlerinizi aktif olarak takip etmek ve belge düzeltmeleri için pay bırakmak, başvurunuzu bir formalite yüzünden kaybetmenizi önleyen şeydir."],
+["Kış dönemi için standart son tarih nedir?", "Programların çoğu için 15 Temmuz. Ancak uni-assist başvuruları için pratik son tarih 4 ila 6 hafta daha erken, 1 Haziran civarıdır. Kesin tarih için her programın kabul sayfasını kontrol edin. Bazı rekabetçi programların son tarihleri daha erkendir."],
+["Son tarihi kaçırırsam ne olur?", "Başvurunuz işleme alınmaz ve bir sonraki kabul dönemi için yeniden başvurmanız gerekir. Çoğu durumda bu, 6 ay ile bir yıl arasında beklemek demektir. Kaçırılan bir son tarih için itiraz süreci yoktur. Planınıza pay koymanın önemli olmasının nedeni budur."],
+["Her üniversite için ayrı son tarih mi takip etmeliyim?", "Evet. Hepsi uni-assist kullansa bile her üniversite kendi son tarihini belirler. Çoğunda aynı 15 Temmuz sınırı geçerlidir, ama tek tek programlar farklı olabilir. Her programın sayfasını mutlaka kontrol edin."],
+["Hochschulstart nedir ve ona ihtiyacım var mı?", "Hochschulstart (hochschulstart.de), Almanya'da tıp, diş hekimliği, eczacılık ve veterinerlik için merkezi kabulü yönetir. Bu alanlardan birine başvuruyorsanız uni-assist veya doğrudan başvuru yerine onların portalı üzerinden başvurursunuz. Son tarihleri ve süreçleri normal programlardan ayrıdır."]
+]
+},
+"submit-uni-assist": {
+"title": "Başvurularını gönder",
+"intro": "Alman üniversitelerine başvurular iki yoldan yapılır. Uni-assist (yaklaşık 180 üniversitenin kullandığı merkezi portal) veya doğrudan üniversiteye. Göndermeden önce kısa listenizdeki her programın hangi yolu kullandığını kontrol edin. Uni-assist ilk program için 75 EUR, her ek program için 30 EUR alır. Doğrudan başvurular ücretsizdir. Ana son tarihler kış dönemi için 15 Temmuz, yaz dönemi için 15 Ocak'tır. Ancak uni-assist son tarihi üniversitenin kendi tarihinden 4 ila 6 hafta daha erkendir.",
+"overview": {
+"time": "Karar için son tarihten sonra 4 ila 8 hafta bekleyin. Yoğun dönemde (Haziran–Temmuz) uni-assist daha uzun sürebilir.",
+"cost": "Doğrudan başvuru ücretsizdir. Uni-assist dönem başına ilk program için 75 EUR, her ek program için 30 EUR alır.",
+"process": "Kısa listenizdeki her program için yolun uni-assist mi yoksa doğrudan mı olduğunu teyit edin. Ardından eksiksiz belge paketinizle doğru kanaldan gönderin.",
+"why": "Belgeleriniz, kısa listeniz ve dil kanıtınız hazır. Şimdi gönderme zamanı. Her programın uni-assist üzerinden mi ilerlediğini yoksa üniversite portalı üzerinden doğrudan başvuru mu kabul ettiğini kontrol edin. Yol; zamanlamayı, maliyeti ve neleri yükleyeceğinizi etkiler."
+},
+"steps": [
+["Her programın başvuru yolunu teyit edin", "Kısa listenizdeki her program için kabul sayfasına gidin ve uni-assist mi gerektirdiğini yoksa doğrudan başvuru mu kabul ettiğini kontrol edin. Bazı üniversiteler uni-assist listesinde olsa da belirli programlar için doğrudan başvuruya izin verir. Doğrudan başvuru genellikle daha hızlı ve ücretsizdir. Emin değilseniz katılımcı üniversitelerin tam listesi için uni-assist.de'ye bakın."],
+["uni-assist programları için: hesabınızı oluşturun ve belgeleri yükleyin", "uni-assist.de'ye kaydolun. Her uni-assist programını başvurunuza ekleyin. Yeminli tercümelerinizi, transkriptlerinizi, dil sertifikanızı, APS sertifikanızı (gerekiyorsa) ve istenen diğer belgeleri yükleyin. uni-assist belge kontrol listesine birebir uyun. Yanlış dosya türleri veya eksik imzalar retlere yol açar."],
+["uni-assist programları için: ücretleri ödeyin ve gönderin", "İlk program için 75 EUR. Dönem başına her ek program için 30 EUR. Banka havalesi veya kartla ödeyin. Ödeme onaylanana kadar başvurunuz gönderilmiş sayılmaz; bu 3 ila 5 gün sürebilir. Üniversitenin değil, uni-assist'in son tarihinden en az 2 hafta önce gönderin."],
+["Doğrudan başvuru programları için: üniversite portalından başvurun", "Üniversitenin kendi başvuru portalına gidin (genellikle üniversite web sitesinde Bewerbung veya Application başlığı altında bulunur). Bir hesap oluşturun, başvuru formunu doldurun ve istenen tüm belgeleri yükleyin. Belge listesi uni-assist'tekinden biraz farklı olabilir. Programın şartlarını dikkatle okuyun. Doğrudan başvurular ücretsizdir ve doğrudan üniversitenin kabul ofisine gider."],
+["Düzeltmeleri ve onayı takip edin", "Gönderdikten sonra belge düzeltme talepleri için uni-assist panelinizi ve üniversite portalı hesaplarınızı izleyin. uni-assist veya bir üniversite düzeltme isterse 1 ila 2 gün içinde yanıt verin. Doğrudan başvurularda e-postanızı ve portalı düzenli olarak kontrol edin. Her başvuru için giriş bilgilerinizi ve başvuru referans numaralarınızı kaydedin."]
+],
+"faqs": [
+["Programımın uni-assist mi yoksa doğrudan başvuru mu kullandığını nasıl anlarım?", "Üniversite web sitesinde programın kabul sayfasına gidin. Başvuruların uni-assist üzerinden mi yoksa doğrudan üniversite üzerinden mi yapıldığını belirtir. Katılımcı kurum olup olmadığını görmek için uni-assist.de'de üniversiteyi de arayabilirsiniz. Şüphedeyseniz üniversitenin uluslararası kabul ofisiyle iletişime geçip sorun."],
+["uni-assist son tarihi neden üniversitenin son tarihinden daha erken?", "uni-assist'in belgelerinizi doğrulayıp başvurunuzu üniversiteye iletmesi için 4 ila 6 hafta gerekir. Yani bir üniversitenin son tarihi 15 Temmuz ise, uni-assist'e 1 Haziran civarında teslim etmeniz gerekir. Planınızı her zaman uni-assist tarihine göre yapın."],
+["uni-assist üzerinden 2 veya 3 programa başvurmak ne kadar tutar?", "İlk program için 75 EUR, her ek program için 30 EUR; yani 2 program için 105 EUR, 3 program için 135 EUR. uni-assist kullanmayan üniversitelere doğrudan başvurular ücretsizdir."],
+["Bazı programlara uni-assist, bazılarına doğrudan aynı anda başvurabilir miyim?", "Evet. Aynı anda hem aktif uni-assist başvurularınız hem de doğrudan üniversite başvurularınız olabilir. Her biri için ayrı portalları, son tarihleri ve belge şartlarını takip edin."],
+["uni-assist'ten VPD'ye ihtiyacım olursa ne yapmalıyım?", "Bazı üniversiteler, başvurunuzu doğrudan işleme almadan önce bir VPD (Vorprüfungsdokumentation) ister. Bu, uni-assist'ten alınan bir ön belge inceleme sertifikasıdır. Doğrudan başvurmak istediğiniz bir üniversite VPD isterse önce uni-assist üzerinden başvurmanız, VPD için 4 ila 6 hafta beklemeniz, ardından VPD ile üniversiteye başvurmanız gerekir. VPD gerekip gerekmediğini üniversitenin kabul sayfasından kontrol edin."]
+]
+},
+"follow-up-application-status": {
+"title": "Başvuru durumunu takip et",
+"intro": "Gönderdikten sonra iş bitmiş değildir. Sonraki 4 ila 12 hafta boyunca uni-assist panelinizi, üniversite portallarını, e-postanızı ve posta kutunuzu düzenli olarak kontrol edin. Üniversiteler bazen ek belge ister ve bu mesajı kaçırmak yerinizi kaybetmenize yol açabilir. İhtiyaç duyduğunuzda hızlıca erişebilmek için tüm portal giriş bilgilerinizi kaydedin.",
+"overview": {
+"time": "Portalları haftalık kontrol edin. Kararlar genellikle son başvuru tarihinden 4 ila 12 hafta sonra gelir.",
+"cost": "Ücretsiz",
+"process": "Gönderdikten sonra uni-assist panelinizi ve her üniversitenin başvuru portalını en az haftada bir kontrol edin. E-postanızı ve postanızı izleyin. Her portala hızlıca erişebilmek için tüm giriş bilgilerinizi kayıtlı tutun.",
+"why": "Üniversiteler bazen siz gönderdikten sonra ek belge ister veya bilgileri netleştirmenizi ister. Bu mesajı kaçırırsanız başvurunuz durur veya reddedilir. Portallarınızı takip etmek ayrıca teklifler gelir gelmez haberdar olmanızı sağlar; bu da karar vermek ve onaylamak için size en fazla zamanı tanır."
+},
+"steps": [
+["Tüm giriş bilgilerini kaydedin", "Başvurduğunuz her portalın kullanıcı adını, şifresini ve başvuru referans numarasını yazın. Uni-assist, üniversitelerin portalları ve kullandığınız e-posta hesapları. Önümüzdeki birkaç ay boyunca bunlara düzenli olarak ihtiyacınız olacak."],
+["uni-assist panelinizi haftalık kontrol edin", "Durum güncellemeleri, belge düzeltme talepleri veya mesajlar için her hafta uni-assist.de'ye giriş yapın. uni-assist eksik veya hatalı bir belge işaretlerse 1 ila 2 gün içinde yanıt verip yeniden gönderin. Gecikmeler başvurunuzu değerlendirme penceresinin dışına itebilir."],
+["Her üniversite portalını düzenli kontrol edin", "Doğrudan başvurduğunuz programlar için durumu görmek üzere her üniversitenin portalına düzenli olarak giriş yapın. Üniversiteler başvuruları inceledikçe bu portalları günceller. Bazıları durum değiştiğinde e-posta gönderir, ama hepsi değil. Yalnızca e-postaya güvenmeyin."],
+["E-postanızı ve postanızı izleyin", "Başvurularda kullandığınız e-posta adresini her gün kontrol edin. Bazı Alman üniversiteleri hâlâ kabul mektuplarını, belge taleplerini ve hatta retleri posta ile gönderir. Henüz Almanya'da değilseniz kayıtlı adresinizi birinin kontrol edebildiğinden emin olun."],
+["Taleplere hızla yanıt verin", "Bir üniversite veya uni-assist ek belge isterse ya da soru sorarsa 1 ila 2 gün içinde yanıt verin. Yavaş yanıtlar değerlendirme sırasındaki yerinizi kaybettirebilir. Hızlıca yükleyip gönderebilmek için asıl belgelerinizi ve onaylı kopyalarınızı erişilebilir tutun."]
+],
+"faqs": [
+["Gönderdikten sonra yanıt almak ne kadar sürer?", "Genellikle son başvuru tarihinden 4 ila 12 hafta sonra. Bazı üniversiteler kararları sırayla gönderir; diğerleri son tarih kapandıktan sonra tüm başvuruları inceler. 12 hafta sonra hâlâ haber alamadıysanız kabul ofisiyle doğrudan iletişime geçip durum bilgisi istemeniz makuldür."],
+["uni-assist bir belgeyi düzeltmemi isterse ne olur?", "uni-assist panelinize giriş yapın, düzeltme talebini dikkatle okuyun, belgeyi düzeltin veya yeniden yükleyin ve mümkün olduğunca hızlı yeniden gönderin. Düzeltme talepleri yaygındır. Başvurunuz son tarih kapanmadan aktif sırada kalsın diye 1 ila 2 gün içinde yanıt verin."],
+["Alman üniversiteleri kabul mektuplarını posta ile mi gönderir?", "Bazıları evet. Kabul mektupları (Zulassungsbescheid) e-postayla, üniversite portalı üzerinden veya posta ile gelebilir. Üniversiteye göre değişir. Üç kanalı da kontrol edin. Almanya dışındaysanız güvenilir bir posta adresiniz veya postanızı size iletebilecek Almanya'da bir tanıdığınız olduğundan emin olun."],
+["Reddedilirsem ne olur?", "Programın bekleme listesi veya itiraz süreci olup olmadığını kontrol edin. Bazı üniversiteler değerlendirmede hata olduysa itirazları kabul eder. Yoksa bir sonraki kabul dönemi için yeniden başvurabilirsiniz. Reddi başvurunuzu gözden geçirmek için kullanın. Dil puanları, notlar veya eksik belgeler en yaygın nedenlerdir."]
+]
+},
+"accept-admission-offer": {
+"title": "Kabul teklifini onayla",
+"intro": "Bir teklif (Zulassungsbescheid) henüz kesinleşmiş bir yer değildir. Size tanınan süre içinde (genellikle 2 ila 6 hafta) çevrimiçi kabul eder, Almanya'da yasal sağlık sigortası yaptırır, dönem katkı payını öder ve kayıt belgelerinizi teslim edersiniz. Üniversite ardından öğrenci vizeniz, bloke hesabınız ve barınma için ihtiyaç duyacağınız Immatrikulationsbescheinigung (öğrenci belgesi) düzenler.",
+"overview": {
+"time": "Kabul etmek için 2 ila 6 hafta, ardından kayıt için 1 ila 3 hafta.",
+"cost": "150 EUR ile 400 EUR arası dönem katkı payı. Devlet üniversitelerinin çoğunda harç yok.",
+"process": "Kabulü çevrimiçi onaylayın, Almanya'da sağlık sigortası yaptırın, dönem katkı payını ödeyin, kayıt belgelerini teslim edin ve kayıt onayınızı (Immatrikulationsbescheinigung) alın.",
+"why": "Teklif almak yerinizi garantilemekle aynı şey değildir. Çoğu üniversite size sabit bir süre verir. Çoğunlukla 2 ila 6 hafta. Bu süre içinde kabulü onaylamanız, dönem katkı payını ödemeniz ve kayıt belgelerini teslim etmeniz gerekir. Bu son tarihi kaçırmak, yeri geri alma imkânı olmadan kaybetmeniz demektir."
+},
+"steps": [
+["Teklif mektubunu baştan sona okuyun", "Kabul mektubunuz (Zulassungsbescheid), yerinizi onaylamak için gereken adımları ve son tarihleri tam olarak listeler. Aldığınız gün dikkatle okuyun. Bazı üniversiteler teklifi e-postayla, bazıları portal üzerinden, bazıları posta ile gönderir. Üçünü de kontrol edin."],
+["Kabulü üniversitenin portalı üzerinden onaylayın", "Üniversitenin kayıt veya kabul portalına giriş yapın ve teklifi kabul ettiğinizi onaylayın. Bu genellikle portalda bir düğme veya formdur. Bazı üniversiteler ayrıca e-postayla yazılı yanıt ister. Mektupta ne belirtiliyorsa onu izleyin."],
+["Almanya'da yasal sağlık sigortası yaptırın", "Alman üniversiteleri kaydınızı tamamlamadan önce Almanya'da yasal sağlık sigortası (gesetzliche Krankenversicherung) kanıtı ister. Profilinize uygun bir yasal sağlık sigortasına kaydolun; bunu Expatrio gibi aracı hizmetler üzerinden de yapabilirsiniz. Almanya'ya gelmeden önce çevrimiçi başvurabilirsiniz. Kaydınızla birlikte teslim edeceğiniz bir onay belgesi (Versicherungsnachweis) alırsınız."],
+["Dönem katkı payını ödeyin", "Dönem katkı payını (Semesterbeitrag) teklif mektubunuzda gösterilen son tarihe kadar ödeyin. Bu genellikle 150 EUR ile 400 EUR arasındadır ve öğrenci hizmetlerini, Mensa erişimini, öğrenci danışmanlığını ve çoğu zaman bir dönemlik toplu taşıma biletini (Semesterticket) kapsar. Üniversitenin belirttiği hesaba banka havalesiyle ödeyin. Ödeme onayını saklayın."],
+["Kayıt belgelerini teslim edin ve onayınızı alın", "İstenen tüm kayıt belgelerini teslim edin. Genellikle pasaport kopyanız, kabul mektubunuz, sağlık sigortası kanıtınız, ödeme onayınız ve üniversitenin istediği yeterlik belgeleri. Üniversite her şeyi işleme aldıktan sonra Immatrikulationsbescheinigung (öğrenci belgesi) alırsınız. Bu belge kayıtlı öğrenci olduğunuzu kanıtlar ve öğrenci vizesi başvurunuz, barınma ve bankacılık için gereklidir."],
+["Birden fazla teklifiniz varsa diğerlerini reddedin", "Birden fazla üniversiteden teklif aldıysanız, karar verir vermez almayacaklarınızı reddedin. Bunu her üniversitenin portalı üzerinden veya teklif e-postasını yanıtlayarak yapın. Hızlı reddetmek bekleme listesindeki diğer öğrencilere yer açar."]
+],
+"faqs": [
+["Zulassungsbescheid nedir?", "Zulassungsbescheid resmi kabul mektubunuzdur. Üniversitede bir yeriniz olduğunu onaylar ve kaydınızı tamamlamak için gereken adımları ve son tarihleri listeler. Saklayın. Vize başvurunuz ve bloke hesabınız için ona ihtiyacınız olacak."],
+["Immatrikulationsbescheinigung nedir?", "Immatrikulationsbescheinigung öğrenci belgenizdir. Tüm kayıt adımlarını tamamladıktan sonra düzenlenir ve kayıtlı öğrenci olduğunuzu kanıtlar. Öğrenci vizesine başvurmak, bloke hesap açmak ve bazı durumlarda barınma ayarlamak için gereklidir."],
+["Dönem katkı payı nedir ve neden ödüyorum?", "Dönem katkı payı (Semesterbeitrag), üniversitenin ve öğrenci birliğinin sağladığı öğrenci hizmetlerini kapsar. Mensa (yemekhane), öğrenci danışmanlığı, spor tesisleri ve çoğu zaman bir toplu taşıma Semesterticket'ı. Üniversiteye ve şehre bağlı olarak 150 EUR ile 400 EUR arasında değişir. Harçtan ayrıdır. Almanya'daki devlet üniversitelerinin çoğu uluslararası öğrencilerden harç almaz. İstisna, AB dışından uluslararası öğrencilerden dönem başına ek 1.500 EUR alan Baden-Württemberg'dir."],
+["Neden yalnızca seyahat sigortası değil de Almanya'da sağlık sigortası gerekiyor?", "Alman üniversiteleri seyahat sigortası değil, Almanya'da yasal sağlık sigortasına (gesetzliche Krankenversicherung) kayıt kanıtı ister. Özel sigorta veya seyahat sigortası kayıt için kabul edilmez. Almanya'ya gelmeden önce çevrimiçi kaydolabilirsiniz; Expatrio gibi aracı hizmetler profilinize uygun sigortayı bulmanıza yardımcı olabilir ve İngilizce kayıt süreci sunar."],
+["Kabul son tarihini kaçırırsam ne olur?", "Yerinizi kaybedersiniz. Almanya'daki çoğu üniversitede kaçırılan kabul son tarihi için ek süre veya itiraz yoktur. Yerinizi kaybederseniz bir sonraki kabul dönemi için yeniden başvurmanız gerekir. Teklif üzerinde aldığınız gün harekete geçmenin hayati olmasının nedeni budur."],
+["Aynı anda birden fazla teklifi kabul edebilir miyim?", "Etmemelisiniz. Yalnızca almayı düşündüğünüz teklifi kabul edin, ardından diğerlerini hemen reddedin. Birden fazla yer tutmak diğer öğrencilerin kabul edilmesini engeller. Çoğu üniversite fark ettiğinde mükerrer kabulleri iptal eder."]
+]
+},
+"prepare-cv": {
+"title": "Özgeçmişini hazırla",
+"intro": "Birçok Alman üniversite programı motivasyon mektubunun yanında özgeçmiş (CV) ister. Alman formatı tablo biçimli bir Lebenslauf'tur. İki sütunlu, yeniden eskiye sıralı, eğitim ve deneyimi açıklanmamış boşluk bırakmadan kapsayan bir belge. Almanca programlar için Almanca, İngilizce programlar için İngilizce yazın. 1 ila 2 sayfa tutun.",
+"overview": {
+"time": "İlk sürüm için 2 ila 4 saat. Her program için gerektiğinde güncelleyin.",
+"cost": "Ücretsiz",
+"process": "Eğitimi, varsa iş veya staj deneyimini, dil becerilerini ve ilgili etkinlikleri kapsayan tablo biçimli bir özgeçmiş yazın. Dili programa uydurun. Almanca programlar Almanca, İngilizce programlar İngilizce özgeçmiş bekler.",
+"why": "Birçok Alman üniversitesi, özellikle rekabetçi programlarda, motivasyon mektubunun yanında özgeçmiş ister. Her program istemez, ama hazırda bir tane olması istendiğinde zaman kazandırır. İstendiği halde özgeçmişin eksik olması ret nedenidir."
+},
+"steps": [
+["Her programın özgeçmiş şartlarını kontrol edin", "Yazmadan önce kısa listenizdeki her programın kabul sayfasını kontrol edin. Bazı programlar istenen biçimi, dili veya uzunluğu belirtir. Bazıları özgeçmişi ve motivasyon mektubunu birlikte ister. Diğerleri yalnızca birini ister. Başlamadan önce her biri için neyin gerektiğini teyit edin."],
+["Eğitim bölümünüzü yeniden eskiye doğru yazın", "En son eğitiminizi en başa yazın. Kurum adını, tarihleri (ay ve yıl), yeterlik veya program adını ve ilgiliyse sonucunuzu ya da notunuzu ekleyin. Lisans adayları için bu genellikle lise bitirme belgenizi (sonucuyla), tamamladıysanız Studienkolleg'i (FSP sonucuyla) veya kendi ülkenizdeki üniversite yılınızı (notlarıyla) içerir. Tarihler arasında açıklanmamış boşluk bırakmayın."],
+["İş deneyimi ve stajları ekleyin", "Ücretli işleri, stajları veya önemli gönüllülük deneyimlerini yeniden eskiye sıralayın. Kurum adını, rolünüzü ve tarihleri ekleyin. Kısa süreli veya yarı zamanlı roller bile eklemeye değer. Henüz iş deneyiminiz yoksa bu bölümü atlayın. Lisans seviyesinde beklenmez."],
+["Dilleri, becerileri ve sertifikaları ekleyin", "Dillerinizi sertifikalı seviyenizle listeleyin (örneğin Almanca C1. TestDaF, İngilizce C1. IELTS 7.0). İlgili diğer beceri veya sertifikaları ekleyin. Yazılım, teknik beceriler veya ilgili ders dışı etkinlikler. Bu bölümü belirsiz değil, olgusal tutun."],
+["Dili programa uydurun ve gözden geçirin", "Almanca bir programa başvuruyorsanız özgeçmişin tamamını Almanca yazın. İngilizce bir programa başvuruyorsanız İngilizce yazın. Her iki tür programa da başvuruyorsanız iki sürüm hazırlayın. Göndermeden önce Almanca sürümü anadili Almanca olan veya ona yakın konuşan birine kontrol ettirin. Temiz bir PDF olarak kaydedin."]
+],
+"faqs": [
+["Tüm Alman üniversiteleri lisans başvuruları için özgeçmiş ister mi?", "Hayır. Programa bağlıdır. Bazıları motivasyon mektubunun yanında özgeçmiş ister, diğerleri yalnızca motivasyon mektubu ister, bazıları ikisini de istemez. Neyin gerektiğini varsaymadan önce kısa listenizdeki her programın kabul sayfasını mutlaka kontrol edin."],
+["Alman tablo biçimli özgeçmiş formatı nedir?", "Alman Tabellarischer Lebenslauf iki sütunlu bir tablo düzenidir. Sol sütun tarihleri, sağ sütun o tarihlerde ne yaptığınızı (eğitim, iş, staj) gösterir. Liseden bugüne kadarki tüm geçmişinizi açıklanmamış boşluk olmadan kapsamalıdır."],
+["Fotoğraf eklemeli miyim?", "Sağ üst köşeye profesyonel bir fotoğraf eklemek Almanya'da hâlâ yaygın bir uygulamadır ve birçok işveren ile bazı üniversiteler bunu bekler. Yasal bir zorunluluk değildir ve bazı programlar açıkça eklememenizi söyler. Programın talimatlarını kontrol edin. Hiçbir şey söylemiyorsa profesyonel bir fotoğraf genellikle kabul edilebilir."],
+["Özgeçmiş ne kadar uzun olmalı?", "1 ila 2 sayfa. Sınırlı iş deneyimi olan bir lisans adayı olarak 1 sayfa genellikle yeterlidir ve gayet uygundur. Yer doldurmak için şişirmek yerine temiz ve olgusal tutun."],
+["Geçmişimde boşluklar varsa ne olur?", "Kısa olanlar dahil her boşluğu açıklayın. Bir cümle yeterlidir. Örneğin “Eylül 2022 – Ocak 2023. TestDaF ve üniversite başvurularına hazırlık.” Açıklanmamış boşluklar Alman akademik ve profesyonel ortamında dikkat çeker."]
+]
+},
+"request-vpd": {
+"title": "uni-assist'ten VPD iste",
+"intro": "VPD (Vorprüfungsdokumentation), VPD yolunu kullanan üniversitelere (örnekler: TUM, LMU Münih ve RWTH Aachen) başvuran yüksek lisans adayları için uni-assist'in belge incelemesidir. Uni-assist lisans derecenizi kontrol eder ve notunuzu Alman not sistemine dönüştürür. Ardından VPD'yi ekleyerek doğrudan üniversiteye başvurursunuz. Her üniversite bunu istemez. İşlem 4 ila 6 hafta (yoğun dönemde 8) sürer ve belge bir yıl geçerlidir.",
+"overview": {
+"time": "4 ila 6 hafta işlem süresi; yoğun dönemde (Mayıs–Temmuz) 8 haftaya kadar. En erken son başvuru tarihinizden en az 6 ila 8 hafta önce talep edin.",
+"cost": "VPD talebi başına uni-assist ücreti. Güncel tutar için uni-assist.de'ye bakın.",
+"process": "Kısa listenizdeki hangi üniversitelerin VPD istediğini kontrol edin. VPD'yi uni-assist üzerinden talep edin, belge incelemesini bekleyin, ardından VPD'yi ekleyerek her üniversitenin kendi portalından doğrudan başvurun. VPD bir başvuru değildir. Üniversite başvurusuna eklediğiniz bir belgedir.",
+"why": "Yalnızca kısa listenizdeki üniversiteler VPD yolunu kullanıyorsa geçerlidir. Alman üniversiteleri uluslararası yüksek lisans adayları için üç başvuru yolundan birini kullanır. (1) uni-assist üzerinden VPD, ardından üniversiteye doğrudan başvuru, (2) uni-assist'in başvurunuzu ilettiği tam uni-assist başvurusu veya (3) hiç uni-assist olmadan kendi portalları. Yaklaşık 246 üniversite uni-assist kullanmaz. VPD talep etmeden önce her programın başvuru talimatlarını kontrol edin. VPD yolunu kullanan üniversiteler arasında TUM, LMU Münih ve RWTH Aachen bulunur."
+},
+"steps": [
+["Her üniversitenin hangi yolu kullandığını kontrol edin", "Kısa listenizdeki her program için üniversitenin uluslararası yüksek lisans adaylarına yönelik başvuru talimatlarını açın. Üç şeyden birini söyleyecektir. VPD gerekli (uni-assist üzerinden belge kontrolü, ardından doğrudan başvurursunuz), tam uni-assist başvurusu (uni-assist başvurunuzu iletir) veya kendi portalları üzerinden doğrudan başvuru (uni-assist yok). Bu göreve yalnızca hedeflerinizden en az biri VPD yolunu kullanıyorsa devam edin."],
+["uni-assist hesabınızı oluşturun ve VPD talep edin", "my.uni-assist.de'ye kaydolun. Eğitim geçmişinizi doldurun ve VPD isteyen her üniversite için VPD prosedürünü seçin. Birden fazla VPD yolu üniversitesini aynı anda kapsayan tek bir VPD talebi gönderebilirsiniz."],
+["Belgelerinizi yükleyin ve ödeyin", "Lisans diplomanızı, tam transkriptinizi ve gereken yeminli tercümeleri yükleyin. uni-assist ücretini ödeyin. Eksik yüklemeler gecikmelerin en yaygın nedenidir. Göndermeden önce belge listesini iki kez kontrol edin."],
+["VPD'yi bekleyin", "İşlem 4 ila 6 hafta, yoğun dönemde 8 haftaya kadar sürer. VPD hesabınızda hazır olduğunda uni-assist size e-posta gönderir. VPD, lisans notunuzun Alman not sistemine dönüştürülmüş halini gösterir ve yeterliğinizin tanındığını onaylar."],
+["VPD ile doğrudan üniversiteye başvurun", "VPD sizin belge kanıtınızdır. Şimdi başvurursunuz. Her üniversitenin kendi portalına gidin (örneğin TUM için TUMonline, RWTH için RWTH Aachen başvuru sistemi). VPD'yi üniversitenin kendi istediği belgelerle birlikte yükleyin. Transkript, motivasyon mektubu, özgeçmiş, dil sertifikası ve programa özgü ekler. Üniversitenin kendi son tarihine uyun; bu tarih VPD işlem penceresinin bitiminden çok önce olabilir."],
+["Her üniversite başvurusunu ayrı takip edin", "Her üniversite portalı bağımsızdır. Her başvurunun durumunu kendi portalında ayrı ayrı kontrol edin. Kabul kararları uni-assist'ten değil, üniversiteden gelir. VPD bir yıl geçerlidir; bu dönem kabul almazsanız uni-assist'e geri dönmeden gelecek yıl yeniden kullanabilirsiniz."]
+],
+"faqs": [
+["Her üniversite VPD ister mi?", "Hayır. Hiç de değil. Yaklaşık 246 Alman üniversitesi uni-assist'i hiç kullanmaz; kullananların da birçoğu VPD yerine tam başvuru yolunu (uni-assist başvurunuzu iletir) kullanır. Her programın başvuru talimatlarını tek tek kontrol edin. Bu görev yalnızca hedef üniversitelerinizden en az biri açıkça VPD istiyorsa geçerlidir."],
+["VPD ile tam uni-assist başvurusu arasındaki fark nedir?", "Tam uni-assist başvurusunda uni-assist belgelerinizi inceler ve eksiksiz başvurunuzu sizin adınıza üniversiteye iletir. VPD prosedüründe uni-assist yalnızca belgelerinizi kontrol eder ve notunuzu dönüştürür. Ardından VPD ile üniversiteye kendiniz doğrudan başvurursunuz. Hangi yolun geçerli olduğu tamamen üniversitenin uni-assist ile nasıl bir düzen kurduğuna bağlıdır."],
+["VPD üniversiteye yaptığım başvuru mu?", "Hayır. Bu en yaygın hatadır. VPD bir belge kanıtıdır. Elinize geçtikten sonra bile üniversitenin kendi portalı üzerinden, üniversitenin kendi son tarihine kadar, üniversitenin istediği belgelerle ayrı bir başvuru yapmanız gerekir. VPD almak bir yere başvurduğunuz anlamına gelmez."],
+["VPD'yi ne zaman talep etmeliyim?", "En erken üniversite son başvuru tarihinizden en az 6 ila 8 hafta önce. Yoğun dönemde (Mayıs–Temmuz) daha erken. VPD bir yıl geçerli olduğundan aylar öncesinden talep etmek risk taşımaz. APS'ye de ihtiyacınız varsa, toplam hazırlık süresi 3 ila 4 aya ulaşabileceği için ikisine aynı anda başlayın."],
+["Lisans adaylarının VPD'ye ihtiyacı olur mu?", "Nadiren, ama mümkündür. Az sayıda üniversite uni-assist'i lisans adayları için de VPD verecek şekilde ayarlamıştır. Kendi programınız için uni-assist üniversite veritabanını kontrol edin. Lisans adaylarının çoğu için bu görev geçerli değildir."]
+]
+},
+"research-accommodation-ch2": {
+"title": "Konaklama seçeneklerini araştır",
+"intro": "Almanya'da öğrenci konutu rekabetçidir. Berlin ve Münih'te yurt bekleme listeleri 12 ila 18 ay sürer. Programlarınızın kısa listesini yaparken her üniversite şehri için konaklama seçeneklerine bakın; bekleme sürelerini, maliyetleri ve Studierendenwerk iletişim bilgilerini not edin. Durumu ne kadar erken bilirseniz, teklif geldiğinde harekete geçmeye o kadar hazırlıklı olursunuz.",
+"overview": {
+"time": "Kısa listenizi oluştururken 2 ila 4 saat araştırma.",
+"cost": "Ücretsiz",
+"process": "Kısa listenizdeki her üniversite için Studierendenwerk'e bakın. Yurt seçeneklerini, maliyetleri ve bekleme listesi sürecini kontrol edin. Her kampüsün yakınındaki piyasayı anlamak için özel kiralık ilan sitelerine göz atın.",
+"why": "Almanya'nın büyük şehirlerinde öğrenci konutu kıttır. Yurt bekleme listeleri Berlin'de 12 ila 18 ay, Münih'te 10 ila 14 ay sürer. Kısa listenizdeki her üniversitede nelerin mevcut olduğunu bilmek önceden plan yapmanıza ve kabulden sonra bir konut krizinden kaçınmanıza yardımcı olur."
+},
+"steps": [
+["Kısa listenizdeki her üniversite için Studierendenwerk'i bulun", "“[üniversite adı] Studierendenwerk Wohnheim” diye arayın. Her üniversitenin yurtları işleten bir öğrenci hizmetleri kurumu vardır. Aylık kirayı (öğrenci odası için genellikle 250 EUR ile 500 EUR) ve bekleme listesine katılmak için hangi belgelerin gerektiğini not edin."],
+["Yurt bekleme sürelerini kontrol edin", "Her şehir için mevcut bekleme listesinin ne kadar uzun olduğunu not edin. Berlin ve Münih çoğu zaman 12 ila 18 ay. Frankfurt ve Hamburg 6 ila 10 ay. Daha küçük üniversite şehirleri genellikle daha hızlıdır. Bu, teklif aldığınızda konut aramanızın ne kadar acil olacağını etkiler."],
+["Özel kiralık seçenekleri araştırın", "Her kampüsün yakınındaki paylaşımlı ev ve özel oda piyasasını anlamak için WG-Gesucht'a (wg-gesucht.de) bakın. Tipik aylık kirayı not edin. Özel odaları yurt dışından ayarlamak daha zordur ama yurtlara gerçekçi bir yedektir."],
+["Uluslararası öğrenci konut programlarını kontrol edin", "Bazı üniversiteler yeni uluslararası öğrencilere ilk haftalarında geçici konut garanti eder. Kısa listenizdeki her üniversitenin uluslararası öğrenci ofisine (Akademisches Auslandsamt) bakın. Bu özellikle dönem ortasında geliyorsanız işe yarar."],
+["Teklif aldığınızda kullanmak üzere bekleme listesi bilgilerini kaydedin", "Kısa listenizdeki her üniversitenin Studierendenwerk bekleme listesi formunu yer imlerine ekleyin. Kabul teklifini aldığınız anda bekleme listesine hemen katılmak isteyeceksiniz. Bağlantının hazır olması size günler kazandırır."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Almanya'daki öğrenci konut piyasası, özellikle büyük şehirlerde, rekabetçidir ve bekleme listeleri uzundur. Kısa listenizdeki her üniversitede nelerin mevcut olduğunu bilmek, bir başvuruya karar vermeden önce seçenekleri karşılaştırmanıza yardımcı olur."],
+["Doğru Studierendenwerk'i nasıl bulurum?", "“[üniversite adı] Studierendenwerk” diye arayın veya Almanya'daki her Studierendenwerk'e bağlantı veren daad.de'deki DAAD Accommodation Finder'ı kullanın. Her kurum o üniversitenin veya şehrin öğrenci yurtlarını işletir."],
+["Kabul almadan yurt yeri için başvurabilir miyim?", "Studierendenwerk'lerin çoğu bekleme listesi başvurusunu kabul etmeden önce en azından koşullu bir teklif veya Immatrikulationsbescheinigung ister. Bu araştırma aşamasını süreci anlamak için kullanın; böylece teklif aldığınızda hemen başvurabilirsiniz."],
+["WG nedir ve nasıl işler?", "WG (Wohngemeinschaft), herkesin kendi odasının olduğu ve mutfak, banyo ve oturma alanlarının paylaşıldığı bir evdir. Yurtta yer bulamayan öğrenciler için en yaygın konut seçeneğidir. WG-Gesucht, Almanya'da WG odası bulmak için başlıca platformdur."]
+]
+},
+"write-motivation-letter": {
+"title": "Motivasyon mektubu yaz",
+"intro": "Motivasyon mektubu, neden bu üniversitede tam olarak bu programı okumak istediğinizi açıklayan 1 ila 2 sayfalık bir belgedir. Lisans başvuruları için her zaman gerekli değildir ama yazmanız önerilir. Kabul görevlilerine sizi benzer notlara sahip bir adaya tercih etmeleri için bir neden verir. Alman tarzı kısa, somut ve kanıta dayalıdır. Kişisel bir deneme değildir.",
+"overview": {
+"time": "İlk mektup için 3 ila 5 saat. Sonrakiler için her biri yaklaşık 1 ila 2 saat.",
+"cost": "Ücretsiz",
+"process": "Alanınız için 1 ana taslak yazın. Ardından ikinci ve üçüncü paragrafları her programa göre özelleştirin. 1 ila 2 sayfa tutun.",
+"why": "Her lisans programı motivasyon mektubu istemez, ama bir tane yazmak neredeyse her zaman başvurunuzu güçlendirir. İyi yazılmış bir mektup programı araştırdığınızı ve ciddi bir aday olduğunuzu gösterir. İki adayın notları benzer olduğunda kararı çoğu zaman mektup belirler."
+},
+"steps": [
+["Bir ana taslak yazın", "1 ila 2 sayfa, yaklaşık 500 ila 800 kelime yazın. Geçmişinizi, hedeflerinizi ve getirdiğiniz becerileri anlatın. Üslubu kısa ve kanıta dayalı tutun. Duygusal ya da “Almanya benim hayalim” türü girişlerden kaçının."],
+["Her hedef programı araştırın", "Kısa listenizdeki her program için hedeflerinize uyan 2 veya 3 belirli ders, danışman veya araştırma grubu bulun. Derslerin tam adlarını not edin. Her mektubu kişiye özel hissettiren bu araştırmadır."],
+["Ortadaki paragrafları özelleştirin", "Ana taslağın ikinci ve üçüncü paragraflarını her program için yeniden yazın. Belirli dersleri ve danışmanları adıyla anın. Bunları geçmiş çalışmalarınıza ve gelecek hedeflerinize bağlayın. Giriş ve kapanışı standart tutun."],
+["Her genel geçer cümleyi çıkarın", "“Almanya harika”, “Her zaman hayalini kurdum” ve “dünya standartlarında eğitim” gibi ifadeleri çıkarın. Yerine somut kanıt koyun: yönettiğiniz bir proje, okuduğunuz bir makale, çözmek istediğiniz bir problem. Genel ifadeler mektupları öldürür."],
+["Dili programa uydurun", "Mektubu başvurduğunuz programın öğretim dilinde yazın. Almanca programlar Almanca motivasyon mektubu bekler. İngilizce göndermek, araştırma yapmadığınızın ya da Almancanızın sertifikanızın iddia ettiği kadar güçlü olmadığının işaretidir. İngilizce programlar İngilizce bekler. Emin değilseniz programın kabul sayfasını kontrol edin veya doğrudan üniversiteyle iletişime geçin."],
+["Son okumayı yapın ve sınırın içinde kalın", "Her mektubu bir kez sesli okuyun. Dil bilgisi hatalarını düzeltin ve dolgu ifadeleri kırpın. Program bir kelime sınırı veriyorsa birebir uyun. 2 sayfadan uzun her şey kısa ve öz yazamadığınızın işaretidir. Almanca mektuplar için göndermeden önce dili anadili Almanca olan veya ona yakın konuşan birine kontrol ettirin. Yükleme için temiz bir PDF kaydedin."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Almanya'daki yüksek lisans programlarının çoğu başvurunun parçası olarak motivasyon mektubu ister. Notlar ve sınav puanlarının ötesinde uyumunuzu anlatabileceğiniz tek yer burasıdır. Zayıf bir mektup çoğu zaman yerinize mal olur."],
+["Motivasyon mektubu için Alman tarzı nedir?", "Kısa, somut ve kanıta dayalı. Ne yaptığınızı, ne yapmak istediğinizi ve bu programın neden uyduğunu belirtin. Süslü dilden, duygusal hikâyelerden veya “Almanya benim hayalim” türü girişlerden kaçının."],
+["Her programa göre mi özelleştirmeliyim, yoksa tek bir ana mektup mu yazmalıyım?", "İkisini de. Geçmişiniz, hedefleriniz ve becerilerinizle bir ana taslak yazın. Her program için ortadaki paragrafları o üniversitedeki belirli dersleri, danışmanları veya araştırma gruplarını anacak şekilde yeniden yazın."],
+["Motivasyon mektubu ne kadar uzun olmalı?", "1 ila 2 sayfa. Yaklaşık 500 ila 800 kelime. Bazı programlar kelime sınırı verir; ona birebir uyun. 2 sayfadan uzun her şey kısa ve öz yazamadığınızın işaretidir."]
+]
+}
+}
+}

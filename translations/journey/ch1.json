@@ -1,0 +1,281 @@
+{
+"id": "ch1_get_ready",
+"title": "Hazırlan",
+"description": "Başvurabilmeniz için üç şeyin tamam olması gerekir: belgeleriniz hazır olmalı, dil seviyeniz yeterli olmalı ve finansmanınız ayarlanmış olmalı. Bu bölüm üçünü de gerçekleştirmenizi sağlar.",
+"tasks": {
+"check-anabin-recognition": {
+"title": "Anabin'de diploma tanınırlığını kontrol et",
+"intro": "Anabin, Almanya'nın tanınan yabancı diplomalara ilişkin ücretsiz çevrimiçi veritabanıdır. Diplomanızın Almanya'daki bir lisans derecesine denk sayılıp sayılmadığını burada arayarak doğrularsınız. Bulacağınız H derecelendirmesi, Almanya'da yüksek lisansa ya da AB Mavi Kart'lı (Blue Card) bir işe başvurup başvuramayacağınızı belirler.",
+"overview": {
+"time": "anabin.kmk.org üzerinde anında. Bunun yerine ZAB bildirimi gerekirse birkaç ay.",
+"cost": "Ücretsiz",
+"process": "anabin.kmk.org'u açın. Önce ülkenizi, sonra üniversitenizi, ardından derecenizi arayın. H derecelendirmesini not edin.",
+"why": "Anabin, diplomanızın Almanya'daki bir lisans derecesine denk sayılıp sayılmadığını söyler. Yüksek lisansa, AB Mavi Kart'lı bir işe ya da Chancenkarte'ye başvurmadan önce bu cevaba ihtiyacınız var."
+},
+"steps": [
+["Anabin'i açın", "anabin.kmk.org adresine gidin. Site Almancadır. Gerekirse tarayıcınızın çeviri aracını kullanın. Kayıt gerekmez ve arama ücretsizdir."],
+["Ülkenizi ve üniversitenizi bulun", "Institutionen bölümünü açın. Önce ülkenize, sonra üniversitenizin adına göre arama yapın. Kurum sayfasını açmak için üniversitenize tıklayın."],
+["H derecelendirmesini okuyun", "H derecelendirmesi kurum sayfasında yer alır. H+ tanındığı anlamına gelir. H+/- kısmi tanınma demektir. H- tanınmadığı anlamına gelir. Almanya'da yüksek lisansa doğrudan kabulün ya da AB Mavi Kart'ın kapısını yalnızca H+ açar."],
+["Diploma programınızı bulun", "Hochschulabschlüsse bölümünü açın ve derecenizin adını arayın. Kendi programınıza ait denklik notunu doğrulayın. Başvuru dosyanız için bir ekran görüntüsü kaydedin."],
+["Sonraki adımınıza karar verin", "Üniversiteniz ve dereceniz H+ ise doğrudan başvurabilirsiniz. Listede yoksa veya daha düşük derecelendirilmişse bunun yerine ZAB Karşılaştırılabilirlik Bildirimi (Statement of Comparability) için başvurun. Güncel ücret ve süreler için zab.kmk.org'u kontrol edin."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Anabin, Alman üniversitelerinin ve işverenlerin diplomanızı tanıyıp tanımayacağını saniyeler içinde gösterir. H derecelendirmesi kabul seçeneklerinizi ve vize yolunuzu şekillendirir; bu yüzden herhangi bir yere başvurmadan önce bunu bilmeniz gerekir."],
+["H+, H- veya H+/- kabul şansım için ne anlama geliyor?", "H+ diplomanızın denk olarak tanındığı anlamına gelir. H- tanınmadığı anlamına gelir. H+/- kısmi ya da koşullu tanınma demektir. Almanya'da yüksek lisansa doğrudan kabulün ya da AB Mavi Kart'ın kapısını yalnızca H+ açar."],
+["Üniversitem Anabin'de listelenmiyor. Ne yapmalıyım?", "ZAB Karşılaştırılabilirlik Bildirimi için başvurun. Bu, Almanya'nın merkezi tanınma ofisinin yaptığı resmi belge değerlendirmesidir. ZAB süreci birkaç ay sürer ve ücretlidir. Güncel ayrıntılar için zab.kmk.org'u kontrol edin."],
+["Anabin kontrolü ne kadar sürer ve gerçekten ücretsiz mi?", "Kontrolün kendisi 5 ila 10 dakika sürer ve ücretsizdir. Site Almancadır ama tarayıcı çeviri aracı bunu iyi halleder. Kayıt olmanız ya da herhangi bir şey göndermeniz gerekmez."]
+]
+},
+"confirm-bachelors-degree": {
+"title": "Lisans diplomanı doğrula",
+"intro": "Lisans diplomanız ve eksiksiz not dökümünüz (transkript), yüksek lisans başvurunuzun temel belgeleridir. Bunları bir araya getirin, ek resmi kopyalar sipariş edin ve üniversitenizin anabin'deki tanınma durumunu doğrulayın. Son sınıf öğrencileri çoğu zaman mezun olmadan önce güncel transkriptle başvurabilir.",
+"overview": {
+"time": "Mezunsanız belgeleri toplamak 1 ila 2 hafta. Son sınıftaysanız birçok üniversitede güncel transkriptle başvurabilirsiniz.",
+"cost": "Belgeler elinizdeyse ücretsiz. Yeniden düzenlenen diplomalar veya ek transkript kopyaları için üniversite ücretleri uygulanır.",
+"process": "Diplomanızı ve eksiksiz not dökümünüzü toplayın. Üniversitenizden ek resmi kopyalar isteyin. Henüz mezun olmadıysanız tamamlanan kredileri gösteren güncel bir transkript alın.",
+"why": "Lisans diplomanız, Almanya'da yüksek lisansa giriş biletinizdir. Üniversiteler başvurunuzdaki her şeyden önce diplomayı, tam transkripti ve kurumun tanınma durumunu kontrol eder."
+},
+"steps": [
+["Diplomanızı ve transkriptinizi toplayın", "Kesin diplomaya ve her dersi ve notu gösteren eksiksiz not dökümüne ihtiyacınız var. Hâlâ öğrenciyseniz güncel bir transkript alın; birçok Alman üniversitesi son sınıf öğrencilerinin başvurularını kabul eder."],
+["Ek resmi kopyalar sipariş edin", "Üniversitenizin öğrenci işlerinden her iki belgenin 2 ila 3 resmi kopyasını isteyin. Bunlara uni-assist veya VPD, üniversite başvurusu, gerekiyorsa APS ve vize dosyası için ihtiyacınız olacak. Şimdi bir kez sipariş vermek, sonradan üç kez sipariş vermekten daha hızlıdır."],
+["Kurumunuzu anabin'de kontrol edin", "anabin.kmk.org'u açın ve üniversitenizin H+ statüsünde olduğunu, derece türünüzün de listelendiğini doğrulayın. H+, Alman üniversitelerinin diplomanızı tanıdığı anlamına gelir. Bu kontrolün kendine ait bir görevi var: Anabin'de diploma tanınırlığını kontrol et."],
+["Gerekirse çevirileri planlayın", "Belgeleriniz Almanca veya İngilizce değilse, teslimden önce yeminli tercüme gerekir. Bunu yeminli tercüme görevi için not edin. Birçok üniversite İngilizce belgeleri doğrudan kabul eder."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Tanınan bir lisans diploması, Almanya'daki her yüksek lisans programının temel kabul şartıdır. Üniversiteler bunu her şeyden önce kontrol eder; bu yüzden belgelerinizi düzene sokmak ilk adımınızdır."],
+["Lisansımı bitirmeden başvurabilir miyim?", "Çoğu zaman evet. Birçok Alman üniversitesi, 180 AKTS'nin yaklaşık 130 ila 150'sini tamamlamış son sınıf öğrencilerinin başvurularını güncel transkripte dayanarak kabul eder. Kesin diploma daha sonra kayıt sırasında teslim edilir. Her programın kurallarını kontrol edin."],
+["Diploma belgelerimden kaç kopyaya ihtiyacım var?", "Diplomanın ve transkriptin en az 2 ila 3 resmi kopyasını planlayın. Bunları uni-assist veya VPD, üniversite başvurusu, APS (Hindistan, Çin veya Vietnam'dansanız) ve vize başvurusu için kullanacaksınız."],
+["Diplomam 3 yıllık bir lisans programından. Bu sorun olur mu?", "Yüksek lisans kabulü için genellikle hayır; önemli olan üniversitenizin ve derecenizin anabin'deki tanınma durumu ve alanınızın yüksek lisans programıyla örtüşüp örtüşmediğidir. Bazı programlar asgari bir AKTS sayısı belirtir; 3 yıllık bir derece (180 AKTS) bunu genellikle karşılar."]
+]
+},
+"confirm-funds-blocked-account": {
+"title": "Finansmanını planla",
+"intro": "Almanya, öğrenci vizenizi vermeden önce 11.904 EUR'ya sahip olduğunuzu kanıtlamanızı ister. Bu, kabaca bir yıllık yaşam masrafıdır. Finansman yolunuza şimdi karar vermek, vize randevunuz geldiğinde telaşa düşmemeniz demektir.",
+"overview": {
+"time": "Seçenekleri karşılaştırıp bir yol seçmek 1 ila 2 hafta. Bazı yollar (burslar) aylar öncesinden hazırlık gerektirir.",
+"cost": "Planlanacak tutar 11.904 EUR (bir yıl boyunca aylık 992 EUR). Hesabı daha sonra açarken sağlayıcı ücretleri uygulanır.",
+"process": "11.904 EUR'yu nasıl karşılayacağınızı seçin. Dört yaygın yol: bloke hesap, sponsor, burs veya öğrenim kredisi.",
+"why": "Almanya öğrenci vizenizi vermeden önce, büyükelçilik ilk yılki yaşam masraflarınızı kendiniz karşılayabileceğinize dair kanıt görmek ister. Bu kanıt olmadan vize başvurunuz reddedilir. Üniversite başvurunuz ne kadar güçlü olursa olsun. Finansman yolunuzu şimdi planlamak, altı ay sonra bunun için telaşa düşmemeniz demektir."
+},
+"steps": [
+["Şartı doğrulayın", "Almanya, öğrenci vizesi başvurunuzun parçası olarak 11.904 EUR'nun kanıtını ister. Bu kabaca bir yıllık yaşam masrafıdır (ayda 992 EUR). Büyükelçilik vizenizi onaylamadan önce bu kanıtı görmek ister."],
+["Dört seçeneğinizi anlayın", "Finansman kanıtı göstermenin tanınan dört yolu vardır. Bloke hesap: Almanya'daki bir hesapta tutulan kendi birikimleriniz. Sponsor: Almanya'daki biri masraflarınızı resmi olarak garanti eder. Burs: DAAD gibi tanınan bir burs, bloke hesabın yerini alır. Öğrenim kredisi: bir bankadan alınan resmi kredi sözleşmesi kanıt olarak sayılır."],
+["Bir yol seçin ve en uzun süren işe başlayın", "Durumunuza uyan yolu seçin, sonra yavaş ilerleyen kısımlara şimdi başlayın: Bloke hesap: kendi birikimleriniz ya da aile parası Almanya'daki bir bloke hesaba (Sperrkonto) aktarılır. Hesabı kabul aldıktan sonra 3. Bölüm'de açarsınız. Şimdiden biriktirmeye başlayın. Burs: DAAD gibi tanınan bir burs bloke hesabın yerini tamamen alır. Çoğu burs başvurusu, başlangıç tarihinizden 6 ila 12 ay önce kapanır. Uygun olup olmadığınızı bugün kontrol edin. Sponsor (Verpflichtungserklärung): Almanya'da yaşayan bir kişi, yerel göç dairesinde (Ausländerbehörde) yasal bir garanti imzalar. Sizi karşılayacak yeterli geliri göstermesi gerekir. Onun tarafındaki evrak işleri için 4 ila 8 hafta ayırın. Öğrenim kredisi: kendi ülkenizdeki bir bankadan veya devlet programından alınan resmi kredi. İmzalı kredi sözleşmesi büyükelçiliğe kanıt olarak gider. Kurallar ve kabul edilen kredi verenler ülkeye göre değişir."],
+["Paranın gerçekte ne zaman aktarılacağını not edin", "Bloke hesap yolunu seçerseniz parayı aktarıp hesabı 3. Bölüm'de açarsınız. Şimdi değil. Burs ya da sponsor yolunu seçerseniz evrak işleri şimdi başlar, çünkü ikisi de aylar sürer. Hedeflediğiniz vize randevusu tarihinden geriye doğru planlayın."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Almanya, öğrenci vizesi vermeden önce ilk yılki yaşam masraflarınızı karşılayabileceğinizin kanıtını ister. Bloke hesap standart kanıttır. Bu olmadan büyükelçilik başvurunuzu reddeder."],
+["Ne kadar göstermem gerekiyor?", "Yıl için 11.904 EUR; bu da ayda 992 EUR'ya denk gelir. Bu, kaynağın verdiği güncel rakamdır; doğrudan bununla planlama yapabilirsiniz."],
+["Bloke hesap yerine Verpflichtungserklärung (sponsor) kullanabilir miyim?", "Evet. Verpflichtungserklärung, Almanya'daki bir Ausländerbehörde'de imzalanan resmi bir sponsorluk belgesidir. Sponsorun sizi karşılayacak yeterli geliri kanıtlaması gerekir. Almanya tarafında hazırlığı zaman alır, bu yüzden önceden planlayın."],
+["Burs parası bloke hesap şartının yerini tutar mı?", "Evet, burs en az gereken aylık 992 EUR tutarını karşılıyorsa. DAAD bursları ve diğer tanınan burslar sayılır. Bloke hesap onayı yerine burs belgenizi büyükelçiliğe gönderin."]
+]
+},
+"get-english-certificate": {
+"title": "İngilizce dil sertifikası al",
+"intro": "Programınızın istediği seviyeyi karşıladığınızı gösteren tanınmış bir İngilizce dil sertifikası. Almanya'daki lisans programları genellikle IELTS 6.0 ila 6.5 (Academic) veya TOEFL iBT 80 ila 88 ister. Yüksek lisans programları genellikle IELTS 6.5 veya TOEFL 90 ister. Tüm sertifikalar 2 yıl geçerlidir. Sınava kaydolmadan önce her programın kesin şartını kontrol edin.",
+"overview": {
+"time": "4 ila 6 hafta hazırlık. Sonuçlar sınavdan 2 ila 4 hafta sonra gelir. Üç ana sınavın tamamı (IELTS, TOEFL, Duolingo) sınav tarihinizden itibaren 2 yıl geçerlidir.",
+"cost": "Sınav ücretleri ülkeye ve sağlayıcıya göre değişir. Duolingo genellikle en ucuz seçenektir. IELTS ve TOEFL ücretleri daha yüksektir ve ülkeye göre değişir. Güncel ücretler için her sağlayıcının sitesine bakın.",
+"process": "Her programın ne istediğini kontrol edin. Bir sınav seçin (IELTS Academic, TOEFL iBT ya da kabul ediliyorsa Duolingo). Tarihinizi 3 ay veya daha önceden ayırtın. Hazırlanın. Sınava girin. Resmi puanınızı her üniversiteye gönderin.",
+"why": "Alman üniversitelerindeki İngilizce programlar, başvurunuzu değerlendirmeden önce İngilizce seviyenizi kanıtlamanızı ister. Ülkenizde İngilizce yaygın konuşulsa bile bu geçerlidir. Üniversite resmi kanıt olarak resmi olarak tanınan bir sertifikaya ihtiyaç duyar. Gereken sınav ve puan, programınıza göre değişir. Kesin şart için her programın kabul sayfasını kontrol edin."
+},
+"steps": [
+["Programınızın gerçekte ne istediğini kontrol edin", "Kısa listenizdeki her programın kabul sayfasını açın. İngilizce yeterlik bölümünü bulun. Hangi sınavları kabul ettiklerini ve her biri için asgari puanı not edin. Puan şartları değişkenlik gösterir. Kısa listenizdeki en yüksek hedefi esas alın. Lisans programları genellikle IELTS 6.0 ila 6.5 veya TOEFL 80 ila 88 ister. Yüksek lisans programları genellikle IELTS 6.5 veya TOEFL 90 ister."],
+["Programlarınıza uygun sınavı seçin", "IELTS Academic: Alman üniversitelerinde en yaygın kabul gören sınav. TOEFL iBT: Alman üniversitelerinin çoğu tarafından kabul edilir. Duolingo English Test: daha ucuz ve hızlıdır ama Almanya'daki tüm devlet üniversiteleri tarafından kabul EDİLMEZ. Yalnızca listenizdeki her program onaylıyorsa seçin. Ücretler ülkeye göre değiştiği için her sağlayıcının sitesinden kontrol edin."],
+["Sınav tarihinizi erken ayırtın", "En erken başvuru son tarihinizden en az 3 ay önce yer ayırtın. Cumartesi seansları en hızlı dolar. IELTS için British Council, TOEFL için ets.org/toefl, Duolingo için englishtest.duolingo.com üzerinden kaydolun. Tüm sınav sonuçları sınava girdiğiniz tarihten itibaren 2 yıl geçerlidir."],
+["Resmi deneme sınavlarıyla hazırlanın", "Her sağlayıcı çevrimiçi olarak ücretsiz resmi deneme sınavları sunar. 4 ila 6 hafta odaklı hazırlık için zaman ayırın. Sınav günü tempo size tanıdık gelsin diye tam deneme sınavlarında süre tutun. Hedef puanınıza ulaşamazsanız yeniden girebilirsiniz. Sağlayıcınızın tekrar sınav politikasını kontrol edin ve son tarihinizden önce yeterli zaman bırakın."],
+["Sınava girin ve sonuçlarınızı gönderin", "Ayırttığınız tarihte sınava girin. Sonuçlar 2 ila 4 hafta sonra gelir. Resmi puanınızı sağlayıcıdan doğrudan her üniversiteye gönderin. Fotokopi veya ekran görüntüsü kabul etmezler. Göndermeden önce her üniversitenin doğru alıcı adresini veya kodunu teyit edin."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Hedef programınız İngilizce eğitim veriyor. Alman üniversiteleri, başvurunuzu değerlendirmeden önce resmi İngilizce yeterlik kanıtı ister. Kabul ettikleri sınav ve puan programa göre değişir. Listenizdeki her programın kabul sayfasını mutlaka kontrol edin."],
+["Üniversiteler Duolingo'yu kabul eder mi, yoksa IELTS veya TOEFL mi gerekir?", "Üniversiteye ve programa bağlıdır. IELTS Academic ve TOEFL iBT, Alman üniversitelerinin çoğu tarafından kabul edilir. Duolingo daha ucuzdur ve bazı üniversitelerce kabul edilir, ancak güvenli bir varsayılan değildir. Almanya'daki birçok devlet üniversitesi onu kabul etmez. Duolingo sınavına kaydolmadan önce mutlaka programınıza danışın."],
+["Hangi puana ihtiyacım var?", "Lisansa mı yoksa yüksek lisansa mı başvurduğunuza bağlıdır. Lisans programları genellikle IELTS 6.0 ila 6.5 (Academic) veya TOEFL iBT 80 ila 88 ister. Yüksek lisans programları genellikle IELTS 6.5 veya TOEFL iBT 90 ister. Bazı rekabetçi programlar IELTS 7.0 ister. Her programın kabul sayfasındaki kesin hedefi mutlaka kontrol edin."],
+["İngilizce sertifikam ne kadar süre geçerli?", "IELTS, TOEFL ve Duolingo sonuçlarının tümü sınava girdiğiniz tarihten itibaren 2 yıl geçerlidir. Sertifikanız bir başvuruda kullanmadan önce süresi dolarsa yeniden sınava girmeniz gerekir."],
+["Gereken puana ulaşamazsam ne olur?", "Sınavların herhangi birine yeniden girebilirsiniz. Sağlayıcınızın tekrar sınav politikasını kontrol edin. IELTS ve TOEFL kısa bir bekleme süresinden sonra tekrar girmeye izin verir. Düşük bir puan başvuru son tarihinizi kaçırmanıza yol açmasın diye tekrar sınav süresini planınıza dahil edin."],
+["Sınava ne kadar erken kaydolmalıyım?", "Başvuru son tarihinizden en az 3 ay önce kaydolun. Önce Cumartesi seansları dolar. Popüler sonbahar dönemi programlarına başvuruyorsanız sınav merkezleri aylar öncesinden tamamen dolu olabilir."]
+]
+},
+"get-passport": {
+"title": "Pasaport al",
+"intro": "Pasaportunuz Almanya'ya vardığınız günden sonra en az 12 ay geçerli olmalıdır. 15 ay veya daha fazlası daha güvenlidir. Her vize başvurusu, üniversite ve Almanya'daki banka hesabı bunu gerektirir. Pasaportunuzun süresi planladığınız varıştan sonraki bir yıl içinde doluyorsa şimdi yenileyin.",
+"overview": {
+"time": "Ülkeye göre büyük ölçüde değişir. Birkaç hafta planlayın. Güncel işlem süreleri için ülkenizin pasaport dairesine bakın.",
+"cost": "Ülkeye göre değişir. Ülkenizin pasaport dairesine bakın.",
+"process": "Ülkenizin pasaport dairesinde başvurun veya yenileyin. Başvurunuzu, biyometrik verilerinizi ve ücreti teslim edin. Hazır olunca teslim alın.",
+"why": "Pasaportunuz bu yolculuktaki her adım için gereklidir. Vize başvurusu, üniversite kabulü, banka hesabı açmak ve Almanya'da adresinizi kaydettirmek. Almanya'nın büyükelçiliklerinin çoğu, pasaportunuzun Almanya'ya vardığınız günden sonra en az 12 ay geçerli olmasını ister. Bazıları farklılık gösterdiği için kendi büyükelçiliğinizin şartlarını kontrol edin."
+},
+"steps": [
+["Mevcut geçerlilik sürenizi kontrol edin", "Pasaportunuzu açın ve son geçerlilik tarihini bulun. Pasaportunuzun Almanya'ya varmayı planladığınız günden sonra en az 12 ay geçerli olması gerekir. Örneğin Ekim'de varırsanız, ertesi yılın Ekim ayından önce süresi dolmamalıdır. 15 ay veya daha fazlası daha güvenlidir. Süresi bir yıl içinde doluyorsa şimdi yenileyin."],
+["Ülkenizde başvurun veya yenileyin", "Ülkenizin pasaport dairesinde veya dışişleri bakanlığında başvurun ya da yenileyin. Başvurunuzu, biyometrik verilerinizi ve ücreti teslim edin. İşlem süreleri ülkeye göre büyük ölçüde değişir. Vize randevu tarihinizi kesinleştirmeden önce güncel bekleme sürelerini kontrol edin."],
+["Teslim alın ve her ayrıntıyı kontrol edin", "Yeni pasaportunuzu teslim alın. Tüm bilgilerin doğru olduğunu dikkatle kontrol edin: adınızın yazımı, doğum tarihiniz ve fotoğrafınız diğer belgelerinizle birebir eşleşmelidir. Hatalar sonraki her adımı engeller. Bir yanlışlık varsa hemen düzeltme isteyin."],
+["Yedek kopyalar alın", "Fotoğraf sayfasının (fotoğrafınızın ve kişisel bilgilerinizin bulunduğu sayfa) 3 ila 5 net fotokopisini çıkarın. Üniversiteler, bloke hesap sağlayıcıları ve vize hizmetleri sıklıkla bir kopya ister. Dijital taramaları telefonunuzda veya bulut depolamada da saklayın. Bunları noterden onaylatmanız gerekmez. Çoğu kurumun istediği düz bir fotokopidir."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Pasaportunuz yolculuğunuzdaki her adımın temelidir. Her vize başvurusu, üniversite kabulü ve Almanya'daki banka hesabı bunu gerektirir. Yeterli süresi kalmış geçerli bir pasaport olmadan yola çıkmak, insanların planladıkları başlangıç tarihini kaçırmalarının en yaygın nedenidir."],
+["Pasaportumun ne kadar geçerlilik süresi olmalı?", "Almanya'nın büyükelçiliklerinin çoğu, pasaportunuzun Almanya'ya vardığınız günden sonra en az 12 ay geçerli olmasını ister. 15 ay veya daha fazlası daha güvenlidir. Şartlar büyükelçiliğe göre biraz değişebilir; başvurmadan önce kesin şartı ilgili Alman büyükelçiliği veya konsolosluğuyla teyit edin."],
+["Pasaport yenilemem beklenenden uzun sürerse ne olur?", "Durum bilgisi için ülkenizin pasaport dairesiyle iletişime geçin. Gecikme vize randevunuzu tehlikeye atıyorsa acil veya hızlandırılmış işlem olup olmadığını sorun. Ülkenizde bilinen işlem gecikmeleri varsa planınıza ek süre koyun. Bu, alternatif yolu olmayan adımlardan biridir."],
+["Pasaport fotoğraf sayfasının noter onaylı kopyasına ihtiyacım var mı?", "Fotoğraf sayfasının kendisi için hayır. Üniversitelerin, bloke hesap sağlayıcılarının ve büyükelçiliklerin çoğunun istediği net bir fotokopidir. Noter onaylı kopyalar Almanca veya İngilizce olmayan belgeler için gerekir. Örneğin başka bir dildeki akademik transkriptler. Başvurduğunuz her kurumun özel şartlarını kontrol edin."]
+]
+},
+"apostille-documents": {
+"title": "Belgelere apostil / tasdik yaptır",
+"intro": "Apostil veya tasdik (legalizasyon), yabancı belgelerinizin gerçek olduğunu kanıtlayan resmi damgadır. Lise diplomanızda, lisans diplomanızda, transkriptlerinizde ve doğum belgenizde buna ihtiyacınız var. Alman üniversiteleri ve büyükelçilikleri onaysız kopyaları reddeder.",
+"overview": {
+"time": "Lahey Sözleşmesi ülkeleri: birkaç gün ila birkaç hafta. Lahey dışı ülkeler: birkaç hafta ila birkaç ay.",
+"cost": "Belge başına küçük bir devlet harcı. Ülkenizdeki yetkili makam ve kesin ücret için hcch.net'e bakın.",
+"process": "Apostil ülkenizin dışişleri bakanlığında yapılır. Lahey dışı ülkeler: önce noter, sonra dışişleri bakanlığı, ardından Alman büyükelçiliği.",
+"why": "Kendi ülkenizden Almanya'ya bir belge gönderdiğinizde, Alman üniversitelerinin ve büyükelçiliklerinin belgenin gerçek mi sahte mi olduğunu bilme imkânı yoktur. Apostil (okunuşu: a-pos-TİL) bu sorunu çözer. Ülkenizdeki bir devlet makamının belgenize eklediği resmi bir damga veya şerhtir; belgenin gerçek olduğunu ve gerçek, tanınmış bir kurum tarafından düzenlendiğini onaylar. Bunu uluslararası alanda tanınan bir orijinallik mührü gibi düşünün. Bu olmadan başvuru belgeleriniz doğrulanmamış sayılır ve reddedilir."
+},
+"steps": [
+["Ülkeniz için hangi sürecin geçerli olduğunu kontrol edin", "hcch.net adresine gidin ve Lahey Apostil Sözleşmesi listesinde ülkenizi arayın. Ülkeniz listedeyse apostil kullanırsınız. Tek ofisli bir süreç. Değilse konsolosluk tasdiki kullanırsınız. Ülkenizdeki Alman büyükelçiliği dahil 2 veya 3 ofisten oluşan daha uzun bir zincir. Aynı site başvurmanız gereken makamı da gösterir."],
+["Onaylatmanız gereken asılları toplayın", "Lisans diplomanızı, üniversite transkriptlerinizi, lise bitirme belgenizi ve doğum belgenizi toplayın. En sık istenen belgeler bunlardır. Her onay makamının kendi ön kontrolleri olabilir. Bir yere gitmeden veya bir şey postalamadan önce neye ihtiyaç duyduklarını teyit edin."],
+["Ülkenizin apostil makamına teslim edin", "Her belgeyi, hcch.net'te ülkeniz için gösterilen ofise götürün veya gönderin. Belge başına ücreti ödeyin ve hazır olunca teslim alın. Ülkeniz Lahey listesinde değilse, apostilin ardından gelen Alman büyükelçiliği adımı için de randevu almanız gerekir. Bunun için fazladan haftalar ayırın."],
+["Onaylı asılları tercüme ettirin", "Apostilli veya tasdikli asılları Almanca ya da İngilizce tercüme için yeminli bir tercümana gönderin. Apostilden önce tercüme ettirmek işin yeniden yapılması demektir. Her çıktının onaylı kopyalarını yedek olarak saklayın."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Alman üniversiteleri ve büyükelçilikleri onaysız yabancı belgeleri kabul etmez. Apostil (Lahey ülkeleri) veya konsolosluk tasdiki (Lahey dışı ülkeler) belgelerinizin gerçek olduğunu kanıtlar."],
+["Apostili onaylı tercümeden önce mi sonra mı yaptırmalıyım?", "Önce apostil, sonra tercüme. Tercümanın apostilli asıl üzerinden çalışması gerekir. Önce tercüme ettirirseniz apostilden sonra tercümeyi yeniden yaptırmanız gerekir."],
+["Belge başına ne kadar tutar ve ne kadar sürer?", "Ücretler ve süreler ülkeye göre değişir. Lahey Sözleşmesi ülkelerinde apostil genellikle daha hızlı ve ucuzdur. Lahey dışı ülkelerde konsolosluk tasdiki genellikle daha pahalıdır ve daha uzun sürer. Ülkenizin dışişleri bakanlığına danışın."],
+["Çin'denim. Apostil mi yoksa konsolosluk tasdiki mi gerekiyor?", "Apostil. Çin Kasım 2023'te Lahey Apostil Sözleşmesi'ne katıldı. Bu tarihten sonra düzenlenen belgeler konsolosluk tasdiki değil, Çin dışişleri bakanlığından apostil gerektirir."]
+]
+},
+"read-application-checklist": {
+"title": "Başvuru şartlarını kontrol et",
+"intro": "Her programın kabul sayfasını gözden geçirin ve istedikleri her belgeyi not edin. Bazı programlar hazır bir kontrol listesi sunar. Diğerleri şartları kabul metninde sıralar. Her iki durumda da kendi listenizi oluşturun, topladıkça her maddeyi işaretleyin ve göndermeden önce iki kez kontrol edin.",
+"overview": {
+"time": "Program başına 1 ila 2 saat.",
+"cost": "Ücretsiz",
+"process": "Her programın kabul sayfasını açın. İstedikleri her belgeyi not edin. Hazır bir liste verilmiyorsa kendi kontrol listenizi oluşturun. Topladıkça her maddeyi işaretleyin.",
+"why": "Eksik veya yanlış belgeler başvuruların reddedilmesinin bir numaralı nedenidir. Her program kendi şartlarını belirler. Hepsini en başta gözden geçirmek haftalarca süren gidip gelmeleri önler."
+},
+"steps": [
+["Her programın kabul sayfasını açın", "Kısa listenizdeki her programın resmi kabul sayfasını ziyaret edin. Kabul veya başvuru bölümünü arayın. Bazı programlar resmi bir belge kontrol listesi sunar. Diğerleri şartları paragraflar halinde anlatır. Her iki durumda da her şeyi dikkatle okuyun ve bahsedilen her belgeyi not edin. Programın uni-assist üzerinden mi yoksa doğrudan mı başvuru aldığını da kontrol edin, çünkü belge listeleri farklı olabilir."],
+["Kendi kontrol listenizi oluşturun", "Kısa listenizdeki tüm programlarda istenen her belgeyi yazın. Bazı programlar yazdırabileceğiniz veya kaydedebileceğiniz hazır bir liste sunar. Sunmuyorlarsa kendiniz oluşturun. Bir not uygulamasında veya tabloda basit bir liste yeterlidir. Tüm programları yan yana görmek, hangi belgelerin ortak, hangilerinin tek bir programa özgü olduğunu gösterir."],
+["Topladıkça her maddeyi işaretleyin", "Kontrol listesinde madde madde ilerleyin. Topladıkça her birini işaretleyin. En sık eksik kalan maddeler onaylı tercümeler, akademik referanslar ve doğru dil sertifikası puanıdır."],
+["Onaylı tercümeleri teyit edin", "Çoğu program transkriptlerin ve sertifikaların onaylı tercümelerini ister. Önce apostil, sonra tercüme. Tercümanın apostilli asıl üzerinden çalışması gerekir. Onaylı kopyaları gönderin, asıllarınızı güvende tutun."],
+["Göndermeden önce yeniden kontrol edin", "Başvuruyu göndermeden önce kontrol listesini iki kez gözden geçirin. Her programın tam ifadesiyle karşılaştırın. Eksik maddeler başvuruların reddedilmesinin bir numaralı nedenidir."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Her Alman üniversitesi ve programı kendi belge şartlarını belirler. Eksik maddeler başvuruların reddedilmesinin en yaygın nedenidir. Her programın kabul sayfasını dikkatle gözden geçirmek haftalarca gecikmeyi önler."],
+["Neden her programın belge listesi farklı?", "Alman üniversiteleri bağımsızdır ve her program kendi kabul kurallarını belirler. Mühendislik programları çoğu zaman ek matematik notları ister. Yüksek lisans programları dil, referans mektupları ve motivasyon mektubu uzunluğu konusunda farklılık gösterir."],
+["Retlere en sık yol açan eksik belge hangisi?", "Transkriptlerin onaylı tercümeleri. Birçok aday orijinal transkriptleri Almanca veya İngilizce onaylı tercüme olmadan gönderir. Bunu en sık eksik akademik referanslar ve yanlış dil sertifikası puanı izler."],
+["Üniversitelere asılları mı yoksa onaylı kopyaları mı göndermeliyim?", "Üniversiteye veya uni-assist'e onaylı kopyaları gönderin. Asıllarınızı evde güvende tutun. Asılları vize randevunuza götürün. Bazı üniversiteler, siz vardıktan sonra yapılan kesin kayıt sırasında asılları ister."],
+["Yüksek lisans için GRE veya GMAT gerekir mi?", "Almanya'daki yüksek lisans programlarının çoğu ikisini de istemez. Başlıca istisna TUM School of Management'tır; Çin, Hindistan, Bangladeş, Mısır veya Pakistan'dan lisans derecesi olan adaylardan GMAT ister. Özel işletme okullarındaki MBA programları da genellikle GMAT bekler. Her programın sayfasını kontrol edin ve bir sınav gerekiyorsa, puanların gelmesi birkaç hafta sürdüğü için erken kaydolun."]
+]
+},
+"get-police-clearance": {
+"title": "Adli sicil kaydı belgesi al",
+"intro": "Kendi ülkenizden alınan adli sicil kaydı belgesi. Alman büyükelçiliği bunu çoğu çalışma vizesi, araştırma vizesi ve bazı öğrenci vizeleri için ister. Belge sabıka kaydınız olmadığını kanıtlar. Genellikle düzenlendiği tarihten itibaren 6 ay geçerlidir.",
+"overview": {
+"time": "Ülkeye göre değişir. Birkaç hafta planlayın. Güncel süreler için ülkenizin emniyet veya içişleri bakanlığına bakın.",
+"cost": "Ülkeye göre değişir. Bazı ülkeler ücretsiz verir; diğerleri ücret alır.",
+"process": "Ülkenizin emniyet veya içişleri bakanlığı ofisine başvurun. Gerekiyorsa parmak izi verin. Teslim alın veya posta ile alın.",
+"why": "Büyükelçilik çoğu çalışma, araştırma ve bazı öğrenci vizeleri için yakın tarihli bir adli sicil kaydı ister. Bu olmadan dosyanız gecikir veya reddedilir."
+},
+"steps": [
+["İhtiyacınız olup olmadığını teyit edin", "Yerel Alman büyükelçiliğinizin vize türünüze ait kontrol listesine bakın. Çoğu çalışma, araştırma ve bazı öğrenci vizeleri adli sicil kaydı ister. Büyükelçilik sitesi hangi ülkelerden belge alınması gerektiğini listeler."],
+["Doğru ofise başvurun", "Ülkenizin ulusal emniyet, içişleri bakanlığı veya dışişleri ofisine başvurun. Ofis ülkeye göre değişir. Gerekiyorsa parmak izi verin. Ülkeye göre değişen ücreti ödeyin."],
+["Önceden yaşadığınız ülkelerden de belge alın", "Son 5 yılda başka bir ülkede 6 aydan uzun yaşadıysanız oradan da belge almanız gerekebilir. O ülkenin büyükelçiliği veya emniyeti üzerinden başvurun. Uluslararası başvurular için fazladan haftalar planlayın."],
+["Belgeye apostil veya tasdik yaptırın", "Alman büyükelçiliklerinin çoğu belgenin apostilli veya tasdikli olmasını ister. Aslını önce dışişleri bakanlığınıza gönderin. Büyükelçilik isterse ardından Almancaya tercüme ettirin."],
+["Vize başvurunuza ekleyin", "Belgeyi vize başvurunuzla birlikte teslim edin. Belge, vize randevunuz günü 6 aydan eski olmamalıdır. Bazı büyükelçilikler 12 aya kadar kabul eder. Daha eski belgeler reddedilir."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Alman büyükelçiliği çoğu çalışma, araştırma ve bazı öğrenci vizeleri için temiz sabıka kaydı kanıtı ister. Bu olmadan büyükelçilik dosyanızı reddeder veya geciktirir. İhtiyacınız olup olmadığını uyruğunuz ve vize türünüz belirler."],
+["Adli sicil kaydı belgesi ne kadar süre geçerli?", "Çoğu büyükelçilik 6 aya kadar eski belgeleri kabul eder. Bazıları 12 aya kadar kabul eder. Vize randevunuzdan 2 ila 3 ay önce başvurun. Daha eski belgeler reddedilir."],
+["Yaşadığım her ülkeden belge gerekir mi?", "Çoğu zaman evet. Son 5 yılda başka bir ülkede 6 ay veya daha uzun yaşadıysanız büyükelçilik oradan da belge isteyebilir. Başvurmadan önce yerel Alman büyükelçiliğinize danışın."],
+["Belgeyi beklerken vize başvurusuna başlayabilir miyim?", "Evet. Randevu almaya başlayabilir ve diğer belgeleri hazırlayabilirsiniz. Belgenin vize randevu tarihinize kadar hazır olması gerekir. Büyükelçilikler sonradan göndermenize izin vermez."]
+]
+},
+"research-universities": {
+"title": "Üniversiteleri ve programları araştır",
+"intro": "Niteliklerinize, dil seviyenize ve hedefinize uyan Alman üniversitelerinin ve programlarının odaklı bir şekilde araştırılması. Almanya'da 400'den fazla üniversite ve 20.000'den fazla program var. Durumunuza uyanlara göre filtrelemek için bir program veritabanı (ör. Studybuddy'ninki) kullanın ve beğendiğiniz programları bir istek listesine kaydedin. Devlet üniversiteleri çoğu eyalette harçsızdır; yalnızca idari giderleri ve ulaşımı karşılayan küçük bir dönemlik ücret alınır.",
+"overview": {
+"time": "2 ila 4 hafta odaklı araştırma.",
+"cost": "Ücretsiz",
+"process": "Alana, dile ve niteliklerinize göre filtrelemek için bir program veritabanı (ör. Studybuddy'ninki) kullanın. 5 ila 10 programlık kısa liste yapın. Her programın kabul şartlarını ve son başvuru tarihlerini üniversitenin resmi web sitesinden kontrol edin.",
+"why": "Niteliklerinize, dil seviyenize ve hedefinize uygun programları seçmek, öğrenim yolunuzun temelidir. Uygun olmayan başvurular ücret ve zaman kaybettirir."
+},
+"steps": [
+["Niteliklerinize göre filtreleyin", "Bir program veritabanını (ör. Studybuddy'ninki) açın. Alana, seviyeye (lisans veya yüksek lisans), öğretim diline ve derecenize göre filtreleyin. Filtre, uygun olmadığınız programları eler. Beğendiğiniz bir program bulduğunuzda daha sonra kolayca dönebilmek için istek listenize kaydedin."],
+["Her programın resmi sayfasını kontrol edin", "İlgilendiğiniz her program için üniversitenin resmi web sitesini ziyaret edin ve o programın kabul sayfasını açın. Dil şartları, son başvuru tarihleri ve teslim etmeniz gereken belgelerle ilgili doğru ve güncel bilgiyi burada bulursunuz."],
+["Her program için önemli ayrıntıları not edin", "Kısa listedeki her program için istenen dil sertifikasını, son tarihi, başvuru yolunu (uni-assist veya doğrudan) ve alan ön koşullarını yazın. Bunları tek yerde tutmak karşılaştırmayı kolaylaştırır."],
+["Belirsiz bir şey varsa uluslararası ofise e-posta gönderin", "Kabul sayfası belirli bir sorunuzu yanıtlamıyorsa, o programın uluslararası ofisine e-posta gönderin. Dil şartlarını, önceki derecenizin uygun olup olmadığını veya belirsiz kalan başka bir şeyi sorun. Onlardan gelen kısa bir yanıt, üçüncü taraf bir sitede bulacağınız her şeyden daha güvenilirdir."],
+["Kısa listenizi kesinleştirin", "Nihai başvuru listeniz için 5 ila 10 program seçin. Daha garanti seçenekleri iddialı seçeneklerle karıştırın. Program içeriğine, konuma ve dile göre eşleştirin. Devlet üniversiteleri Almanya'nın çoğu eyaletinde harçsızdır."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Almanya'da 400'den fazla üniversite ve 20.000'den fazla program var. Doğru kısa listeyi seçmek, yanlış yöne giden haftalarca hazırlığı önler. Yanlış program, yanlış dil sertifikası, yanlış APS belge seti veya kaçırılmış bir son tarih anlamına da gelebilir."],
+["Alman üniversite sıralamalarına dikkat etmeye değer mi?", "ABD veya Birleşik Krallık'takinden daha az. Alman üniversiteleri, özellikle mühendislik, fen ve işletmede, birbirine daha yakın düzeyde güçlüdür. Programın müfredatına, konumuna ve diline bakın. Sıralamalar en çok mezuniyet sonrası küresel teknoloji pozisyonları için önemlidir."],
+["Niteliklerime uyan programları nasıl bulurum?", "Alana, seviyeye, dile ve derecenize göre filtrelemek için bir program veritabanı (ör. Studybuddy'ninki) kullanın. Beğendiklerinizi istek listenize kaydedin. Kısa listedeki her program için üniversitenin resmi web sitesini ziyaret edin ve dil şartları ile alan ön koşulları için kabul sayfasını kontrol edin. Belirsiz bir şey varsa uluslararası ofise e-posta gönderin."],
+["Harçsız devlet üniversiteleri AB dışından öğrenciler için gerçekten ücretsiz mi?", "Çoğunlukla evet. Almanya'nın çoğu eyaletindeki devlet üniversiteleri hiçbir uyruktan harç almaz. Baden-Württemberg son yıllarda AB dışından öğrencilerden dönemlik harç alıyor. O programı doğrudan kontrol edin. Tüm devlet üniversiteleri ayrıca idari giderleri ve toplu taşımayı karşılayan küçük bir dönemlik ücret alır."]
+]
+},
+"understand-german-semesters": {
+"title": "Almanya'daki dönem tarihlerini anla",
+"intro": "Alman üniversitelerinde yılda iki dönem vardır. Kış dönemi Ekim'de, yaz dönemi Nisan'da başlar. Birçok program yalnızca birinde öğrenci alır. Programlarınızın hangi dönemde öğrenci aldığını ve başvuruların ne zaman kapandığını bilmek, tüm hazırlık takviminizi planlamanın başlangıç noktasıdır.",
+"overview": {
+"time": "15 dakika",
+"cost": "Ücretsiz",
+"process": "Alman dönemlerinin nasıl işlediğini okuyun. Hedef programlarınızın hangi dönemde öğrenci aldığını kontrol edin. Hazırlık takviminizi hedef başlangıç tarihinizden geriye doğru planlayın.",
+"why": "Alman üniversitelerinde yılda iki dönem vardır. Birçok program yalnızca birinde öğrenci alır. Başvurmaya başlamadan önce takvimin nasıl işlediğini bilmek, gerçekçi son tarihler seçmenize ve planladığınız dönemi tam bir yıl farkla kaçırmamanıza yardımcı olur."
+},
+"steps": [
+["İki dönemli yapıyı öğrenin", "Alman üniversiteleri iki dönem üzerinden işler. Kış dönemi (Wintersemester) Ekim'de başlar ve Mart'a kadar sürer. Yaz dönemi (Sommersemester) Nisan'da başlar ve Eylül'e kadar sürer. Her dönem içinde ders dönemi daha kısadır. Genellikle Ekim–Şubat ve Nisan–Temmuz. Geri kalanı sınav ve tatil zamanıdır."],
+["Programlarınızın hangi dönemde öğrenci aldığını kontrol edin", "Bazı programlar hem kış hem yaz döneminde öğrenci alır. Birçoğu yalnızca kış döneminde (Ekim) alır. Bazıları yalnızca yaz döneminde (Nisan) alır. Bu, programın adından anlaşılmaz ve üniversiteye göre değişir. Kısa listenizdeki her programın kabul sayfasını kontrol edin. Bir program yalnızca kış döneminde öğrenci alıyorsa ve Ekim'i kaçırırsanız tam bir yıl beklersiniz."],
+["Hedef döneminizden geriye doğru çalışın", "Hedef döneminizi öğrendiğinizde geriye doğru plan yapın. Kış dönemi (Ekim başlangıçlı) için: başvurular üniversiteye bağlı olarak genellikle Nisan ile Temmuz arasında kapanır. Yaz dönemi (Nisan başlangıçlı) için: başvurular genellikle Kasım ile Ocak arasında kapanır. Ne zaman başlamanız gerektiğini bulmak için dil sınavları, gerekiyorsa APS ve vize hazırlığı için gereken süreyi ekleyin."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Alman üniversiteleri yıl boyunca öğrenci almaz. Çoğu programın yılda bir veya iki belirli kabul dönemi vardır. Bunu önceden bilmemek, öğrencilerin planladıkları başlangıç tarihini tam bir yıl farkla kaçırmalarının en yaygın nedenlerinden biridir."],
+["Uluslararası öğrenciler için kış dönemi her zaman yazdan daha mı iyi?", "Lisans ve yüksek lisans programlarının çoğu için evet. Kış döneminde çok daha fazla program mevcuttur. Birçok üniversite yaz döneminde yeni uluslararası öğrenci hiç almaz. Yaz dönemi, hedef programınız bunu açıkça sunuyorsa ve takviminize uyuyorsa mantıklıdır."],
+["Programımın kışın mı, yazın mı yoksa her ikisinde mi öğrenci aldığını nasıl öğrenirim?", "O programın resmi üniversite sayfasındaki kabul bölümünü kontrol edin. “Bewerbungsfrist” (son başvuru tarihi) veya “Zulassung” ifadesini arayın. Yalnızca bir dönem için listeleniyorsa tek kabul dönemi odur."],
+["Tipik son başvuru tarihleri nelerdir?", "Kış dönemi (Ekim başlangıçlı) için: başvuruların çoğu Nisan ile Temmuz arasında kapanır. Yaz dönemi (Nisan başlangıçlı) için: çoğu Kasım ile Ocak arasında kapanır. Son tarihler üniversiteye ve programa göre değişir. Genel tarihlere güvenmek yerine her zaman ilgili programın sayfasını kontrol edin."]
+]
+},
+"learn-german-a1-a2": {
+"title": "A1/A2 seviyesinde Almanca öğren",
+"intro": "A1 ila A2 seviyesinde Almanca. A1 tanışmayı, temel alışverişi ve basit soruları kapsar. A2 buna doktor ziyaretlerini, iş yerindeki gündelik sohbeti ve kısa metinleri okumayı ekler. Ücretsiz uygulamalar temelleri karşılar. Ücretli kurslar (VHS, Goethe-Institut, çevrimiçi okullar) yapı ve konuşma pratiği katar.",
+"overview": {
+"time": "Yoğun bir kursta seviye başına 6 ila 8 hafta.",
+"cost": "Uygulamalarla ücretsiz. Ücretli kurslar okula ve ülkeye göre değişir. Güncel ücretler için VHS, Goethe-Institut ve çevrimiçi okullara bakın.",
+"process": "Bir kurs veya uygulama seçin. Haftada 10 ila 20 saat çalışın. Sertifikaya ihtiyacınız varsa resmi A1 veya A2 sınavına girin.",
+"why": "A1–A2 Almanca, Almanya'daki ilk haftanızdan itibaren karşılaşacağınız günlük temel durumları kapsar: alışveriş, doktor, banka ve evrak işleri. İngilizce okusanız veya çalışsanız bile, biraz Almanca bilmek vardıktan sonra gündelik hayatı önemli ölçüde kolaylaştırır."
+},
+"steps": [
+["Bir kurs veya uygulama seçin", "Ücretsiz uygulamalar (Deutsche Welle, Duolingo) A1 temellerini karşılar. VHS, Goethe-Institut veya çevrimiçi okullardaki ücretli kurslar yapı ve konuşma pratiği katar. Bütçenize ve temponuza uyan seçeneği seçin."],
+["Gerçekçi bir haftalık hedef belirleyin", "Tam zamanlı okuyor veya çalışıyorsanız haftada 10 ila 20 saat gerçekçi değildir. Bunun yerine 3 ila 7 saati hedefleyin. Dille her gün temas etmek toplam saatten daha önemlidir. Günde 20 ila 30 dakika istikrarlı ilerleme sağlar. Tam zamanlı özel bir planla seviye başına 6 ila 8 hafta ulaşılabilir. İş veya okulla birlikte yarı zamanlı bir planla seviye başına 3 ila 5 ay bekleyin."],
+["Konuşma pratiği ekleyin", "Uygulamalar kelime dağarcığı kazandırır. Sohbet akıcılık kazandırır. Italki'de haftalık bir özel öğretmen, Tandem'de bir dil değişimi partneri veya ücretli bir kurs ekleyin. İlk haftadan itibaren konuşmak A2'ye giden en hızlı yoldur."],
+["Resmi A1 veya A2 sınavına girmeyi düşünün", "Henüz kimse istemese bile, kendinizi hazır hissettiğinizde sertifikalı bir sınava girmeye değer. Almanya'da Almanca öğrenmeye devam ederseniz, kayıtlı sertifikalı bir seviyeniz olması, önceki seviyeleri tekrarlamadan sertifikanızın onayladığı yerden devam edebilmeniz demektir. Sertifika ayrıca süresiz geçerlidir. Almanca dil sertifikalarının süresi dolmaz. Daha sonra Almanya'da işe başvururken veya süresiz oturum için destekleyici kanıt olarak kullanabilirsiniz. Sınava girerseniz tanınmış bir Almanca dil sertifikası olmalıdır. İki ana seçenek Goethe-Zertifikat ve telc'tir; ikisi de Almanya genelinde kabul edilir."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "A2 Almanca, Almanya'da en başından karşılaşacağınız günlük temel durumları kapsar: alışveriş, doktor, banka ve evrak işleri. İngilizce okusanız veya çalışsanız bile, temel Almanca bilmek oraya vardığınızda gündelik hayatı çok kolaylaştırır."],
+["Sıfırdan A2'ye ulaşmak gerçekte ne kadar sürer?", "Haftada 10 ila 15 saatle 3 ila 4 ay. Yoğun bir kursta haftada 25 saatten fazla çalışırsanız 6 ila 8 hafta. Yalnızca uygulamalarla kendi kendine çalışarak A2'ye ulaşmak genellikle 6 ila 9 ay sürer."],
+["Ücretsiz uygulamalar (Deutsche Welle, Duolingo) yeterli mi, yoksa kurs mu gerekir?", "Tek başına uygulamalar sizi A1'e ulaştırır. A2'ye ulaşmak için konuşma pratiğine ihtiyacınız var. Uygulamaları Italki'de haftalık bir özel öğretmen, bir Tandem partneri veya ücretli bir kursla birleştirin. Uygulamalar kelime dağarcığı, sohbet akıcılık kazandırır."],
+["Gelmeden önce A1/A2 olmalı mıyım, yoksa Almanya'da öğrenebilir miyim?", "Almanya'da öğrenebilirsiniz, ama hayat derslerinizden hızlı akar. Taşınmadan önce A1'e ulaşmak ilk ayı kolaylaştırır (adres kaydı, banka hesabı açma, ev bulma). Almanya'daki ilk 6 ayınızda A2'ye ulaşın."]
+]
+},
+"prepare-scholarship-docs": {
+"title": "Burslara başvur",
+"intro": "Bir bursa başvurmak istiyorsanız, uygun olduğunuz bursları bulup kısa liste yaparak başlayın, temel belgelerinizi hazırlayın, sonra her son tarihten önce başvurun. Çoğu burs aynı seti ister: özgeçmiş (CV), motivasyon mektubu, çalışma planı, transkriptler ve 2 akademik referans. Güçlü ortak belgeler birkaç bursa paralel başvurmanızı sağlar.",
+"overview": {
+"time": "Güçlü taslaklar yazmak 2 ila 3 hafta.",
+"cost": "Ücretsiz",
+"process": "Bursları inceleyin ve uygun olduklarınızın kısa listesini yapın. Temel belgelerinizi hazırlayın. Sonra her başvuruyu son tarihten önce gönderin.",
+"why": "Bir bursa başvurmak istiyorsanız bu adım tüm süreci kapsar. Burslar harcı, yaşam masraflarını veya ikisini birden karşılayabilir. Temel belgeler çoğu bursta aynıdır; bu yüzden onları bir kez hazırlamak, her seferinde sıfırdan başlamadan birkaç bursa başvurmanızı sağlar."
+},
+"steps": [
+["Bursları inceleyin ve kısa liste yapın", "Herhangi bir şey hazırlamadan önce gerçekten uygun olduğunuz bursları bularak başlayın. DAAD (daad.de), Almanya'nın ana burs veritabanıdır ve alana, uyruğa ve öğrenim seviyesine göre yüzlerce seçeneği listeler. expatrio.com/about-germany/fully-funded-scholarships-in-germany ek tam burslu seçenekleri listeler. Kendi ülkenizin devlet finansman kurumlarını ve hedef üniversitenizin doğrudan sunduğu bursları da kontrol edin. Kısa listenizdeki her biri için uygunluk şartlarını, son tarihi ve istenen belgeleri not edin. Bu liste tam olarak neyi yazmanız gerektiğini ve ne zaman hazır olması gerektiğini söyler."],
+["1 ila 2 sayfalık bir özgeçmiş hazırlayın", "Net bir akademik özgeçmiş yazın: eğitim, araştırma projeleri, iş deneyimi, yayınlar, ödüller. 2 sayfanın altında tutun. Yeniden eskiye sıralayın. Özgeçmiş çoğu burs başvurusunda aynıdır."],
+["Güçlü bir motivasyon mektubu yazın", "1 ila 2 sayfalık bir motivasyon mektubu yazın. Neden bu alan, neden Almanya, neden bu program sorularını yanıtlayın. Uyumunuzu ve kararlılığınızı gösterin. Motivasyon mektubu burs kararlarında sizi ayırt eden en büyük tek unsurdur."],
+["Bir çalışma planı oluşturun", "Ne çalışmayı planladığınızı, almak istediğiniz dersleri, yanıtlamak istediğiniz araştırma sorularını ve takviminizi özetleyin. Dersli yüksek lisans için 1 sayfa yeterlidir. Araştırma bursları için 2 ila 3 sayfa."],
+["2 akademik referans isteyin", "İleri düzey derslerde size ders vermiş veya tezinizi yönetmiş 2 profesörden isteyin. Son tarihten 4 ila 6 hafta önce onlara özgeçmişinizi, çalışma planınızı ve referans formunu verin. Yakın tarihli ve ayrıntılı mektuplar daha iyi puan alır."],
+["Göndermeden önce geri bildirim alın", "Daha önce burs kazanmış birinden, bir öğretmenden veya bir yazı merkezinden taslağınızı incelemesini isteyin. Dürüst geri bildirim göremediğiniz zayıf noktaları yakalar. Düzeltmek için bir hafta ayırın."],
+["Başvurularınızı gönderin", "Her bursun portalında bir hesap oluşturun. Belgelerinizi yükleyin ve referanslarınızın mektuplarını gönderdiğini teyit edin. Her programın son tarihini iki kez kontrol edin ve erken gönderin. Geç başvurular incelenmeden reddedilir. Kararlar genellikle son tarih kapandıktan 4 ila 8 hafta sonra gelir."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Bu adım isteğe bağlıdır. Sizin durumunuzdaki kişiler için burslar mevcut olduğu ve bilinmeye değer olduğu için görünür. Başvurmak istiyorsanız burslar harcı, yaşam masraflarını veya ikisini birden karşılayabilir. Çoğu aynı temel belgeleri ister; bu yüzden onları bir kez hazırlamak birkaçına paralel başvurmanızı sağlar."],
+["Alman bursları gerçekte hangi belgeleri ister?", "Çoğu özgeçmiş, motivasyon mektubu, çalışma planı, transkriptler ve 2 akademik referans ister. DAAD araştırma bursları için ayrıca bir proje önerisi ister. Üst düzey programlar yayın listesi veya çalışma örnekleri isteyebilir."],
+["DAAD standartlarını karşılayan akademik referansları nasıl alırım?", "İleri düzey derslerde size ders vermiş veya tezinizi yönetmiş 2 profesörden isteyin. Son tarihten 4 ila 6 hafta önce onlara özgeçmişinizi, çalışma planınızı ve DAAD'nin referans formunu verin. Yakın tarihli (son 2 yıl içinde) ve ayrıntılı mektuplar, eski veya genel mektuplardan daha iyi puan alır."],
+["Aynı belgeleri birden fazla bursta kullanabilir miyim?", "Özgeçmiş, transkriptler ve referanslar için evet. Motivasyon mektubunu ve çalışma planını her birine göre uyarlayın. Değerlendirme kurulları tekrar kullanılan içeriği çabucak fark eder. Kazandıran, bir paragraflık kişiselleştirmedir."]
+]
+}
+}
+}

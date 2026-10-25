@@ -1,0 +1,10 @@
+{
+ "general": {"label": "Başlarken", "icon": "compass"},
+ "visas": {"label": "Vize ve Göç", "icon": "passport"},
+ "studying": {"label": "Eğitim", "icon": "cap"},
+ "working": {"label": "Çalışma", "icon": "briefcase"},
+ "finance": {"label": "Finans ve Bankacılık", "icon": "bank"},
+ "housing": {"label": "Barınma", "icon": "house"},
+ "daily-life": {"label": "Günlük Yaşam", "icon": "sun"},
+ "cities": {"label": "Şehirler", "icon": "city"}
+}

@@ -1,0 +1,585 @@
+{
+ "note": "Almanca terimler metinde Almanca bırakılır; her sayfada ilk geçtiği yerde parantez içinde buradaki 'tr' açıklaması verilir.",
+ "terms": [
+  {
+   "term": "Abitur",
+   "tr": "Alman lise bitirme diploması",
+   "detail": ""
+  },
+  {
+   "term": "Abmeldung",
+   "tr": "adres kaydını silme",
+   "detail": "Almanya'dan ayrılırken yapılan kayıt silme işlemi."
+  },
+  {
+   "term": "Akademisches Auslandsamt",
+   "tr": "uluslararası ofis",
+   "detail": "Üniversitenin uluslararası öğrencilerden sorumlu birimi."
+  },
+  {
+   "term": "Anabin",
+   "tr": "yabancı diploma tanınırlık veritabanı",
+   "detail": "anabin.kmk.org"
+  },
+  {
+   "term": "Anmeldebestätigung",
+   "tr": "adres kayıt onayı",
+   "detail": "Anmeldung sonrası Bürgeramt'ın verdiği damgalı belge."
+  },
+  {
+   "term": "Anmeldeformular",
+   "tr": "adres kayıt formu",
+   "detail": ""
+  },
+  {
+   "term": "Anmeldung",
+   "tr": "adres kaydı",
+   "detail": "Taşındıktan sonra 14 gün içinde Bürgeramt'ta yapılan zorunlu ikamet kaydı."
+  },
+  {
+   "term": "Anschreiben",
+   "tr": "ön yazı",
+   "detail": ""
+  },
+  {
+   "term": "Apostille",
+   "tr": "apostil",
+   "detail": "Belgelerin uluslararası geçerliliği için resmi onay şerhi."
+  },
+  {
+   "term": "Apotheke",
+   "tr": "eczane",
+   "detail": ""
+  },
+  {
+   "term": "APS",
+   "tr": "akademik değerlendirme merkezi",
+   "detail": "Akademische Prüfstelle; bazı ülkeler için zorunlu belge doğrulaması."
+  },
+  {
+   "term": "Arbeitsagentur",
+   "tr": "Federal İş Ajansı",
+   "detail": "Bundesagentur für Arbeit."
+  },
+  {
+   "term": "Arbeitsvertrag",
+   "tr": "iş sözleşmesi",
+   "detail": ""
+  },
+  {
+   "term": "Aufenthaltserlaubnis",
+   "tr": "oturum izni",
+   "detail": "Belirli bir amaç için verilen süreli oturum izni."
+  },
+  {
+   "term": "Aufenthaltstitel",
+   "tr": "oturum izni belgesi",
+   "detail": "Almanya'da kalma hakkı veren resmi belge türlerinin genel adı."
+  },
+  {
+   "term": "Ausländerbehörde",
+   "tr": "yabancılar dairesi",
+   "detail": "Oturum izinlerini veren ve uzatan yerel makam."
+  },
+  {
+   "term": "BAföG",
+   "tr": "devlet öğrenim kredisi/bursu",
+   "detail": ""
+  },
+  {
+   "term": "BAMF",
+   "tr": "Federal Göç ve Mülteciler Dairesi",
+   "detail": "Bundesamt für Migration und Flüchtlinge."
+  },
+  {
+   "term": "Berechtigungsschein",
+   "tr": "katılım hakkı belgesi",
+   "detail": "Integrationskurs için indirimli katılım hakkı veren belge."
+  },
+  {
+   "term": "Blaue Karte EU",
+   "tr": "AB Mavi Kart",
+   "detail": "Nitelikli çalışanlar için AB oturum ve çalışma izni; İngilizce adıyla Blue Card."
+  },
+  {
+   "term": "Bürgeramt",
+   "tr": "belediye vatandaş hizmetleri ofisi",
+   "detail": "Adres kaydı gibi işlemlerin yapıldığı belediye ofisi."
+  },
+  {
+   "term": "Bürgerbüro",
+   "tr": "vatandaş hizmetleri bürosu",
+   "detail": "Bazı şehirlerde Bürgeramt'ın adı."
+  },
+  {
+   "term": "Chancenkarte",
+   "tr": "Fırsat Kartı",
+   "detail": "Almanya'da iş aramak için puan sistemine dayalı oturum izni."
+  },
+  {
+   "term": "DAAD",
+   "tr": "Alman Akademik Değişim Servisi",
+   "detail": ""
+  },
+  {
+   "term": "Deutschlandstipendium",
+   "tr": "Almanya bursu",
+   "detail": "Aylık 300 EUR'luk liyakat bursu."
+  },
+  {
+   "term": "Deutschlandticket",
+   "tr": "Almanya bileti",
+   "detail": "Ülke genelinde yerel ve bölgesel toplu taşımada geçerli aylık abonelik."
+  },
+  {
+   "term": "DSH",
+   "tr": "üniversite giriş Almanca sınavı",
+   "detail": "Deutsche Sprachprüfung für den Hochschulzugang."
+  },
+  {
+   "term": "eAT",
+   "tr": "elektronik oturum kartı",
+   "detail": "elektronischer Aufenthaltstitel; oturum izninin kart hali."
+  },
+  {
+   "term": "Einbürgerung",
+   "tr": "vatandaşlığa geçiş",
+   "detail": "Alman vatandaşlığı başvurusu."
+  },
+  {
+   "term": "Einwohnermeldeamt",
+   "tr": "nüfus kayıt dairesi",
+   "detail": "Adres kaydının yapıldığı daire; Bürgeramt'ın diğer adı."
+  },
+  {
+   "term": "ELSTER",
+   "tr": "çevrimiçi vergi portalı",
+   "detail": "Vergi beyannamesinin verildiği resmi çevrimiçi sistem."
+  },
+  {
+   "term": "Elterngeld",
+   "tr": "ebeveyn parası",
+   "detail": "Doğum sonrası ebeveynlere ödenen gelir desteği."
+  },
+  {
+   "term": "Exmatrikulation",
+   "tr": "üniversite kaydını sildirme",
+   "detail": ""
+  },
+  {
+   "term": "Fachhochschule",
+   "tr": "uygulamalı bilimler üniversitesi",
+   "detail": "Uygulama odaklı yükseköğretim kurumu."
+  },
+  {
+   "term": "Familienversicherung",
+   "tr": "aile sigortası",
+   "detail": "Aile bireylerinin ücretsiz olarak sigortaya dahil edilmesi."
+  },
+  {
+   "term": "Feststellungsprüfung",
+   "tr": "yeterlik sınavı",
+   "detail": "Studienkolleg sonunda girilen sınav."
+  },
+  {
+   "term": "Fiktionsbescheinigung",
+   "tr": "geçici oturum belgesi",
+   "detail": "Başvurunuz işlemdeyken yasal kalışınızı gösteren ara belge."
+  },
+  {
+   "term": "Finanzamt",
+   "tr": "vergi dairesi",
+   "detail": ""
+  },
+  {
+   "term": "Freiberufler",
+   "tr": "serbest meslek sahibi",
+   "detail": ""
+  },
+  {
+   "term": "Führerschein",
+   "tr": "sürücü belgesi",
+   "detail": ""
+  },
+  {
+   "term": "Führerscheinstelle",
+   "tr": "sürücü belgesi dairesi",
+   "detail": ""
+  },
+  {
+   "term": "Gewerbe",
+   "tr": "ticari faaliyet",
+   "detail": ""
+  },
+  {
+   "term": "Gewerbeanmeldung",
+   "tr": "ticari faaliyet kaydı",
+   "detail": ""
+  },
+  {
+   "term": "GEZ",
+   "tr": "yayın katkı payının eski adı",
+   "detail": "Rundfunkbeitrag için halk arasında kullanılan ad."
+  },
+  {
+   "term": "Girokonto",
+   "tr": "vadesiz hesap",
+   "detail": "Günlük işlemler için kullanılan banka hesabı."
+  },
+  {
+   "term": "Haftpflicht",
+   "tr": "şahsi sorumluluk sigortası",
+   "detail": "Haftpflichtversicherung'un kısa adı."
+  },
+  {
+   "term": "Haftpflichtversicherung",
+   "tr": "şahsi sorumluluk sigortası",
+   "detail": "Başkalarına verdiğiniz zararları karşılayan sigorta."
+  },
+  {
+   "term": "Hausordnung",
+   "tr": "bina kuralları",
+   "detail": ""
+  },
+  {
+   "term": "Hochschulabschlüsse",
+   "tr": "yükseköğretim dereceleri",
+   "detail": "Anabin'deki diploma bölümü."
+  },
+  {
+   "term": "Hochschulzugangsberechtigung",
+   "tr": "yükseköğretime giriş yeterliği",
+   "detail": ""
+  },
+  {
+   "term": "Immatrikulation",
+   "tr": "üniversiteye kesin kayıt",
+   "detail": ""
+  },
+  {
+   "term": "Immatrikulationsbescheinigung",
+   "tr": "öğrenci belgesi",
+   "detail": "Üniversiteye kesin kayıt yaptırdığınızı gösteren belge."
+  },
+  {
+   "term": "Institutionen",
+   "tr": "kurumlar",
+   "detail": "Anabin'deki kurum bölümü."
+  },
+  {
+   "term": "Integrationskurs",
+   "tr": "uyum kursu",
+   "detail": "Dil ve oryantasyon dersleri içeren devlet destekli kurs."
+  },
+  {
+   "term": "Kaltmiete",
+   "tr": "ısınma ve yan giderler hariç kira",
+   "detail": ""
+  },
+  {
+   "term": "Kaution",
+   "tr": "depozito",
+   "detail": ""
+  },
+  {
+   "term": "Kindergeld",
+   "tr": "çocuk parası",
+   "detail": "Devletin çocuk başına ödediği aylık yardım."
+  },
+  {
+   "term": "Kirchensteuer",
+   "tr": "kilise vergisi",
+   "detail": ""
+  },
+  {
+   "term": "Kita",
+   "tr": "kreş/anaokulu",
+   "detail": "Kindertagesstätte."
+  },
+  {
+   "term": "Kleinunternehmer",
+   "tr": "küçük işletme sahibi",
+   "detail": "Düşük cirolu işletmeler için KDV muafiyeti statüsü."
+  },
+  {
+   "term": "Krankenkasse",
+   "tr": "sağlık sigortası kurumu",
+   "detail": ""
+  },
+  {
+   "term": "Krankenversicherung",
+   "tr": "sağlık sigortası",
+   "detail": ""
+  },
+  {
+   "term": "KVR",
+   "tr": "Münih İdari Hizmetler Dairesi",
+   "detail": "Kreisverwaltungsreferat; Münih'te Bürgeramt ve yabancılar dairesi işlevlerini yürütür."
+  },
+  {
+   "term": "Kündigung",
+   "tr": "fesih bildirimi",
+   "detail": ""
+  },
+  {
+   "term": "LEA",
+   "tr": "Berlin Göç Dairesi",
+   "detail": "Landesamt für Einwanderung; Berlin'deki Ausländerbehörde."
+  },
+  {
+   "term": "Lebenslauf",
+   "tr": "özgeçmiş",
+   "detail": ""
+  },
+  {
+   "term": "Lohnsteuer",
+   "tr": "maaş vergisi",
+   "detail": "Maaştan kesilen gelir vergisi."
+  },
+  {
+   "term": "Meldebescheinigung",
+   "tr": "adres kayıt belgesi",
+   "detail": "Anmeldung sonrası verilen resmi kayıt belgesi."
+  },
+  {
+   "term": "Mensa",
+   "tr": "üniversite yemekhanesi",
+   "detail": ""
+  },
+  {
+   "term": "Mietpreisbremse",
+   "tr": "kira artış freni",
+   "detail": "Yeni kiraları emsal kiraya göre sınırlayan düzenleme."
+  },
+  {
+   "term": "Mietspiegel",
+   "tr": "kira endeksi",
+   "detail": "Bölgedeki emsal kiraları gösteren tablo."
+  },
+  {
+   "term": "Mietvertrag",
+   "tr": "kira sözleşmesi",
+   "detail": ""
+  },
+  {
+   "term": "Minijob",
+   "tr": "düşük ücretli mini iş",
+   "detail": "Aylık kazanç sınırı olan, vergi ve sigorta açısından ayrıcalıklı iş."
+  },
+  {
+   "term": "Nebenkosten",
+   "tr": "yan giderler",
+   "detail": "Aidat, su, ısınma gibi ek masraflar."
+  },
+  {
+   "term": "Niederlassungserlaubnis",
+   "tr": "süresiz oturum izni",
+   "detail": "Kalıcı oturum hakkı."
+  },
+  {
+   "term": "Notaufnahme",
+   "tr": "acil servis",
+   "detail": ""
+  },
+  {
+   "term": "Notdienst",
+   "tr": "nöbetçi hizmet",
+   "detail": ""
+  },
+  {
+   "term": "Ordnungsamt",
+   "tr": "zabıta/kamu düzeni dairesi",
+   "detail": ""
+  },
+  {
+   "term": "Pfand",
+   "tr": "şişe/kutu depozitosu",
+   "detail": "İade edildiğinde geri ödenen içecek ambalajı depozitosu."
+  },
+  {
+   "term": "Pflegeversicherung",
+   "tr": "bakım sigortası",
+   "detail": ""
+  },
+  {
+   "term": "Probezeit",
+   "tr": "deneme süresi",
+   "detail": ""
+  },
+  {
+   "term": "Rentenversicherung",
+   "tr": "emeklilik sigortası",
+   "detail": ""
+  },
+  {
+   "term": "Rundfunkbeitrag",
+   "tr": "yayın katkı payı",
+   "detail": "Kamu yayıncılığı için hane başına ödenen aylık ücret."
+  },
+  {
+   "term": "SCHUFA",
+   "tr": "kredi notu kuruluşu",
+   "detail": "Almanya'nın başlıca kredi kayıt bürosu; ev kiralamada sıkça istenir."
+  },
+  {
+   "term": "Semesterbeitrag",
+   "tr": "dönem katkı payı",
+   "detail": "Her dönem ödenen idari ücret; çoğu zaman toplu taşıma bileti içerir."
+  },
+  {
+   "term": "Semesterticket",
+   "tr": "dönemlik toplu taşıma bileti",
+   "detail": ""
+  },
+  {
+   "term": "Solidaritätszuschlag",
+   "tr": "dayanışma vergisi",
+   "detail": ""
+  },
+  {
+   "term": "Sperrkonto",
+   "tr": "bloke hesap",
+   "detail": "Öğrenci vizesi için geçim güvencesi olarak açılan, aylık sınırlı çekim yapılan hesap; İngilizce adıyla Blocked Account."
+  },
+  {
+   "term": "Standesamt",
+   "tr": "evlendirme ve nüfus olayları dairesi",
+   "detail": ""
+  },
+  {
+   "term": "Steuer-ID",
+   "tr": "vergi kimlik numarası",
+   "detail": "Steueridentifikationsnummer; Anmeldung sonrası posta ile gelir."
+  },
+  {
+   "term": "Steuerberater",
+   "tr": "vergi danışmanı",
+   "detail": ""
+  },
+  {
+   "term": "Steuererklärung",
+   "tr": "vergi beyannamesi",
+   "detail": ""
+  },
+  {
+   "term": "Steueridentifikationsnummer",
+   "tr": "vergi kimlik numarası",
+   "detail": "Kısaca Steuer-ID."
+  },
+  {
+   "term": "Steuerklasse",
+   "tr": "vergi sınıfı",
+   "detail": "Gelir vergisi kesintisini belirleyen sınıf (I–VI)."
+  },
+  {
+   "term": "Studentenwerk",
+   "tr": "öğrenci hizmetleri kurumu",
+   "detail": "Studierendenwerk'in eski adı."
+  },
+  {
+   "term": "Studienkolleg",
+   "tr": "üniversiteye hazırlık okulu",
+   "detail": "Lise diploması doğrudan kabul edilmeyen öğrenciler için hazırlık programı."
+  },
+  {
+   "term": "Studierendensekretariat",
+   "tr": "öğrenci işleri ofisi",
+   "detail": ""
+  },
+  {
+   "term": "Studierendenwerk",
+   "tr": "öğrenci hizmetleri kurumu",
+   "detail": "Yurt, yemekhane ve danışmanlık sağlayan kurum; eski adıyla Studentenwerk."
+  },
+  {
+   "term": "Termin",
+   "tr": "randevu",
+   "detail": ""
+  },
+  {
+   "term": "TestDaF",
+   "tr": "yabancı dil olarak Almanca sınavı",
+   "detail": ""
+  },
+  {
+   "term": "Ummeldung",
+   "tr": "adres değişikliği kaydı",
+   "detail": "Almanya içinde taşındığınızda yapılan kayıt güncellemesi."
+  },
+  {
+   "term": "uni-assist",
+   "tr": "uluslararası başvuru değerlendirme servisi",
+   "detail": "Birçok üniversite adına yabancı başvuruları ön inceleyen kuruluş."
+  },
+  {
+   "term": "Vermieter",
+   "tr": "ev sahibi",
+   "detail": ""
+  },
+  {
+   "term": "Verpflichtungserklärung",
+   "tr": "masraf üstlenme taahhütnamesi",
+   "detail": "Bir kişinin masraflarınızı resmi olarak üstlendiğini gösteren belge."
+  },
+  {
+   "term": "Versicherungsnachweis",
+   "tr": "sigorta kanıt belgesi",
+   "detail": ""
+  },
+  {
+   "term": "Vertrag",
+   "tr": "sözleşmeli hat/sözleşme",
+   "detail": ""
+  },
+  {
+   "term": "VPD",
+   "tr": "ön inceleme belgesi",
+   "detail": "Vorprüfungsdokumentation; uni-assist'in not dönüşümünü gösteren belge."
+  },
+  {
+   "term": "Warmmiete",
+   "tr": "ısınma ve yan giderler dahil kira",
+   "detail": ""
+  },
+  {
+   "term": "Werkstudent",
+   "tr": "çalışan öğrenci statüsü",
+   "detail": "Öğrencilerin dönem içinde haftada en fazla 20 saat çalıştığı iş statüsü."
+  },
+  {
+   "term": "WG",
+   "tr": "paylaşımlı ev",
+   "detail": "Wohngemeinschaft; odaların ayrı, mutfak ve banyonun ortak olduğu ev."
+  },
+  {
+   "term": "Wohnheim",
+   "tr": "öğrenci yurdu",
+   "detail": ""
+  },
+  {
+   "term": "Wohnungsgeberbestätigung",
+   "tr": "ev sahibi onay belgesi",
+   "detail": "Ev sahibinin taşındığınızı onayladığı, Anmeldung için gereken form."
+  },
+  {
+   "term": "ZAB",
+   "tr": "Yabancı Eğitim Merkezi Ofisi",
+   "detail": "Zentralstelle für ausländisches Bildungswesen; diploma denklik bildirimi verir."
+  },
+  {
+   "term": "Zulassung",
+   "tr": "kabul",
+   "detail": ""
+  },
+  {
+   "term": "Zulassungsbescheid",
+   "tr": "kabul mektubu",
+   "detail": "Üniversitenin resmi kabul bildirimi."
+  },
+  {
+   "term": "Übergabeprotokoll",
+   "tr": "teslim tutanağı",
+   "detail": "Daire teslim alınırken/edilirken tutulan durum tutanağı."
+  }
+ ]
+}

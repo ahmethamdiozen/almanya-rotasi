@@ -1,0 +1,347 @@
+{
+"id": "ch5_settle_in",
+"title": "Yerleş",
+"description": "Vardınız. Şimdi her şeyi resmileştirin. Adresinizi kaydettirin, sigortanızı ayarlayın, banka hesabı açın ve yerleşin.",
+"tasks": {
+"book-anmeldung-ch5": {
+"title": "Anmeldung randevusu al",
+"intro": "Anmeldung, adresinizi şehre kaydettirmenizdir. Taşındıktan sonraki 14 gün içinde Bürgeramt'tan randevu almanız gerekir. Büyük şehirlerde randevunun kendisi haftalar sonra olabilir; bu yasal olarak sorun değildir.",
+"overview": {
+"time": "Çevrimiçi randevu almak 30 dakika sürer. Büyük şehirlerde randevunun kendisi haftalar sonra olabilir.",
+"cost": "Ücretsiz",
+"process": "Şehrinizin Bürgeramt portalını bulun. İlk uygun randevuyu seçin. Onay e-postasını kaydedin.",
+"why": "Anmeldung; banka hesabınızın, sağlık sigortanızın, oturum izninizin, üniversite kaydınızın ve vergi numaranızın kapısını açan anahtardır. Taşındıktan sonraki 14 gün içinde randevu almalısınız."
+},
+"steps": [
+["Yerel Bürgeramt portalınızı bulun", "Randevu sitesini bulmak için şehrinizin adıyla birlikte Bürgeramt diye arayın (service.berlin.de, muenchen.de, hamburg.de). Her şehir kendi portalını işletir. Yer imlerine ekleyin."],
+["İlk uygun randevuyu seçin", "Randevu takvimini açın ve haftalar sonra bile olsa en erken boş randevuyu alın. 14 gün kuralı gerçek ziyarete değil, randevu almaya uygulanır. Zamanında randevu almak sizi yasal tarafta tutar."],
+["Daha erken randevular için her gün yenileyin", "Şehirler çoğu sabah yeni randevular açar. İptalleri yakalamak için randevu sayfasını sabah 7'de yenileyin. Daha erken tarih vaat eden üçüncü taraf aracılara para ödemeyin."],
+["Onay e-postanızı kaydedin", "Randevu sitesi size tarih, saat ve Bürgeramt adresini içeren bir onay e-postası gönderir. Yazdırın veya PDF olarak kaydedin. Zamanında randevu aldığınızın kanıtı olarak göstermeniz gerekebilir."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Alman yasaları taşındıktan sonra adresinizi kaydettirmeniz için size 14 gün tanır. Anmeldung randevusu olmadan banka hesabı, sigorta veya oturum izni işlemlerinize başlayamazsınız."],
+["14 günlük süre randevu almak için mi, yoksa randevunun kendisi için mi?", "14 günlük süre randevu almak içindir. Asıl ziyaret haftalar sonra olabilir. Zamanında randevu aldığınız sürece yasaya uygunsunuz."],
+["Büyük bir şehirde 14 gün içinde hiç randevu yoksa ne olur?", "14 günden sonra bile olsa bulabildiğiniz ilk randevuyu alın. Denediğinizin kanıtı olarak onay e-postasını kaydedin. Yoğun bölgelerde şehirler geç randevular için bunu kabul eder."],
+["Kalıcı bir evim olmadan randevu alabilir miyim?", "Hayır. Anmeldung belirli bir adresi kaydeder. Önce ev sahibinizden imzalı bir Wohnungsgeberbestätigung almanız gerekir. Oteller ve Airbnb genellikle bu formu imzalamaz."]
+]
+},
+"attend-anmeldung": {
+"title": "Anmeldung'e git ve Anmeldebestätigung'ini al",
+"intro": "Anmeldung, adresinizi şehre kaydettirmenizdir. Yerel Bürgeramt'ınıza şahsen gider, pasaportunuzu ve ev sahibinizin imzaladığı formu gösterir ve damgalı bir belge (Anmeldebestätigung) alırsınız. Almanya'da sonraki adımların neredeyse hepsi bu belgeyi gerektirir.",
+"overview": {
+"time": "Randevu 10 ila 15 dakikadır. Beklemeyle birlikte dairede toplam süre 1 ila 4 saat olabilir.",
+"cost": "Ücretsiz",
+"process": "Memura pasaportunuzu, imzalı Wohnungsgeberbestätigung'i ve Anmeldeformular'ı (kayıt formu) gösterin. Damgalı Anmeldebestätigung'i size hemen orada verirler.",
+"why": "Anmeldung; banka hesabınızın, sağlık sigortanızın, oturum izninizin ve üniversite kaydınızın kapısını açar. Vergi numaranız da bu adımdan sonra otomatik olarak gönderilir."
+},
+"steps": [
+["Wohnungsgeberbestätigung'i alın", "Ev sahibinizden veya ana kiracıdan Wohnungsgeberbestätigung'i doldurup imzalamasını isteyin. Bu, o adreste yaşadığınızı onaylayan tek sayfalık bir belgedir. Randevu gününüzden önce alın."],
+["Anmeldeformular'ı doldurun", "Anmeldeformular'ı şehrinizin Bürgeramt web sitesinden indirin. Adınızı, doğum tarihinizi, pasaport numaranızı ve adresinizi doldurun. Yazdırın ve imzalayın."],
+["Randevuya asılları getirin", "Pasaportunuzu, imzalı Wohnungsgeberbestätigung'i, doldurulmuş Anmeldeformular'ı ve vizenizi veya oturum izninizi yanınıza alın. Kopya değil, asılları getirin. Çift olarak kaydoluyorsanız evlilik cüzdanınızı ekleyin."],
+["Bürgeramt randevusuna gidin", "10 dakika erken varın. Memur belgelerinizi kontrol eder ve adresinizi kaydeder. Çağrıldıktan sonra ziyaret 10 ila 15 dakika sürer."],
+["Anmeldebestätigung'inizi alın", "Memur Anmeldebestätigung'inizi hemen orada yazdırıp damgalar. Güvenli bir yerde saklayın. Sonraki adımların neredeyse hepsi (banka, sigorta, oturum izni) bu belgeyi gerektirir."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Anmeldung, Alman yasalarına göre taşındıktan sonraki 14 gün içinde zorunludur. Ayrıca banka hesabınızın, sigortanızın ve oturum izninizin kapısını açar; bu yüzden atlanamaz."],
+["Randevuya hangi belgeleri getirmem gerekiyor?", "Pasaportunuz, vizeniz veya oturum izniniz, doldurulmuş Anmeldeformular ve ev sahibinizin imzaladığı Wohnungsgeberbestätigung. Kopya değil, asılları getirin."],
+["Alt kiracıysam veya geçici konaklamadaysam Anmeldung yapabilir miyim?", "Evet, ama ev sahibinizin veya ana kiracının sizin için Wohnungsgeberbestätigung'i imzalaması gerekir. Airbnb ve kısa süreli hosteller genellikle bu formları imzalamaz."],
+["Wohnungsgeberbestätigung nedir ve nereden alırım?", "Ev sahibinizden, o adreste yaşadığınızı onaylayan tek sayfalık bir belgedir. Ev sahibinizin doldurup imzalaması gerekir. Randevunuzdan önce kendisinden isteyin."]
+]
+},
+"activate-health-insurance": {
+"title": "Sağlık sigortanı aktifleştir",
+"intro": "Sağlık sigortası Alman yasalarına göre her yerleşik için zorunludur. Anmeldung'den sonra aktifleştirirsiniz. Size uygun tür (kamu veya özel) yaşınıza, öğrenci veya çalışan statünüze ve gelirinize bağlıdır.",
+"overview": {
+"time": "Çevrimiçi kayıt yaklaşık 30 dakika sürer. Sigorta kartınız 1 ila 2 hafta içinde posta ile gelir.",
+"cost": "Ücretler sağlayıcıya, yaşa ve öğrenci veya çalışan statüsüne göre değişir. Güncel fiyatları sağlayıcınızdan kontrol edin.",
+"process": "Statünüze göre kamu (yasal) ve özel sağlık sigortası arasında seçim yapın. Sağlayıcıya kaydolun, pasaportunuzu ve Anmeldebestätigung'inizi yükleyin ve dijital bir onay alın.",
+"why": "Sağlık sigortası Alman yasalarına göre zorunludur. Bu olmadan üniversiteye kaydolamaz veya oturum izninizi alamazsınız."
+},
+"steps": [
+["Kamu ile özel arasında karar verin", "Seçenekleriniz statünüze göre belirlenir. 30 yaş altı öğrenciler genellikle kamu sigortasına hak kazanır. 30 yaş ve üzeri öğrenciler, dil öğrencileri ve Studienkolleg öğrencileri özel sigortaya ihtiyaç duyar. 77.400 EUR'luk JAEG (yıllık gelir sınırı) üzerinde kazanan çalışanlar özel sigortayı seçebilir."],
+["Bir sağlayıcıya kaydolun", "Bir sağlık sigortası sağlayıcısı veya aracı hizmet seçin; örneğin Expatrio hem yasal hem özel sağlık sigortası sunar. Expatrio Value Package gibi bir paketiniz varsa sağlık sigortanız pakete dahildir; Anmeldebestätigung'inizi yükleyerek aktifleştirin. 30 yaş altı öğrenciler için standart yasal sigortadır."],
+["Çevrimiçi kaydolun", "Sağlayıcının çevrimiçi başvuru formunu doldurun. Pasaportunuzu ve Anmeldebestätigung'inizi yükleyin. Kayıtların çoğu yaklaşık 30 dakika sürer."],
+["Dijital onayınızı alın", "Sağlayıcı hemen dijital bir onay düzenler. Bu, üniversite kaydı ve oturum izni randevunuz için yeterli kanıttır. PDF'i kaydedin."],
+["Sigorta kartınızı bekleyin", "Plastik kart (kamu sigortasında eGK, özel sigortada sağlayıcıya özgü) 1 ila 2 hafta içinde posta ile gelir. Her doktor veya hastane ziyaretinde yanınızda taşıyın."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Sağlık sigortası Alman yasalarına göre Almanya'da yaşayan herkes için zorunludur. Teminat kanıtı olmadan üniversiteye kaydolamaz veya oturum izni alamazsınız."],
+["Kamu mu, özel mi; hangisi bana uygun?", "Yaşınıza, statünüze ve gelirinize bağlıdır. 30 yaş altı öğrenciler genellikle kamu sigortasına hak kazanır. 30 yaş ve üzeri öğrenciler, dil öğrencileri ve Studienkolleg öğrencileri genellikle özel sigortaya ihtiyaç duyar. Belirli bir gelir eşiğinin üzerindeki çalışanlar özel sigortayı seçebilir."],
+["Sigortam ne zaman başlar?", "Sağlayıcıların çoğu hemen dijital bir onay düzenler. Plastik kart (kamu sigortasında eGK; özel sigortada sağlayıcıya özgü) 1 ila 2 hafta içinde posta ile gelir. Dijital onay üniversite kaydı ve oturum izni randevunuz için yeterlidir."],
+["Daha sonra kamu ile özel arasında geçiş yapabilir miyim?", "Kamudan özele geçiş genellikle mümkündür. Özelden kamuya geri dönmek, özellikle 55 yaşından sonra, kısıtlıdır. Seçim yapmadan önce bunu dikkatle değerlendirin."]
+]
+},
+"pay-rundfunkbeitrag": {
+"title": "Rundfunkbeitrag'ı öde",
+"intro": "Rundfunkbeitrag, kamu televizyon ve radyo ücretidir. Almanya'daki her hane, orada kim yaşarsa yaşasın, ayda 18,36 EUR öder. Kayıt Anmeldung'den sonra otomatik olarak başlar.",
+"overview": {
+"time": "Kayıt otomatiktir. Ödemeyi çevrimiçi ayarlamak 10 dakika sürer.",
+"cost": "Hane başına ayda 18,36 EUR.",
+"process": "Anmeldung'den 4 ila 6 hafta sonra bir mektup gelir. rundfunkbeitrag.de üzerinden otomatik ödeme talimatı verin veya üç ayda bir havaleyle ödeyin.",
+"why": "Rundfunkbeitrag, kamu televizyon ve radyo ücretidir. Alman yasaları her hanenin bunu ödemesini şart koşar. Ödememek mahkeme kararlarına ve para cezalarına yol açar."
+},
+"steps": [
+["Kayıt mektubunu bekleyin", "Anmeldung verileri Rundfunk hizmetiyle otomatik olarak paylaşılır. Kayıt numaranızı içeren bir mektup Anmeldung'den 4 ila 6 hafta sonra gelir. Kendinizin kaydolması gerekmez."],
+["Ev arkadaşınızın zaten ödeyip ödemediğini kontrol edin", "Rundfunkbeitrag kişi başına değil, hane başınadır. Paylaşımlı bir evde (WG) yalnızca bir kişi kaydolur. Önce ev arkadaşlarınıza sorun. Biri zaten ödüyorsa onun kayıt numarasını Rundfunk ile paylaşın."],
+["Ödemeyi çevrimiçi ayarlayın", "rundfunkbeitrag.de'yi açın ve kayıt numaranızı girin. Almanya'daki banka hesabınızdan otomatik ödeme talimatı verin veya üç ayda bir havaleyle ödeyin. Ücret hane başına ayda 18,36 EUR'dur."],
+["Uygunsanız muafiyet için başvurun", "BAföG alan öğrenciler tam muafiyet için başvurabilir. BAföG onay yazınızı rundfunkbeitrag.de üzerinden gönderin. Diğer öğrenciler standart ücreti öder."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Almanya'daki her hane kamu televizyon ve radyo ücretini ödemek zorundadır. Kayıt Anmeldung'den sonra otomatik olarak başlar. Ödeme ayarını siz yaparsınız."],
+["Rundfunk beni nasıl buluyor, kendim mi kaydolmalıyım?", "Anmeldung verileri Rundfunk hizmetiyle paylaşılır. Kayıt numaranızı içeren bir mektup adresinizi kaydettirdikten 4 ila 6 hafta sonra gelir. Kendinizin kaydolması gerekmez."],
+["WG'de yaşıyorsam kim öder, ben mi hane mi?", "Hane başına yalnızca bir ücret. Bir ev arkadaşınız zaten ödüyorsa mektubunuz geldiğinde Rundfunk'a onun kayıt numarasını verin. 18,36 EUR'yu ev arkadaşları kendi aralarında gayriresmi olarak bölüşür."],
+["Öğrenciler muafiyet veya indirim alabilir mi?", "Evet, BAföG alan öğrenciler tam muafiyet için başvurabilir. Diğer öğrenciler standart ücreti öder. BAföG onay yazınızla rundfunkbeitrag.de üzerinden başvurun."]
+]
+},
+"activate-blocked-account-ch5": {
+"title": "Bloke hesabını aktifleştir",
+"intro": "Bloke hesap, vizeniz için yatırdığınız paradır. Aktivasyon, sağlayıcınıza parayı her ay serbest bırakmaya başlamasını söyler. Almanya'daki adres kanıtınızı, pasaportunuzu ve banka IBAN'ınızı sağlayıcının portalı üzerinden yüklersiniz.",
+"overview": {
+"time": "Belgeleri yüklemek 30 dakika. Ardından ilk ödeme için 3 ila 5 gün.",
+"cost": "Aylık hesap ücreti uygulanır. Güncel fiyatları sağlayıcınızdan kontrol edin.",
+"process": "Sağlayıcınızın portalına giriş yapın. Anmeldebestätigung'inizi, pasaportunuzu ve Alman IBAN'ınızı yükleyin. İlk ödemeyi bekleyin.",
+"why": "Aktivasyon, her ay Almanya'daki banka hesabınıza 992 ila 1.091 EUR aktarılmasını sağlar. Aktivasyon olmadan vizeniz için kanıtladığınız paraya erişemezsiniz."
+},
+"steps": [
+["Ön koşulların hazır olduğunu teyit edin", "Aktifleştirmeden önce Anmeldebestätigung'inize ve Almanya'da bir banka hesabına ihtiyacınız var. Sağlayıcınız ikisini de ister. Bunlar olmadan aktivasyon formu gönderilemez."],
+["Sağlayıcınızın portalına giriş yapın", "Bloke hesabı açarken kullandığınız sağlayıcı portalını (ör. Expatrio portalı) açın. Kayıt olduğunuz e-postayla giriş yapın. Panelinizde aktivasyon bölümünü arayın."],
+["Aktivasyon belgelerinizi yükleyin", "Anmeldebestätigung'inizi, pasaport taramanızı ve Alman IBAN'ınızı yükleyin. Net fotoğraflar veya PDF'ler kullanın. Her sağlayıcı kesin şartlarını yükleme formunda listeler."],
+["İnceleme ve onayı bekleyin", "Sağlayıcıların çoğu aktivasyon belgelerini 1 ila 3 iş günü içinde inceler. Hesabınız aktif olduğunda bir onay e-postası alırsınız. Ek taleplere hızla yanıt verin."],
+["İlk aylık ödemenizi alın", "992 EUR ile 1.091 EUR arasındaki ilk ödeme onaydan 3 ila 5 iş günü sonra hesaba geçer. Sonraki ödemeler her ay aynı tarihte gelir. Almanya'daki banka hesabınızı kontrol edin."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Vizeniz için bir bloke hesap açtınız. Artık Almanya'ya vardığınıza göre aylık geçim paranızı almak için onu aktifleştirmeniz gerekir. Aktivasyon olmadan hiç para serbest bırakılmaz."],
+["Neden Anmeldung ve banka hesabından sonra aktifleştirmeliyim?", "Sağlayıcının aylık ödemeyi gönderebilmesi için kayıtlı Almanya adresinize (Anmeldebestätigung) ve bir Alman IBAN'ına ihtiyacı vardır. Aktivasyon formu için ikisi de gereklidir."],
+["İlk 992 EUR hesabıma ne zaman geçer?", "Sağlayıcıların çoğu aktivasyon belgelerinizi onayladıktan 3 ila 5 iş günü sonra ilk ödemeyi gönderir. Cuma günü yüklerseniz ertesi hafta bekleyin."],
+["Asgari tutarın üzerindeki fazla paraya ne olur?", "Her sağlayıcı fazla yatırılan parayı farklı şekilde ele alır. Bazıları aylık ödemeyi ayarlar, bazıları fazlayı hesap kapanışına kadar tutar. Ne bekleyeceğinizi bilmek için sağlayıcınızın koşullarını kontrol edin."]
+]
+},
+"apply-residence-permit-postvisa": {
+"title": "Oturum izni randevusuna git",
+"intro": "Oturum izni (eAT), kısa süreli giriş vizenizin yerini alır. Anmeldung, sağlık sigortası ve finansman kanıtınızla Ausländerbehörde'ye başvurursunuz. Kart 1 ila 4 yıl geçerlidir.",
+"overview": {
+"time": "Randevu almak haftalar sürebilir. Randevunun kendisi 30 dakikadır. eAT kartı 2 ila 4 hafta sonra gelir.",
+"cost": "Oturum izni ücretini Ausländerbehörde belirler. Güncel tutar için yerel dairenize bakın.",
+"process": "Yerel Ausländerbehörde'den çevrimiçi randevu alın. O gün tüm belgelerinizi getirin. Kartı teslim alın veya posta ile gelmesini bekleyin.",
+"why": "Giriş vizeniz 3 ila 6 ay sonra sona erer. Eğitiminizin, işinizin veya kursunuzun geri kalanında Almanya'da yasal olarak kalmak için oturum iznine (eAT) ihtiyacınız var."
+},
+"steps": [
+["Belgelerinizi toplayın", "Pasaportunuza, biyometrik fotoğraflarınıza, Anmeldebestätigung'inize, sağlık sigortası kanıtınıza ve finansman kanıtınıza ihtiyacınız var. Üniversite kayıt belgenizi veya iş sözleşmenizi ekleyin. Asılları ve kopyaları getirin."],
+["Randevuya gidin", "Tüm belgelerinizle 15 dakika erken varın. Memur belgeleri inceler ve parmak izinizi alır. Randevunun kendisi yaklaşık 30 dakika sürer."],
+["Ücreti ödeyin", "Ücreti yerel Ausländerbehörde'niz belirler. Genellikle o gün kartla veya nakit ödersiniz. Makbuzu saklayın."],
+["eAT kartınızı alın", "Elektronik oturum izni (eAT) 2 ila 4 hafta içinde posta ile gelir. Bazı daireler şahsen teslim almanızı ister. Memur bunu size o gün söyler."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Kısa süreli bir giriş vizesiyle geldiniz. Eğitiminizin veya işinizin geri kalanında Almanya'da kalmak için uzun süreli bir oturum iznine (eAT) ihtiyacınız var. Ausländerbehörde bunu Anmeldung ve sağlık sigortasından sonra düzenler."],
+["Giriş vizemin süresi randevudan önce dolarsa ne olur?", "Fiktionsbescheinigung için başvurun. Beklerken yasal kalmanızı sağlar. Randevu alırken Ausländerbehörde'den bir tane düzenlemesini isteyin."],
+["eAT kartı randevudan ne kadar sonra gelir?", "Kart randevunuzdan 2 ila 4 hafta sonra basılıp postalanır. Bazı daireler şahsen teslim almanızı ister. Memur bunu size o gün söyler."],
+["Belgeler giriş vizesi başvurumdakilerle aynı mı?", "Çoğunlukla evet. Pasaportunuza, biyometrik fotoğraflarınıza, Anmeldebestätigung'inize, sağlık sigortası kanıtınıza ve finansman kanıtınıza ihtiyacınız olacak. Ayrıca üniversite kayıt belgeniz veya iş sözleşmeniz."]
+]
+},
+"enroll-university": {
+"title": "Üniversiteye kaydol",
+"intro": "Kesin kayıt, kabulünüzü öğrenci statüsüne dönüştüren son adımdır. Kabul mektubunuz, pasaportunuz ve Anmeldung belgenizle Studierendensekretariat'a (öğrenci işleri) gidersiniz. Semesterbeitrag'ı öder ve öğrenci kimliğinizi alırsınız.",
+"overview": {
+"time": "Studierendensekretariat'taki randevu 30 dakikadır. Öğrenci kimliği ve Semesterticket 1 ila 2 hafta içinde gelir.",
+"cost": "Üniversitenizin belirlediği dönemlik bir ücret (Semesterbeitrag). İdari giderleri ve toplu taşıma için Semesterticket'ı kapsar. Güncel tutarı üniversitenizden kontrol edin.",
+"process": "Kabul mektubunuz, pasaportunuz, Anmeldung belgeniz, sağlık sigortası kanıtınız ve finansman kanıtınızla Studierendensekretariat'a gidin. Semesterbeitrag'ı o gün ödeyin.",
+"why": "Kesin kayıt, kabul mektubunuzu öğrenci statüsüne dönüştürür. Bu olmadan öğrenci kimliğiniz, Semesterticket'ınız olmaz ve vize kurallarınız karşılanmamış olur."
+},
+"steps": [
+["Kayıt randevunuzu alın", "Kayıt tarihleri için üniversitenizin Studierendensekretariat web sitesine bakın. Bazıları randevu ister, bazıları randevusuz kabul günleri düzenler. Kabul mektubunuz gelir gelmez randevu alın."],
+["Semesterbeitrag'ı ödeyin", "Dönemlik ücreti randevudan yaklaşık bir hafta önce Almanya'daki banka hesabınızdan havale edin. Tutar kabul mektubunuzda yazar. Kanıt olarak banka dekontunu getirin."],
+["Belgelerinizi toplayın", "Kabul mektubunuzu, pasaportunuzu, Anmeldebestätigung'inizi, sağlık sigortası onayınızı, biyometrik fotoğraflarınızı ve finansman kanıtınızı yanınıza alın. Asılları ve kopyaları getirin. Ülkeniz gerektiriyorsa APS sertifikanızı ekleyin."],
+["Studierendensekretariat'a gidin", "Belgelerinizi öğrenci işleri ofisine teslim edin. Memur sizi öğrenci olarak kaydeder. Ziyaret genellikle 30 dakika sürer."],
+["Öğrenci kimliğinizi ve Semesterticket'ınızı alın", "Üniversitelerin çoğu dijital öğrenci kimliğini ve Semesterticket'ı aynı gün verir. Bazıları plastik kartı 1 ila 2 hafta içinde posta ile gönderir. Ayrıntılar için hoş geldin paketinize bakın."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Kabul mektubunuz var ama henüz öğrenci değilsiniz. Kesin kayıt sizi kaydeden resmi adımdır. Ayrıca öğrenci kimliğini ve Semesterticket'ı da verir."],
+["Semesterbeitrag gerçekte neleri kapsar?", "Öğrenci birliğini (AStA), toplu taşıma için Semesterticket'ı, Mensa sübvansiyonlarını ve öğrenci hizmetlerini kapsar. Almanya'daki devlet üniversitelerinin çoğu harç almaz, yalnızca bu ücreti alır."],
+["Semesterticket'ı kayıt sırasında hemen alır mıyım?", "Üniversitelerin çoğu dijital Semesterticket'ı kayıt günü verir. Bazıları plastik kartı 1 ila 2 hafta içinde posta ile gönderir. Ayrıntılar için hoş geldin paketine bakın."],
+["Anmeldung'im kesinleşmeden kayıt olabilir miyim?", "Hayır, üniversitelerin çoğu randevuda Anmeldebestätigung'inizi ister. Önce Anmeldung randevunuzu alın ve Studierendensekretariat'a gitmeden önce belgeyi edinin."]
+]
+},
+"book-auslanderbehorde-ch5": {
+"title": "Oturum izni randevusu al",
+"intro": "Ausländerbehörde randevunuzu Anmeldung'i tamamladığınız gün alın. Giriş vizenizin süresi 3 ila 6 ay içinde dolar ve büyük şehirlerde randevular 6 ila 8 hafta önceden dolar. Vizenizin süresi randevudan önce dolacaksa aradaki dönemde yasal kalmak için Fiktionsbescheinigung isteyin.",
+"overview": {
+"time": "Çevrimiçi randevu almak 5 dakika sürer. Büyük şehirlerde randevu için bekleme süresi genellikle 4 ila 8 haftadır.",
+"cost": "Randevu almak ücretsizdir. Oturum izni ücreti randevuda ödenir.",
+"process": "Yerel Ausländerbehörde'nin çevrimiçi portalına gidin, öğrenci veya çalışma oturum izinleri için randevu bölümünü bulun ve bir randevu alın. Onay e-postasını kaydedin.",
+"why": "Giriş vizeniz 3 ila 6 ay geçerlidir. Süresi dolduktan sonra Almanya'da yasal olarak kalmak için bir oturum izni kartına (eAT) ihtiyacınız var. Berlin ve Münih'te Ausländerbehörde randevuları 6 ila 8 hafta önceden dolabilir. Anmeldung'iniz tamamlanır tamamlanmaz randevu alın."
+},
+"steps": [
+["Yerel Ausländerbehörde'nizi bulun", "Şehrinizin adıyla birlikte “Ausländerbehörde Termin online” diye arayın. Her şehrin kendi portalı vardır. Berlin berlin.de/labo, Münih muenchen.de/auslaenderbehoerde kullanır. Sayfayı yer imlerine ekleyin. Birkaç kez tekrar kontrol etmeniz gerekebilir."],
+["Doğru izin türünü seçin", "Almanya'da bulunma nedeninize uyan kategoriyi seçin. Öğrenci oturum izni (Aufenthaltserlaubnis zum Studium, Paragraf 16b) veya vize türünüze karşılık gelen kategori. Yanlış kategoriyi seçmek, randevunun izniniz için geçersiz olması demektir."],
+["En erken uygun randevuyu alın", "Haftalar sonra bile olsa en erken uygun randevuyu alın. Onay e-postasını kaydedin ve randevuyu takviminize ekleyin. Vizenizin bitiş tarihi yakınsa ve hiç randevu yoksa Fiktionsbescheinigung istemek için hemen daireyle iletişime geçin."],
+["Gerekirse Fiktionsbescheinigung isteyin", "Giriş vizenizin süresi randevudan önce dolacaksa Ausländerbehörde'ye e-posta gönderin veya telefon edin ve Fiktionsbescheinigung isteyin. Bu ara belge, beklerken kalışınızı yasal tutar. Dairelerin çoğu bunu ayrı bir yüz yüze ziyaret gerektirmeden düzenler."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Giriş vizeniz kısadır. Genellikle 3 ila 6 ay. Süresi dolduktan sonra yasal olarak kalmak için ihtiyacınız olan şey oturum izni kartıdır (eAT). Büyük şehirlerde randevular haftalar önceden dolar; bu yüzden vardıktan ve adresinizi kaydettirdikten hemen sonra harekete geçmeniz gerekir."],
+["Haftalarca hiç randevu yoksa ne olur?", "6 ila 8 hafta sonra bile olsa ne varsa alın. İptaller için her gün kontrol edin. Erken iptalleri sormak için daireyi arayın. Vizenizin süresi randevudan önce dolacaksa hemen Fiktionsbescheinigung isteyin."],
+["Fiktionsbescheinigung nedir?", "İzin başvurunuz beklemedeyken vizenizin süresi aksi halde dolacak olduğunda Ausländerbehörde'nin düzenlediği ara bir belgedir. Randevuyu ve eAT kartını beklerken kalışınızı ve çalışma hakkınızı yasal tutar."],
+["Randevu almadan önce Anmeldung'e ihtiyacım var mı?", "Çoğu şehirde randevu almak için kayıtlı bir Almanya adresine ihtiyacınız var. Önce Anmeldung'i tamamlayın, ardından Ausländerbehörde randevusunu aynı gün veya ertesi gün alın."]
+]
+},
+"get-sim-card": {
+"title": "Alman SIM kartı al",
+"intro": "Alman SIM kartı size günlük hayat için yerel bir cep telefonu numarası verir. Banka güvenlik kodları, resmi formlar ve ev sahipleri veya işverenlerle iletişim için buna ihtiyacınız var. Süpermarket markalı ön ödemeli (faturasız) tarifeler genellikle en ucuz seçenektir.",
+"overview": {
+"time": "Mağazada 30 dakika. Çevrimiçi aktivasyon 15 ila 30 dakika sürer.",
+"cost": "Ön ödemeli tarifeler en ucuz seçenektir. Daha fazla internet içeren ve sabit süreli sözleşmeler daha pahalıdır. Güncel fiyatları operatörler arasında karşılaştırın.",
+"process": "Bir süpermarketten veya cep telefonu mağazasından ön ödemeli SIM kart alın. Aktivasyon için pasaportunuzu gösterin. Numara aynı gün çalışır.",
+"why": "Banka iki adımlı doğrulama kodları (2FA), Anmeldung formları, ev sahibiyle iletişim ve resmi yazışmalar için Alman numarasına ihtiyacınız var. Yabancı numaralar çoğu zaman Alman bankalarının güvenlik sistemleriyle çalışmaz."
+},
+"steps": [
+["İlk SIM'iniz için ön ödemeli seçin", "Süpermarket markalı bir ön ödemeli tarifeyle başlayın (Aldi Talk, Congstar, Lidl Connect). Bunlar büyük Alman şebekeleri üzerinde çalışır. Sözleşmeler genellikle Almanya'da bir banka hesabı gerektirir; bu yüzden varışta ön ödemeli daha hızlıdır."],
+["Bir süpermarketten veya mağazadan alın", "Aldi, Lidl, Rewe veya Edeka'dan bir başlangıç paketi alın. Telekom, Vodafone ve O2 mağazaları da SIM kart satar. Paket birkaç euro tutar ve başlangıç kontörü içerir."],
+["Pasaportunuzla aktifleştirin", "Çevrimiçi aktivasyon 15 ila 30 dakika sürer. Pasaportunuzu tarar ve görüntülü görüşmeyle onaylarsınız. Bazı mağazalar aktivasyonu hemen orada yüz yüze yapar."],
+["Günlük hayatta Alman numaranızı kullanın", "Alman numaranızı telefonunuza tanımlayın. Banka 2FA kodları, Anmeldung formları, ev sahibiyle iletişim ve resmi yazışmalar için kullanın. Yabancı numaralar Alman bankalarının güvenlik sistemlerinde çoğu zaman sorun çıkarır."],
+["Gerekirse daha sonra sözleşmeli hatta geçin", "Anmeldung'iniz ve Almanya'da bir banka hesabınız olduğunda daha fazla internet için sözleşmeli bir hatta (Vertrag) geçebilirsiniz. Sözleşmelerin çoğu zaman sabit süreleri vardır (12 ila 24 ay). İmzalamadan önce güncel fiyatları karşılaştırın."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Günlük hayatta neredeyse her yerde Alman numarası gerekir. Bankalar 2FA kodlarını SMS ile gönderir. Ev sahipleri ve işverenler yerel bir numara bekler. Resmi yazışmalar çoğu zaman telefonla onay adımı içerir."],
+["Aldi Talk, Congstar veya Lidl Connect; hangisi en iyisi?", "Üçü de büyük Alman şebekeleri üzerinde çalışan süpermarket markalı ön ödemeli tarifelerdir. Kapsama ve fiyatlar benzerdir. Birini deneyin, bölgenizde daha iyi sinyal gerekirse değiştirin."],
+["Anmeldung'den önce yalnızca pasaportumla SIM alabilir miyim?", "Evet. Ön ödemeli SIM'lerin aktivasyonu için yalnızca pasaportunuz gerekir. Sözleşmeler (Vertrag) genellikle Anmeldung ve Almanya'da bir banka hesabı ister. Ön ödemeliyle başlayın, sonra yükseltin."],
+["Banka 2FA'sı için neden Alman numarasına ihtiyacım var?", "Alman bankaları güvenlik kodlarını SMS ile gönderir. Uluslararası SMS iletimi güvenilir değildir ve birçok banka güvenlik nedeniyle yabancı numaraları engeller. Alman SIM kartı giriş sorunlarını önler."]
+]
+},
+"open-bank-account": {
+"title": "Almanya'da banka hesabı aç",
+"intro": "Almanya'daki bir banka hesabı size kira, maaş, sigorta ve bloke hesap ödemesi için ihtiyacınız olan IBAN'ı verir. Çevrimiçi bankalar varıştan önce hesap açmanıza izin verir. Geleneksel bankalar önce Anmeldung'inizi ister. Bazı bloke hesap paketleri (ör. Expatrio'nun bloke hesabı ve Value Package) ücretsiz bir Alman banka hesabı içerir.",
+"overview": {
+"time": "Çevrimiçi kayıt 10 ila 15 dakika sürer. Geleneksel bir bankada şubede 30 dakika artı randevu alma süresi.",
+"cost": "Bankaya göre ücretsizden küçük bir aylık ücrete kadar.",
+"process": "Bir banka seçin, çevrimiçi kaydolun veya şube ziyareti için randevu alın, istenirse pasaport ve Anmeldung belgenizi gösterin. IBAN aynı gün çalışır.",
+"why": "Kira, maaş, sigorta ve bloke hesap ödemeniz için Alman IBAN'ına ihtiyacınız var. Almanya'da otomatik ödeme talimatları yabancı IBAN'larla çalışmaz."
+},
+"steps": [
+["Banka türünüzü seçin", "Çevrimiçi bankalar yalnızca pasaportunuzla varıştan önce kaydolmanıza izin verir. Geleneksel bankalar önce Anmeldung'inizi ister. Bazı bloke hesap paketleri (ör. Expatrio Value Package ve Expatrio bloke hesabı) ücretsiz bir Alman banka hesabı içerir."],
+["Çevrimiçi kaydolun", "Bankanın uygulamasını veya web sitesini açın. Adınızı, doğum tarihinizi, adresinizi ve vergi bilgilerinizi doldurun. Çevrimiçi kayıt 10 ila 15 dakika sürer."],
+["Kimliğinizi doğrulayın", "Bankaların çoğu kimliği görüntülü görüşmeyle (VideoIdent) veya bir postanede (PostIdent) doğrular. Pasaportunuzu hazır bulundurun. Kontrol yaklaşık 10 dakika sürer."],
+["IBAN'ınızı alın", "Alman IBAN'ı genellikle onaydan birkaç dakika sonra verilir. Kira, maaş, bloke hesap ödemeleri ve otomatik ödeme talimatları için kullanın. Şifre yöneticinize kaydedin."],
+["Banka kartınızı bekleyin", "Plastik Girocard veya Visa Debit kart 5 ila 10 iş günü içinde posta ile gelir. PIN ayrı bir zarfta gelir. İkisi de geldiğinde kartı uygulamadan aktifleştirin."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Almanya'da neredeyse her şey Alman IBAN'ı üzerinden yürür. Kira, maaş, sigorta ve bloke hesap ödemesinin hepsi buna ihtiyaç duyar. Yabancı hesaplar otomatik ödeme sorunlarına yol açar."],
+["Varıştan önce çevrimiçi bir banka mı açmalıyım, yoksa geleneksel bir bankayı mı beklemeliyim?", "Önce çevrimiçi bir banka açın. Yalnızca pasaport gerektirir ve yurt dışından çalışır. Şube hizmetlerine veya kredi kartına ihtiyacınız varsa Anmeldung'den sonra geleneksel bir banka ekleyin."],
+["Önce Anmeldung mi gerekli, yoksa varıştan önce çevrimiçi açabilir miyim?", "Çevrimiçi bankalar genellikle yalnızca pasaportla varıştan önce hesap açmanıza izin verir. Geleneksel bankalar önce Anmeldebestätigung'inizi ister. İki yol paralel yürüyebilir."],
+["Expatrio bloke hesabıyla ücretsiz banka hesabı alır mıyım?", "Evet. Expatrio bloke hesabı ve Expatrio Value Package ücretsiz bir Alman banka hesabı içerir. Bloke hesabınız açılır açılmaz IBAN hazırdır."]
+]
+},
+"get-deutschlandticket": {
+"title": "Deutschlandticket al",
+"intro": "Deutschlandticket, Almanya genelinde toplu taşıma için sabit ücretli aylık bir abonmandır. Otobüsleri, tramvayları, U-Bahn'ı, S-Bahn'ı ve bölgesel trenleri kapsar. Bir Alman IBAN'ıyla bir uygulama üzerinden abone olursunuz.",
+"overview": {
+"time": "Uygulamada abone olmak 5 dakika.",
+"cost": "Ayda 63 EUR (2026 tarifesi). Bazı işverenler JobTicket olarak bir kısmını karşılar.",
+"process": "DB Navigator'ı veya yerel ulaşım uygulamanızı indirin. Alman IBAN'ıyla abone olun. Bilet dijitaldir ve dakikalar içinde hazır olur.",
+"why": "Almanya'da dolaşmanın en ucuz yolu. Tüm ülkede otobüsleri, tramvayları, U-Bahn'ı, S-Bahn'ı ve bölgesel trenleri kapsar."
+},
+"steps": [
+["Önce Semesterticket'ınızı kontrol edin", "Öğrenciyseniz kayıt paketinize bakın. Birçok üniversite Semesterticket'ı Deutschland-Semesterticket'a yükseltti. Küçük bir ek ücretle aynı ağda geçerlidir."],
+["Bir ulaşım uygulaması seçin", "Ülke genelinde DB Navigator'ı veya yerel ulaşım uygulamanızı (Berlin'de BVG, Münih'te MVV, Hamburg'da HVV, Frankfurt'ta RMV) kullanın. Hepsi aynı Deutschlandticket'ı satar."],
+["Alman IBAN'ınızla abone olun", "Uygulamayı açın, Deutschlandticket'ı seçin ve otomatik ödeme için Alman IBAN'ınızı girin. Ücret ayda 63 EUR'dur. Abonelik siz iptal edene kadar her ay yenilenir."],
+["Dijital bileti kullanın", "Bilet dijitaldir ve dakikalar içinde hazır olur. Kontrolör kontrol ettiğinde uygulamadaki QR kodunu gösterin. Almanya genelinde bölgesel trenlerde, U-Bahn'da, S-Bahn'da, otobüslerde ve tramvaylarda geçerlidir."],
+["Ay sonundan önce istediğiniz zaman iptal edin", "Bir sonraki fatura tarihinden en az bir gün önce uygulama üzerinden iptal edin. Aboneliğin sabit bir süresi yoktur. Gerekirse daha sonra yeniden abone olabilirsiniz."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Alman şehirlerinde dolaşmanın ana yolu toplu taşımadır. Deutschlandticket her yerde geçerli tek bir aboneliktir. Tek bilet almaya kıyasla para kazandırır."],
+["Öğrenci Semesterticket'ım zaten Deutschlandticket'ı kapsıyor mu?", "Çoğu zaman evet. Birçok üniversite Semesterticket'ı Deutschland-Semesterticket'a yükseltti. Küçük bir ek ücretle aynı ağda geçerlidir. Üniversite kayıt paketinize bakın."],
+["Yalnızca şehir içinde gidip geliyorsam ayda 63 EUR'ya değer mi?", "Aylık yerel abonman ücretiyle karşılaştırın. Büyük şehirlerin çoğunda yerel A bölgesi abonmanı aşağı yukarı aynı veya daha pahalıdır ve Deutschlandticket ayrıca Almanya genelindeki bölgesel trenleri de kapsar. Şehirler arasında seyahat ederseniz değeri çok daha yüksektir."],
+["Deutschlandticket ICE ve IC şehirlerarası trenleri kapsıyor mu?", "Hayır, yalnızca bölgesel trenleri (RE, RB, IRE) ve şehir içi ulaşımı kapsar. ICE ve IC trenleri ayrı bilet gerektirir. Yolculuk daha uzun sürer ama tasarruf büyüktür."]
+]
+},
+"get-liability-insurance": {
+"title": "Sorumluluk sigortası yaptır",
+"intro": "Şahsi sorumluluk sigortası (Haftpflichtversicherung), başkalarına veya mallarına verdiğiniz zararları karşılar. Almanya'daki en ucuz ve en yararlı özel sigortadır. Kiracıların ve hanelerin çoğunda vardır.",
+"overview": {
+"time": "Çevrimiçi 5 ila 10 dakika.",
+"cost": "Aylık prim sağlayıcıya ve teminat düzeyine göre değişir. Birkaç sigortacıdan teklif alıp karşılaştırın.",
+"process": "Birkaç sigortacının tekliflerini karşılaştırın. Birkaç milyon euro teminatlı bir poliçe seçin. İlk ayı çevrimiçi ödeyin.",
+"why": "Alman yasaları, verdiğiniz zararlardan tutar sınırı olmadan sizi şahsen sorumlu tutar. Tek bir kaza çok yüksek faturalara yol açabilir. Sorumluluk sigortası bunu karşılar."
+},
+"steps": [
+["Birkaç sigortacının tekliflerini karşılaştırın", "Bir karşılaştırma sitesi kullanın veya birkaç büyük sigortacıyı doğrudan kontrol edin. Aylık prime, teminat tutarına ve nelerin dahil olduğuna bakın. Poliçelerin çoğu küçük bir aylık ücrettir."],
+["Birkaç milyon euro teminatlı bir poliçe seçin", "En az 5 milyon EUR şahsi sorumluluk teminatı hedefleyin. 1 milyon EUR ile 10 milyon EUR arasındaki prim farkı küçüktür. Daha yüksek teminat sizi en kötü senaryodaki faturalardan korur."],
+["Yararlı ek teminatlar ekleyin", "Poliçenin Mietsachschaden (kiralık eşyaya verilen zarar) ve Schlüsselverlust (anahtar kaybı) teminatlarını içerdiğinden emin olun. Bir binanın anahtar takımını teminat olmadan yenilemek çok pahalı olabilir."],
+["Çevrimiçi kaydolun", "Başvuruyu adınız, adresiniz ve banka IBAN'ınızla doldurun. Poliçelerin çoğu ilk ayı ödediğiniz gün aktifleşir. Poliçe PDF'ini kaydedin."],
+["Kanıtı ev sahibinizle paylaşın", "Birçok ev sahibi sorumluluk sigortası kanıtı ister. Poliçe onayını onlara gönderin. Belgeyi diğer kira evraklarınızla birlikte saklayın."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Almanya'da neredeyse herkesin Haftpflichtversicherung'u vardır. Ev sahipleri çoğu zaman kanıt ister. Maliyeti düşüktür ve teminat, birinin malına zarar verirseniz sizi çok yüksek faturalardan korur."],
+["Haftpflicht yasal olarak zorunlu mu, yoksa yalnızca şiddetle mi tavsiye ediliyor?", "Çoğu kişi için yasal olarak zorunlu değildir. Ama ev sahipleri, okullar ve işverenler çoğu zaman kanıt ister. Teminat geniş ve maliyet düşük olduğu için Alman hanelerinin çoğunda vardır."],
+["Poliçemin Schlüsselverlust (anahtar kaybı) içermesi gerekir mi?", "Evet, özellikle kiracıysanız. Apartman anahtarlarınızı kaybederseniz ev sahibi tüm kilit sisteminin değiştirilmesinin bedelini sizden isteyebilir. Bu, teminat olmadan çok pahalı olabilir."],
+["Teminat bu kadar yüksekken sorumluluk sigortası nasıl bu kadar ucuz?", "Taleplerin çoğu küçüktür (kırılan bir telefon, dizüstü bilgisayara dökülen kahve). Çok büyük talepler nadirdir. Sigortacılar riski milyonlarca poliçeye yayar, bu da fiyatları düşük tutar."]
+]
+},
+"receive-steuer-id": {
+"title": "Steuer-ID'ni al",
+"intro": "Steuer-ID, ömür boyu geçerli Alman vergi numaranızdır. Anmeldung'den 2 ila 4 hafta sonra otomatik olarak düzenlenir. Kayıtlı adresinize posta ile gelir. İşvereninizin bordro işlemleri için buna ihtiyacı vardır.",
+"overview": {
+"time": "Anmeldung'den 2 ila 4 hafta sonra. Otomatik olarak posta ile gönderilir.",
+"cost": "Ücretsiz",
+"why": "Vergi kimlik numaranız (Steuer-ID) tüm vergi işleriniz için ömür boyu geçerli bir numaradır. İşverenler bu olmadan bordro işlemi yapamaz. Burslar ve serbest çalışma ödemeleri de bunu gerektirir."
+},
+"steps": [
+["Anmeldung'den sonra mektubu bekleyin", "Bundeszentralamt für Steuern (Federal Merkezi Vergi Dairesi), Steuer-ID'nizi Anmeldung'den 2 ila 4 hafta sonra otomatik olarak gönderir. Kayıtlı adresinize posta ile gelir. Mektup sadedir ve kolayca gözden kaçabilir."],
+["Aldığınız her mektubu kontrol edin", "Steuer-ID mektubu sıradan bir posta gibi görünür. Kayıtlı adresinize gelen her zarfı kontrol edin. Numara 11 hanelidir ve Steueridentifikationsnummer olarak etiketlenmiştir."],
+["Numarayı güvenli şekilde saklayın", "Steuer-ID'yi şifre yöneticinizde ve kâğıt bir dosyada saklayın. Numara ömür boyu geçerlidir. Almanya'daki her iş, burs ve vergi beyannamesi için kullanacaksınız."],
+["Hemen işvereninize verin", "Steuer-ID'yi geldiği gün insan kaynaklarına verin. Bu olmadan ilk maaş bordronuz 6. vergi sınıfından (en yüksek oran) vergilendirilir. Fazla ödenen vergi daha sonra iade edilir, ama ilk günden doğru oran daha kolaydır."],
+["Gelmezse bir kopya isteyin", "4 hafta geçtiği halde mektup gelmezse Bundeszentralamt für Steuern web sitesinden bir kopya isteyin. Çevrimiçi formu (Mitteilung der Steueridentifikationsnummer) kullanın. Yeni mektup 2 ila 4 hafta içinde gelir."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Anmeldung'den sonra vergi dairesi otomatik olarak bir Steuer-ID düzenler. Her çalışan, burs alan ve serbest çalışan buna ihtiyaç duyar. Bu olmadan işverenler bordro işleminizi yapamaz."],
+["4 hafta geçti ve Steuer-ID'm gelmediyse ne olur?", "Yerel Finanzamt'ınızı veya Bundeszentralamt für Steuern'ü arayın. Numarayı size doğrudan gönderebilirler. Her zaman önce postanızı ve okunmamış mektupları kontrol edin."],
+["İşverenim Steuer-ID gelmeden bana maaş ödeyebilir mi?", "Evet, ama en yüksek oran olan 6. vergi sınıfından vergilendirilirsiniz. Steuer-ID'yi verdiğinizde fazla ödenen vergi bir sonraki maaş bordronuzda veya yıllık vergi beyannamenizde iade edilir."],
+["Asıl mektubu kaybedersem yenisini nereden alırım?", "Bundeszentralamt für Steuern web sitesinden bir kopya isteyin. Çevrimiçi formu (Mitteilung der Steueridentifikationsnummer) kullanın. Yeni mektup 2 ila 4 hafta içinde gelir."]
+]
+},
+"start-german-classes": {
+"title": "Almanca kursuna başla",
+"intro": "Almanca kursları iş, eğitim veya günlük hayat için ihtiyacınız olan dil seviyesine ulaşmanıza yardımcı olur. Integrationskurs, oturum izni sahipleri için en ucuz seçenektir. Özel okullar ve VHS daha hızlı yoğun kurslar sunar.",
+"overview": {
+"time": "Integrationskurs 600 saatlik dersle 6 ila 12 ay sürer. Özel yoğun kurslar 3 ila 6 ay sürebilir.",
+"cost": "Berechtigungsschein (katılım hakkı belgesi) varsa Integrationskurs büyük ölçüde sübvansiyonludur. Özel okullar ve VHS seviye başına tam kurs ücreti alır. Güncel fiyatları bamf.de'den veya doğrudan okuldan kontrol edin.",
+"process": "Seviye tespit sınavına girin. Tanınmış bir kurum (BAMF listesi) üzerinden kaydolun. Ausländerbehörde'nize ücret indirimi için başvurun.",
+"why": "Almanca bilgisi işe, süresiz oturuma ve vatandaşlığa giden yolu hızlandırır. Masrafın çoğunu devlet karşıladığı için Integrationskurs en ucuz yoldur."
+},
+"steps": [
+["Seviye tespit sınavına girin", "Okulların çoğu ve Integrationskurs, seviyenizi belirlemek için ücretsiz bir seviye tespit sınavı kullanır. Sınav yaklaşık 30 dakika sürer. Sizi doğru sınıfa (A1 ila C1) yerleştirir."],
+["Integrationskurs katılım belgesi için başvurun", "Oturum izninizi teslim alırken Ausländerbehörde'den bir Berechtigungsschein isteyin. Bu belge saat başı maliyeti önemli ölçüde düşürür. Sosyal yardım alanlar veya mülteciler genellikle hiç ödemez."],
+["Tanınmış bir kurum seçin", "Yakınınızdaki onaylı Integrationskurs kurumlarını bulmak için bamf.de'deki BAMF listesini kullanın. VHS (Volkshochschule, halk eğitim merkezi) ve üniversitelerin Sprachenzentrum'ları da kurs düzenler. Programı, yoğunluğu ve fiyatı karşılaştırın."],
+["Kaydolun ve ücretleri ödeyin", "Katılım belgeniz, pasaportunuz ve oturum izninizle okula kaydolun. Özel okullar ve VHS seviye başına tam kurs ücreti alır. Güncel fiyatları bamf.de'den veya doğrudan okuldan kontrol edin."],
+["Ders dışında pratik yapın", "Yaklaşık 6 ila 9 aylık düzenli çalışma sizi B1 seviyesine getirir. Yerel halkla veya tandem partnerlerle konuşma pratiği bunu hızlandırır. B1 günlük hayat ve vatandaşlık sınavı için yeterlidir."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Almanca çoğu iş ve süresiz oturum için gereklidir. Kurslara erken başlamak uyumunuzu hızlandırır. Integrationskurs yeni gelenler için en uygun fiyatlı seçenektir."],
+["Integrationskurs gerçekten sübvansiyonlu mu, gerçek maliyet ne?", "Berechtigungsschein ile saat başı maliyet önemli ölçüde düşer. Sosyal yardım alanlar veya mülteciler genellikle hiç ödemez. Belge olmadan saat başı tam ücreti ödersiniz. Güncel fiyatlar için bamf.de'ye bakın."],
+["Integrationskurs'a başlamadan önce oturum izni gerekir mi?", "Evet. Integrationskurs yalnızca Alman oturum izni olanlara açıktır. Diğer kurslara (VHS, özel okullar) oturum izni olmadan katılabilirsiniz, ama tam ücretle."],
+["Almanca sohbet edebilmem ne kadar sürer?", "B1 seviyesine ulaşmak için yaklaşık 6 ila 9 aylık düzenli çalışma. B1 günlük sohbetler, basit iş görevleri ve vatandaşlık sınavı için yeterlidir. Ders dışında konuşma pratiği bunu hızlandırır."]
+]
+},
+"convert-driving-license": {
+"title": "Ehliyetini dönüştür",
+"intro": "Yabancı sürücü belgeleri adresinizi kaydettirdikten sonra 6 ay geçerlidir. Araç kullanmaya devam etmek için Alman ehliyetine dönüştürmeniz gerekir. Dönüştürme kuralları ülkeye (ve ABD'de eyalete) göre değişir. Bazı ehliyetler doğrudan değiştirilir, bazıları yazılı sınav, bazıları hem yazılı hem direksiyon sınavı gerektirir. Yerel Führerscheinstelle'nize danışın.",
+"overview": {
+"time": "Randevu 30 dakikadır. İşlem 1 ila 2 hafta sürer. Gerekirse teorik ve direksiyon sınavları birkaç ay ekler.",
+"cost": "Ücretler yere ve dönüştürme türüne göre değişir. AB ehliyetlerinin değiştirilmesi genellikle ücretsizdir. Sınav gerektiren dönüştürmeler daha pahalıdır. Yerel Führerscheinstelle'nize danışın.",
+"process": "Yerel Führerscheinstelle'nizden randevu alın. Yabancı ehliyetinizi, pasaportunuzu, biyometrik fotoğrafınızı ve Anmeldebestätigung'inizi getirin.",
+"why": "Yabancı ehliyetiniz Almanya'da adresinizi kaydettirdikten 6 ay sonra geçerliliğini yitirir. Araç kullanmaya devam etmek için onu dönüştürmeniz veya Alman ehliyeti almanız gerekir."
+},
+"steps": [
+["Ülkeniz için geçerli kuralları kontrol edin", "Dönüştürme kuralları ülkeye ve ABD'de eyalete göre değişir. Bazıları sınavsız değiştirilir, bazıları yazılı sınav, bazıları ikisini de gerektirir. Geçerli kurallar için yerel Führerscheinstelle'nize danışın."],
+["Führerscheinstelle'den randevu alın", "Yerel Führerscheinstelle'nizi şehir portalınız üzerinden bulun. Çevrimiçi veya telefonla randevu alın. Bekleme süreleri şehre göre değişir."],
+["Belgelerinizi toplayın", "Yabancı ehliyetinize, pasaportunuza, biyometrik fotoğrafınıza ve Anmeldebestätigung'inize ihtiyacınız var. Bazı durumlarda resmi tercüme de gerekir. Führerscheinstelle kesin şartları listeler."],
+["Gereken sınavlara girin", "Ülkeniz teorik veya direksiyon sınavı gerektiriyorsa bir sürücü kursuna kaydolun. Sınavlar genellikle Almancadır. Teorik sınav için tercüme desteği mevcut olabilir."],
+["Alman ehliyetinizi teslim alın", "Sınavlar tamamlandıktan sonra işlem 1 ila 2 hafta sürer. Alman ehliyeti B sınıfı için 15 yıl geçerlidir. Karşılığında yabancı ehliyetinizi teslim edersiniz."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Yabancı sürücü belgeniz, adresinizi kaydettirdikten sonra yalnızca 6 ay geçerlidir. Bundan sonra yasal olarak araç kullanamazsınız. Dönüştürme, onu Alman ehliyetiyle değiştirir."],
+["Dönüştürmek için teorik ve direksiyon sınavlarına yeniden girmem gerekir mi?", "Ülkenize ve (ABD'liler için) eyaletinize bağlıdır. AB ehliyetleri sınavsız dönüştürülür. Bazı ülkeler yalnızca evrakla tam dönüşüm alır. Bazıları yazılı sınav gerektirir. Bazıları yazılı ve direksiyon sınavı gerektirir. Yerel Führerscheinstelle'nize danışın."],
+["Ehliyetime uygulanan kuralları nasıl öğrenirim?", "Almanya'daki ilçenizin Führerscheinstelle'si güncel kurallara sahiptir. Ehliyetinizi götürün ve dönüştürme prosedürünü sorun. Kurallar değişebilir; bu yüzden bir arkadaşınızın farklı bir yıl veya eyaletteki deneyimine güvenmeyin."],
+["6 aylık sürenin dolmasından sonra araç kullanırsam ne olur?", "Ehliyetsiz araç kullanmak sayılır. Para cezaları, sicilinize ceza puanları ve olası cezai kovuşturmayla karşılaşırsınız. Sigortanız hiçbir kazayı karşılamaz."]
+]
+}
+}
+}

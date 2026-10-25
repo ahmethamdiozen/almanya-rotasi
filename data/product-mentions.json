@@ -1,0 +1,324 @@
+{
+ "not": "Kaynakta Expatrio ürünlerine/özelliklerine açıkça yönlendiren yerler. Çeviride \"ör. Expatrio\" gibi nötr bir dille verildi; upsellModule alanları kullanılmadı.",
+ "toplam": 37,
+ "kayitlar": [
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch1_get_ready/confirm-funds-blocked-account",
+   "yer": "SSS 2",
+   "ifadeler": [
+    "we keep it up to date"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch1_get_ready/research-universities",
+   "yer": "giriş",
+   "ifadeler": [
+    "Studybuddy",
+    "Wishlist"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch1_get_ready/research-universities",
+   "yer": "süreç",
+   "ifadeler": [
+    "Studybuddy"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch1_get_ready/research-universities",
+   "yer": "adım 1",
+   "ifadeler": [
+    "Studybuddy",
+    "Wishlist"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch1_get_ready/research-universities",
+   "yer": "SSS 3",
+   "ifadeler": [
+    "Studybuddy",
+    "Wishlist"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch1_get_ready/prepare-scholarship-docs",
+   "yer": "adım 1",
+   "ifadeler": [
+    "expatrio"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch2_apply/shortlist-programs",
+   "yer": "giriş",
+   "ifadeler": [
+    "Studybuddy",
+    "Wishlist"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch2_apply/shortlist-programs",
+   "yer": "süreç",
+   "ifadeler": [
+    "Studybuddy",
+    "Wishlist"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch2_apply/shortlist-programs",
+   "yer": "adım 1",
+   "ifadeler": [
+    "Studybuddy",
+    "Wishlist"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch2_apply/accept-admission-offer",
+   "yer": "adım 3",
+   "ifadeler": [
+    "Expatrio"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch2_apply/accept-admission-offer",
+   "yer": "SSS 4",
+   "ifadeler": [
+    "Expatrio"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch3_get_visa/get-travel-insurance",
+   "yer": "adım 2",
+   "ifadeler": [
+    "Expatrio",
+    "Value Package"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch3_get_visa/get-travel-insurance",
+   "yer": "SSS 3",
+   "ifadeler": [
+    "Expatrio",
+    "Value Package"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch3_get_visa/open-blocked-account",
+   "yer": "süreç",
+   "ifadeler": [
+    "Expatrio"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch3_get_visa/open-blocked-account",
+   "yer": "adım 1",
+   "ifadeler": [
+    "expatrio",
+    "Expatrio",
+    "Value Package"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch3_get_visa/open-blocked-account",
+   "yer": "adım 4",
+   "ifadeler": [
+    "Expatrio"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch3_get_visa/open-blocked-account",
+   "yer": "SSS 2",
+   "ifadeler": [
+    "Expatrio",
+    "Value Package"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch3_get_visa/pre-register-insurer",
+   "yer": "süreç",
+   "ifadeler": [
+    "Expatrio"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch3_get_visa/pre-register-insurer",
+   "yer": "neden",
+   "ifadeler": [
+    "Expatrio",
+    "Value Package"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch3_get_visa/pre-register-insurer",
+   "yer": "adım 1",
+   "ifadeler": [
+    "Expatrio"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch3_get_visa/pre-register-insurer",
+   "yer": "SSS 2",
+   "ifadeler": [
+    "Expatrio"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch5_settle_in/activate-health-insurance",
+   "yer": "adım 2",
+   "ifadeler": [
+    "Expatrio",
+    "Value Package"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch5_settle_in/activate-blocked-account-ch5",
+   "yer": "adım 2",
+   "ifadeler": [
+    "Expatrio"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch5_settle_in/open-bank-account",
+   "yer": "giriş",
+   "ifadeler": [
+    "Expatrio",
+    "Value Package"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch5_settle_in/open-bank-account",
+   "yer": "adım 1",
+   "ifadeler": [
+    "Expatrio",
+    "Value Package"
+   ]
+  },
+  {
+   "bölüm": "Yol Haritası",
+   "sayfa": "ch5_settle_in/open-bank-account",
+   "yer": "SSS 4",
+   "ifadeler": [
+    "Expatrio",
+    "Value Package"
+   ]
+  },
+  {
+   "bölüm": "Rehberler",
+   "sayfa": "general/leaving-germany",
+   "yer": "satır 92",
+   "ifadeler": [
+    "Expatrio"
+   ]
+  },
+  {
+   "bölüm": "Rehberler",
+   "sayfa": "visas/german-student-visa",
+   "yer": "satır 73",
+   "ifadeler": [
+    "Expatrio"
+   ]
+  },
+  {
+   "bölüm": "Rehberler",
+   "sayfa": "studying/best-universities-germany",
+   "yer": "satır 118",
+   "ifadeler": [
+    "expatrio",
+    "Program Finder",
+    "study-finder"
+   ]
+  },
+  {
+   "bölüm": "Rehberler",
+   "sayfa": "studying/how-to-apply-german-university",
+   "yer": "satır 18",
+   "ifadeler": [
+    "expatrio",
+    "Program Finder",
+    "study-finder"
+   ]
+  },
+  {
+   "bölüm": "Rehberler",
+   "sayfa": "finance/blocked-account-germany",
+   "yer": "satır 39",
+   "ifadeler": [
+    "Expatrio"
+   ]
+  },
+  {
+   "bölüm": "Rehberler",
+   "sayfa": "finance/blocked-account-germany",
+   "yer": "satır 43",
+   "ifadeler": [
+    "Expatrio"
+   ]
+  },
+  {
+   "bölüm": "Rehberler",
+   "sayfa": "finance/blocked-account-germany",
+   "yer": "satır 86",
+   "ifadeler": [
+    "Expatrio"
+   ]
+  },
+  {
+   "bölüm": "Rehberler",
+   "sayfa": "finance/opening-bank-account-germany",
+   "yer": "satır 21",
+   "ifadeler": [
+    "Expatrio"
+   ]
+  },
+  {
+   "bölüm": "Rehberler",
+   "sayfa": "finance/opening-bank-account-germany",
+   "yer": "satır 23",
+   "ifadeler": [
+    "Expatrio"
+   ]
+  },
+  {
+   "bölüm": "Rehberler",
+   "sayfa": "finance/opening-bank-account-germany",
+   "yer": "satır 82",
+   "ifadeler": [
+    "Expatrio"
+   ]
+  },
+  {
+   "bölüm": "Rehberler",
+   "sayfa": "finance/scholarships-germany",
+   "yer": "satır 27",
+   "ifadeler": [
+    "expatrio",
+    "Program Finder",
+    "study-finder"
+   ]
+  }
+ ]
+}

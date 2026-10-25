@@ -1,0 +1,122 @@
+{
+"id": "ch4_prepare_to_move",
+"title": "Taşınmaya Hazırlan",
+"description": "Vize onaylandı. Şimdi sıra lojistikte: uçuş, ilk haftalar için konaklama ve ilk gün yanınızda getireceğiniz belgeler.",
+"tasks": {
+"book-flight-ch4": {
+"title": "Almanya'ya uçak bileti al",
+"intro": "Uçak biletinizi büyükelçilik vizenizi onayladıktan sonra alırsınız. Vize düzenlenme tarihinden itibaren 90 gün geçerlidir; bu yüzden Almanya'ya bu süre içinde girmelisiniz. Genellikle en iyi fiyatlar Frankfurt, Münih ve Amsterdam'dadır.",
+"overview": {
+"time": "Bilet almak 30 dakika. Vize onayından sonraki 90 gün içinde uçmayı planlayın.",
+"cost": "Uçuş maliyetleri kalkış noktasına ve sezona göre değişir. Fiyatları havayolları ve tarihler arasında karşılaştırın.",
+"process": "Fiyatları Skyscanner veya Google Flights'ta karşılaştırın. Esnek bir bilet alın. En iyi fiyatlar için Frankfurt, Münih veya Amsterdam aktarmalı uçun.",
+"why": "Vizeniz düzenlendiği tarihten itibaren 90 gün geçerlidir. Almanya'ya bu süre içinde girmelisiniz, aksi halde vize kullanılmadan sona erer."
+},
+"steps": [
+["Önce vize onayını teyit edin", "Pasaportunuzda vize etiketi olana kadar bekleyin. Başlangıç ve bitiş tarihlerini kontrol edin. Vize düzenlenme tarihinden itibaren 90 gün geçerlidir. Onaydan önce bilet almak bilet bedelini kaybetme riski taşır."],
+["Fiyatları ve rotaları karşılaştırın", "Skyscanner veya Google Flights'ta kalkış noktanızdan Frankfurt, Münih veya Berlin'e arama yapın. Uzun mesafe uçuşlarda Frankfurt genellikle en ucuzudur. Amsterdam veya İstanbul aktarmaları çoğu zaman para kazandırır."],
+["Esnek bir bilet seçin", "Ücretsiz tarih değişikliği olan bir bilet seçin. Vize damgaları ve belge teslimleri bir hafta gecikebilir. Esnek bir bilet, son günlerde planlarınız değişirse sizi korur."],
+["Varışınızı önemli tarihlerden önceye ayarlayın", "Kursunuzun veya işinizin başlamasından 2 ila 3 hafta önce inin. Anmeldung, banka hesabı ve oturum izni randevusu için bu paya ihtiyacınız var. Hafta sonları veya resmi tatillerde varmaktan kaçının."],
+["Bileti alın ve uçuş planınızı kaydedin", "Mümkünse seyahat koruması sağlayan bir kartla ödeyin. E-biletinizi PDF olarak kaydedin ve kendinize e-postayla gönderin. Varışta sınır kontrolü için bir kopya yazdırın."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Almanya'ya girmek için vizeye ihtiyacınız var ve vize düzenlenme tarihinden itibaren yalnızca 90 gün geçerlidir. Uçuşunuzu bu süre içinde ayarlamalısınız, aksi halde vize sona erer."],
+["Bilet almadan önce neden vize onayını beklemeliyim?", "Vize kararları garanti değildir. Vizeniz gecikirse veya reddedilirse bilet bedelini kaybedersiniz. Havayollarının çoğu bilet ücretini değil, yalnızca vergileri iade eder."],
+["90 günlük vize giriş süresi ne kadar?", "Görüşme tarihinizden değil, büyükelçiliğin vizenizi damgaladığı tarihten itibaren 90 gün. Vize etiketindeki başlangıç tarihini kontrol edin. 90 günden sonra yeniden başvurmanız gerekir."],
+["Almanya'ya girişte en ucuz havalimanı hangisi?", "En büyük aktarma merkezi olduğu için uzun mesafede giriş için genellikle en ucuzu Frankfurt'tur. Münih ve Berlin uzun mesafede daha pahalı olma eğilimindedir. Avrupa içinden aktarmalarda Berlin çoğu zaman daha ucuzdur."]
+]
+},
+"prepare-docs-folder-ch4": {
+"title": "Belge dosyanı hazırla",
+"intro": "Almanya'da ihtiyacınız olacak her belgenin aslını ve 2 kopyasını içeren tek bir dosya hazırlarsınız. Bu dosya Anmeldung, banka hesabı, sigorta ve oturum iznini kapsar. Bir bulut yedeği, fiziksel dosya kaybolursa sizi korur.",
+"overview": {
+"time": "2 ila 3 saat",
+"cost": "Kopyalar ve bir dosya için küçük, tek seferlik bir masraf",
+"process": "Her belgenin 2 kopyasını yazdırın. Şeffaf poşetlerde kategoriye göre sıralayın. Asılları kopyalardan ayrı tutun ve bir bulut yedeği ekleyin.",
+"why": "Anmeldung, oturum izni, banka hesabı ve sigorta aynı belgeleri ister. Düzenli bir dosyanız olması, randevuları kaçırmaktan veya eve geri dönmekten sizi kurtarır."
+},
+"steps": [
+["İhtiyacınız olan her belgeyi listeleyin", "Her adımın neye ihtiyaç duyduğunu yazın. Pasaport, vize, kabul veya iş mektubu, APS veya apostilli belgeler, bloke hesap kanıtı, sağlık sigortası kanıtı ve biyometrik fotoğraflar. Bu liste sizin kontrol listeniz olur."],
+["Her birinin 2 kopyasını yazdırın", "Yerel bir fotokopi dükkânı veya evdeki yazıcınızı kullanın. Her Alman dairesi 1 kopya alıkoyar ve aslını iade eder. Yedek kopya, bir memur fazladan isterse sizin yedeğinizdir. Asılları ayrı tutun."],
+["4 bölüme ayırın", "Şeffaf poşetli bir klasör veya dosya kullanın. A bölümü: pasaport ve vize. B bölümü: konut ve Anmeldung. C bölümü: eğitim veya iş. D bölümü: para ve sigorta. Her bölümü net şekilde etiketleyin."],
+["Bir bulut yedeği oluşturun", "Her belgeyi tarayın veya fotoğraflayın. Google Drive, Dropbox veya iCloud'a yükleyin. Alman daireleri ekran görüntülerini nadiren kabul eder, ama yedek, yolculuk sırasında fiziksel dosyayı kaybederseniz sizi korur."],
+["Dosyayı kabin bagajınıza koyun", "Asıl belgeleri asla bagaja vermeyin. Kaybolan bavulların geri gelmesi haftalar sürebilir ve asıllar olmadan Anmeldung yapamaz veya banka hesabı açamazsınız. Dosyayı uçakta yanınızda tutun."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Alman bürokrasisindeki adımların neredeyse hepsi aynı belgeleri ister. Düzenli bir dosya, eksik evrak için eve dönmeden Anmeldung, banka hesabı, sigorta ve oturum izni işlemlerini yapabilmeniz demektir."],
+["Her belgeden kaç kopya getirmeliyim?", "Her önemli belgenin aslına ek olarak 2 kopya. Her daire 1 kopya alıkoyar ve aslını iade eder. Yedek kopya, bir memur fazladan isterse sizin yedeğinizdir."],
+["Anmeldung, banka ve oturum izni için asgari olarak neye ihtiyacım var?", "Anmeldung için pasaport ve Wohnungsgeberbestätigung gerekir. Banka için pasaport ve Anmeldebestätigung (adres kayıt onayı) gerekir. Oturum izni için bunların hepsine ek olarak sağlık sigortası, bloke hesap kanıtı ve kabul veya iş mektubu gerekir."],
+["Bulut kopyalarına mı güvenmeliyim, yoksa her zaman fiziksel asılları mı taşımalıyım?", "Fiziksel asılları taşıyın. Alman dairelerinin çoğu ekran görüntülerini veya bulut dosyalarının çıktılarını kabul etmez. Bulutu, fiziksel dosyayı kaybetmeniz ihtimaline karşı yedek olarak kullanın."]
+]
+},
+"book-temp-housing-ch4": {
+"title": "Geçici konaklama ayırt",
+"intro": "Geçici konaklama, kalıcı bir ev ararken ilk birkaç haftadaki eviniz olur. Adresinize 14 gün içinde kaydolmanız gerektiğinden Anmeldung'e izin veren sağlayıcıları arayın. En güvenli seçenekler Wunderflats ve Spotahome'dur.",
+"overview": {
+"time": "Arayıp ayırtmak 1 ila 2 hafta",
+"cost": "Maliyetler şehre göre büyük ölçüde değişir. En pahalısı büyük şehirlerdir. Ayırtmadan önce ilanları karşılaştırın.",
+"process": "Wunderflats, Spotahome veya HousingAnywhere'de arayın. “Anmeldung allowed” veya “registration possible” filtresini kullanın. Depozitoyu ödeyin, sözleşmeyi imzalayın.",
+"why": "Yalnızca uzun vadeli konaklamanız uçmadan önce kesinleşmediyse gereklidir. Zaten bir yurt odanız veya Anmeldung'e izin veren imzalı bir kira sözleşmeniz varsa bu adımı atlayın. Yoksa vardığınızda bir üssünüz olsun diye kayda izin veren kısa süreli bir daire ayırtın."
+},
+"steps": [
+["Varış şehrinizi seçin", "Şehri üniversitenize, işvereninize veya dil okulunuza göre seçin. Bürgeramt'a ve bankaya şahsen gideceğiniz için toplu taşımaya yakın kalın. Merkezi bir konum ilk haftalarda zaman kazandırır."],
+["Anmeldung'e uygun ilanları arayın", "Wunderflats, Spotahome veya HousingAnywhere kullanın. Anmeldung allowed veya registration possible filtresini seçin. Kayda izin vermeyen ilanları atlayın, çünkü yolculuğunuzdaki sonraki her adımı geciktirirler."],
+["İlanın gerçek olduğunu doğrulayın", "Yorumları, fotoğrafları ve ev sahibinin profilini kontrol edin. İmzalamadan önce asla özel bir banka hesabına para göndermeyin. Uluslararası kiracıları hedef alan dolandırıcılıklar, özellikle Facebook gruplarında yaygındır."],
+["4 ila 8 hafta için ayırtın", "En az 4 ila 8 hafta için rezervasyon yapın. Büyük şehirlerde kalıcı konut bulmak daha uzun sürebilir. Yalnızca platformun istediği kadarını ödeyin. Güvenilir platformların çoğu depozitoyu siz varana kadar tutar."],
+["Kira sözleşmesini kaydedin", "Sözleşmeyi ve ev sahibinin imzaladığı Wohnungsgeberbestätigung'i indirin. Anmeldung için ikisine de ihtiyacınız var. Uçmadan önce yedek olarak kendinize bir kopya e-postayla gönderin."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Almanya'da kalıcı konut bulmak ülke içinden 2 ila 8 hafta sürer. Vardığınız gün yaşayacak bir yere ve 14 gün içinde Anmeldung için bir adrese ihtiyacınız var."],
+["Uluslararası kiracıları hedef alan kira dolandırıcılıklarından nasıl kaçınırım?", "Facebook grupları yerine Wunderflats veya Spotahome gibi güvenilir platformlar kullanın. Sözleşme imzalamadan önce asla ödeme yapmayın. Fiyat piyasanın çok altındaysa neredeyse her zaman dolandırıcılıktır."],
+["Berlin veya Münih'te kalıcı konut bulmak için 3 ila 4 hafta yeterli mi?", "Çoğu zaman değil. Büyük şehirlerde arama çok daha uzun sürebilir. Özellikle üniversite girişlerinin talebi artırdığı sonbaharda geliyorsanız birkaç haftalık pay için geçici konaklama ayırtın."],
+["Depozitonun tamamını peşin mi ödemeliyim, yoksa bölmeli miyim?", "Yalnızca platformun istediği kadarını ödeyin. Güvenilir platformların çoğu depozitoyu siz varana kadar tutar. Anahtarları almadan önce asla özel bir banka hesabına doğrudan para göndermeyin."]
+]
+},
+"confirm-course-start": {
+"title": "Ders başlangıç tarihini teyit et",
+"intro": "Kursunuzun veya döneminizin ilk gününü teyit eder, ardından Anmeldung'inizi en az 1 hafta önceye denk getirirsiniz. Anmeldebestätigung (adres kayıt onayı) olmadan kayıt olamazsınız; kayıt olmadan da öğrenci kimliği alamaz veya sınavlara giremezsiniz.",
+"overview": {
+"time": "30 dakika",
+"cost": "Ücretsiz",
+"process": "Kesin ilk günü teyit etmek için okulunuza e-posta gönderin. Ardından Bürgeramt'ınızda en az 1 hafta önceki ilk boş Anmeldung randevusuna bakın.",
+"why": "Anmeldebestätigung olmadan üniversitenize veya dil kursunuza kayıt olamazsınız. Belgeyi almak ve kaydı tamamlamak için Anmeldung ile ders başlangıcı arasında yeterli gün olması gerekir."
+},
+"steps": [
+["Başlangıç tarihi için okulunuza e-posta gönderin", "Kayıt ofisinden veya uluslararası ofisten derslerin kesin ilk gününü isteyin. Zorunluysa oryantasyon haftasını da dahil edin. Yanıtı kaydedin; Ausländerbehörde'de göstermeniz gerekebilir."],
+["Bürgeramt randevu listenizi kontrol edin", "Şehrinizin Bürgeramt web sitesini açın. İlk boş Anmeldung randevusuna bakın. Berlin veya Münih'te bekleme 4 ila 6 hafta olabilir. Derslerin başlamasından en az 1 hafta önce bir randevu seçin."],
+["Varış tarihinizi planlayın", "Derslerden 2 ila 3 hafta önce Almanya'ya inin. Bu pay geçici konaklamayı, Anmeldung'i, banka hesabını ve belgelerin teslim alınmasını kapsar. Oryantasyonla aynı hafta varmaktan kaçının."],
+["Gecikme varsa oryantasyon birimine e-posta gönderin", "Anmeldung'iniz ilk günden sonraya denk gelirse kayıt ofisine e-posta gönderin. Kanıt olarak randevu onayınızı iletin. Çoğu okul zamanında kaydolmaya çalıştığınızı gösterirseniz geç kayda izin verir."],
+["Kayıt kanıtınızı saklayın", "Kayıt olduktan sonra öğrenci belgenizi (Immatrikulationsbescheinigung) indirin. Oturum izni randevusu, banka hesabınız ve sigortanızın aktifleştirilmesi için ona ihtiyacınız var."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Almanya'ya bir kurs veya dil programı için geliyorsunuz. Okulunuzun sizi kaydetmesi için Anmeldebestätigung'inize ihtiyacı var. Anmeldung randevusunu derslerin başlamasından önceye denk getirmelisiniz."],
+["Anmeldung neden derslerden önce yapılmalı?", "Üniversitelerin çoğu Anmeldebestätigung olmadan kayıt yaptırmanıza izin vermez. Kayıt yoksa öğrenci kimliği, kütüphane erişimi ve dönem bileti de yoktur. Bazı derslerde ilk haftadan sonra devam kaydı kapanır."],
+["Anmeldung randevum dönem başladıktan sonraysa ne olur?", "Kayıt ofisinize e-posta gönderin ve gecikmeyi açıklayın. Çoğu, randevu onayınızı gösterirseniz geç kayda izin verir. Oryantasyonu kaçırabilirsiniz ama yerinizi korursunuz."],
+["Resmi olarak kayıt olmadan derslere katılabilir miyim?", "Çoğu zaman evet, misafir olarak. Çoğu amfide kapıda kimlik kontrolü yapılmaz. Ancak kayıt tamamlanana kadar sınavlara giremez veya kredi alamazsınız; bu yüzden buna uzun süre güvenmeyin."]
+]
+},
+"pack": {
+"title": "Almanya için bavulunu hazırla",
+"intro": "Almanya'nın iklimine göre bavul hazırlarsınız (yazın 15 ila 25 santigrat derece, kışın -5 ila 5 santigrat derece). 2 ila 3 haftalık kıyafet, belgelerinizi, elektronik eşyalarınızı ve reçeteli ilaçlarınızı getirin. Nevresim, havlu ve hacimli eşyaları Almanya'da alın.",
+"overview": {
+"time": "1 ila 2 gün",
+"cost": "Ek bagaj ücretleri havayoluna göre değişir. Bavul hazırlamadan önce biletinizdeki bagaj hakkını kontrol edin.",
+"process": "Belgeleri ve elektronik eşyaları kabin bagajınıza koyun. Almanya'nın iklimine uygun 2 ila 3 haftalık kıyafet alın. Nevresimi ve hacimli eşyaları evde bırakın.",
+"why": "Belgelerinizin ve reçeteli ilaçlarınızın yanınızda olması gerekir, ama diğer şeylerin çoğu Almanya'da ucuza alınabilir. Fazla eşya almak, ek havayolu ücretleri ve daha zor bir yerleşme demektir."
+},
+"steps": [
+["Havayolu bagaj sınırlarınızı kontrol edin", "Biletinizdeki kabin ve kayıtlı bagaj hakkını okuyun. Bavullarınızı evde tartın. Havalimanındaki fazla bagaj ücretleri, önceden çevrimiçi ek bagaj almaktan çok daha yüksektir."],
+["Belgeleri kabin bagajınıza koyun", "Pasaportunuzu, vizenizi, kabul veya iş mektubunuzu, bloke hesap kanıtınızı, sigorta kanıtınızı ve apostilli belgelerinizi el bagajınıza koyun. Asılları asla bagaja vermeyin. Kaybolan bavulların geri gelmesi haftalar sürebilir."],
+["2 ila 3 haftalık kıyafet alın", "Almanya'nın iklimini hesaba katın. Yaz 15 ila 25 santigrat derece, kış -5 ila 5 derecedir. Kat kat giyilebilecek kıyafetler, su geçirmez bir mont ve sağlam ayakkabılar getirin. Daha hafif eşyalar alın ve mevsimlik kıyafetleri yerel olarak satın alın."],
+["Elektronik eşyaları ve reçeteli ilaçları getirin", "Dizüstü bilgisayarınızı, telefonunuzu, şarj aletlerinizi ve F tipi bir priz adaptörünü alın. Reçeteli ilaçlarınızdan 1 ila 3 aylık yanınızda bulundurun. Doktorunuzdan yanınızda getirmek üzere İngilizce yazılı bir reçete isteyin."],
+["Nevresimi ve hacimli eşyaları almayın", "Nevresim, havlu ve mutfak eşyalarını evde bırakın. IKEA, Lidl ve Aldi Almanya'da uygun fiyatlı alternatifler satar. Alman yatak ölçüleri çoğu ülkeden farklıdır; bu yüzden evden getirilen nevresimler nadiren uyar."]
+],
+"faqs": [
+["Bu adımı neden görüyorum?", "Önümüzdeki birkaç hafta içinde Almanya'ya uçuyorsunuz. Doğru şeyleri almak havayolu ücretlerinden tasarruf ettirir; yanlış şeyleri almak ise yerel olarak alabileceğiniz eşyaları ararken zaman kaybetmek demektir."],
+["Kendi nevresimimi mi getirmeliyim, yoksa Almanya'da mı almalıyım?", "Almanya'da alın. IKEA ve Lidl, Aldi gibi indirim marketleri uygun fiyatlı nevresim takımları satar. Nevresim bagajda ağır ve hacimlidir; Alman yatak ölçüleri de çoğu ülkeden farklıdır."],
+["Hangi belgeleri kargoyla göndermek yerine yanımda taşımalıyım?", "Pasaport, vize, kabul veya iş mektubu, bloke hesap kanıtı, sigorta kanıtı ve APS veya apostilli belgeler. Bunları kabin bagajınızda tutun. Kaybolan veya kargoya verilen asılların yenilenmesi haftalar sürebilir."],
+["Alman priz adaptörleri elektronik eşyalarım için evrensel mi?", "Almanya F tipi priz ve 230V elektrik kullanır. Dizüstü bilgisayar ve telefon şarj aletlerinin çoğu bir priz adaptörüyle sorunsuz çalışır. ABD'den getirilen saç kurutma makineleri ve mutfak aletleri çoğu zaman çalışmaz ve bozulabilir."]
+]
+}
+}
+}

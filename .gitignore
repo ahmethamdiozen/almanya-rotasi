@@ -1,0 +1,7 @@
+.DS_Store
+# Kaynak veri paketi (İngilizce ham içerik, ekran görüntüleri) yalnızca yerelde tutulur.
+/journey/
+/guides/
+/screenshots/
+CLAUDE_CODE_PROMPT.md
+SITE_STRUCTURE.md
